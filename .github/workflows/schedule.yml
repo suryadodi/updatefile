@@ -2,7 +2,8 @@ name: Update mst_category JSON
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
+    - cron: '0 0 * * *'
+  
 
 jobs:
   update-json:
