@@ -1,0 +1,34 @@
+[
+    {
+        "category": "SAREES",
+        "id": "f688dad7-7021-4076-a0fd-90653630dfec",
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740037228401-cropped-1740037228386.png",
+        "isdeleted": false,
+        "description": null,
+        "created_at": "2025-02-18T16:17:37.723091"
+    },
+    {
+        "category": "test",
+        "id": "cb408829-68e6-479b-b9b9-06cdf48a785d",
+        "image": null,
+        "isdeleted": true,
+        "description": null,
+        "created_at": "2025-02-18T16:16:21.706876"
+    },
+    {
+        "category": "test",
+        "id": "d9db20bf-5b85-4bd0-afa8-ad739ae50d1b",
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740045298803-cropped-1740045298734.png",
+        "isdeleted": true,
+        "description": null,
+        "created_at": "2025-02-20T09:55:05.551513"
+    },
+    {
+        "category": "testing",
+        "id": "c40c2a22-7bd1-4058-b55e-be2cf4fa5d4b",
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740045498558-cropped-1740045498550.png",
+        "isdeleted": false,
+        "description": null,
+        "created_at": "2025-02-20T09:58:22.222055"
+    }
+]
