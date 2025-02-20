@@ -2,8 +2,11 @@ name: Update mst_category JSON
 
 on:
   schedule:
-   
+    # Runs every 5 minutes
     - cron: '*/5 * * * *'
+
+permissions:
+  contents: write  # Allows the bot to push changes
 
 jobs:
   update-json:
@@ -33,6 +36,6 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add mst_category.json
         git commit -m "Update mst_category data for $(date +'%Y-%m-%d')"
-        git push
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
