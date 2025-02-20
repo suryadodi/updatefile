@@ -60,7 +60,7 @@ def is_new_record(record, existing_data):
             return False
     return True
 
-def update_json_file(filename='/Users/ksuryadodi/Development/python automation/updatefile/mst_category.json'):
+def update_json_file(filename='mst_category.json'):
     """Fetches new data from Hasura and updates the JSON file with new records."""
     existing_data = load_existing_data(filename)
     new_data = fetch_data_from_hasura()
