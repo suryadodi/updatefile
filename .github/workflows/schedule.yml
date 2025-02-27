@@ -1,4 +1,4 @@
-name: Update mst_category JSON
+name: Update mst_category and mst_sub_category JSON
 
 on:
   schedule:
@@ -29,12 +29,14 @@ jobs:
     - name: Run the script
       run: |
         python update_mst_category.py
+        python update_mst_sub_category.py
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add mst_category.json
+        git add mst_sub_category.json
         git commit -m "Update mst_category data for $(date +'%Y-%m-%d')"
         git push https://github.com/${{ github.repository }}.git HEAD:main
       env:
