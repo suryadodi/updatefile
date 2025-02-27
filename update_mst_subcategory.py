@@ -31,7 +31,7 @@ def fetch_data_from_hasura():
     """Fetches the latest data from the GraphQL API."""
     response = requests.post(url, json={"query": query}, headers=headers, verify=False)
     if response.status_code == 200:
-        return response.json().get('data', {}).get('mst_category', [])
+        return response.json().get('data', {}).get('mst_sub_category', [])
     else:
         raise Exception(f"Failed to fetch data: {response.status_code} - {response.text}")
 
