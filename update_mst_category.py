@@ -50,45 +50,34 @@ def load_existing_data(filename):
     else:
         return []
 
+def is_new_record(record, existing_data):
+    """Checks if a record is new based on the created_at timestamp."""
+    existing_timestamps = [item['created_at'] for item in existing_data]
+    record_timestamp = datetime.strptime(record['created_at'], '%Y-%m-%dT%H:%M:%S.%f')
+    for timestamp in existing_timestamps:
+        existing_timestamp = datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%f')
+        # Return False if the record's timestamp is older or equal to an existing record
+        if record_timestamp <= existing_timestamp:
+            return False
+    return True
+
 def update_json_file(filename='mst_category.json'):
-    """Fetches new data from Hasura and updates the JSON file based on created_at and updated_at timestamps."""
+    """Fetches new data from Hasura and updates the JSON file with new records."""
     existing_data = load_existing_data(filename)
     new_data = fetch_data_from_hasura()
 
+    # If the file is empty or non-existent, it will be populated with all fetched data
     if not existing_data:
-        # Save all data if the file is empty
         save_data_to_json(new_data, filename)
-        return
-
-    # Convert existing data into a dictionary for quick lookup by ID
-    existing_data_dict = {item['id']: item for item in existing_data}
-
-    updated_records = []
-    for record in new_data:
-        record_id = record['id']
-        record_created_at = datetime.strptime(record['created_at'], '%Y-%m-%dT%H:%M:%S.%f')
-        record_updated_at = datetime.strptime(record['updated_at'], '%Y-%m-%dT%H:%M:%S.%f')
-
-        if record_id in existing_data_dict:
-            existing_record = existing_data_dict[record_id]
-            existing_created_at = datetime.strptime(existing_record['created_at'], '%Y-%m-%dT%H:%M:%S.%f')
-            existing_updated_at = datetime.strptime(existing_record['updated_at'], '%Y-%m-%dT%H:%M:%S.%f')
-
-            # Update the record if created_at or updated_at is newer
-            if record_created_at > existing_created_at or record_updated_at > existing_updated_at:
-                existing_data_dict[record_id] = record
-                updated_records.append(record)
-        else:
-            # New record, add it
-            existing_data_dict[record_id] = record
-            updated_records.append(record)
-
-    if updated_records:
-        # Save the updated dictionary as a list
-        save_data_to_json(list(existing_data_dict.values()), filename)
-        print(f"Updated {len(updated_records)} records.")
     else:
-        print("No updates found.")
+        # Filter for new records based on the created_at timestamp
+        new_records = [record for record in new_data if is_new_record(record, existing_data)]
+        if new_records:
+            # Combine existing data with new records and save
+            updated_data = existing_data + new_records
+            save_data_to_json(updated_data, filename)
+        else:
+            print("No new records to add.")
 
 # Call the function to update the JSON file
 update_json_file()
