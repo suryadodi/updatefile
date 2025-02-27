@@ -18,7 +18,7 @@ query GetMstSubCategory {
 		description
 		image
 		sub_name
-		create_at
+		created_at
 		updated_at
 		category
 		
