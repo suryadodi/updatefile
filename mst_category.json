@@ -11,12 +11,12 @@
     },
     {
         "id": "a47aeea1-90bf-46be-8f5a-0f5b95eb1004",
-        "category": "testgit",
+        "category": "test",
         "image": null,
         "isdeleted": false,
         "shop_id": null,
         "description": null,
-        "updated_at": "2025-02-27T07:15:54.059728",
+        "updated_at": "2025-02-27T07:33:52.726191",
         "created_at": "2025-02-27T07:15:54.059728"
     }
 ]
