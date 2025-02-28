@@ -1,5 +1,64 @@
 [
     {
+        "featured_products": true,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": null,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "blue",
+                "price": "500",
+                "images": [
+                    "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740761438882-cropped-1740761438878.png"
+                ],
+                "stocks": "10",
+                "offered_price": "450"
+            },
+            {
+                "color": "red",
+                "price": "500",
+                "images": [
+                    "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740761502577-cropped-1740761502573.png"
+                ],
+                "stocks": "10",
+                "offered_price": "400"
+            },
+            {
+                "color": "brown",
+                "price": "600",
+                "images": [
+                    "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740761528154-cropped-1740761528150.png"
+                ],
+                "stocks": "10"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": null,
+        "image": null,
+        "name": "Test",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-02-28T16:52:20.261571",
+        "category": "f688dad7-7021-4076-a0fd-90653630dfec",
+        "id": "3c20c747-8502-427a-b2bc-bee63bd132d3",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "73a7a44f-88b6-4a87-9d49-eb2d801c4462"
+    },
+    {
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
