@@ -1,0 +1,16 @@
+[
+    {
+        "isdeleted": false,
+        "options": [
+            "blue",
+            "red",
+            "brown"
+        ],
+        "name": "color",
+        "created_at": "2025-02-27T06:35:30.355919",
+        "updated_at": "2025-02-28T16:49:50.411495",
+        "categories": null,
+        "id": "f8782332-d804-48e1-93b8-5bb6961b5dd0",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    }
+]
