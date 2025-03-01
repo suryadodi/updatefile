@@ -2,7 +2,7 @@ name: Update mst_category and mst_sub_category JSON
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 0,12 * * *'
   
 
 jobs:
