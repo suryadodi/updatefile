@@ -44,6 +44,7 @@ jobs:
         python update_mst_userAddress.py
         python update_mst_users.py
         python update_mst_wishlist.py
+        python update_mst_wishlist_collections.py
 
     - name: Commit and push changes
       run: |
@@ -65,6 +66,7 @@ jobs:
         git add mst_useraddress.json
         git add mst_users.json
         git add mst_wishlist.json
+        git add mst_wishlist_collections.json
         git commit -m "Update mst_category data for $(date +'%Y-%m-%d')"
         git push https://github.com/${{ github.repository }}.git HEAD:main
       env:
