@@ -6,24 +6,24 @@
         "offered_price": null,
         "original_price": null,
         "price": null,
-        "quantity": 2,
+        "quantity": 1,
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "size": "m",
-            "color": "red",
+            "size": "s",
+            "color": "blue",
             "price": "500",
             "images": [
-                "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740761502577-cropped-1740761502573.png"
+                "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740761438882-cropped-1740761438878.png"
             ],
-            "stocks": "10",
-            "offered_price": "400"
+            "stocks": "1",
+            "offered_price": "450"
         },
         "image": null,
         "product_name": "Test",
-        "created_at": "2025-03-01T08:30:25.056237",
-        "updated_at": "2025-03-01T08:30:35.295763",
-        "id": "e3e9b5ac-358c-4aca-bfe8-b32bbf397758",
+        "created_at": "2025-03-01T08:44:51.889542",
+        "updated_at": "2025-03-01T08:44:51.889542",
+        "id": "1518f838-1a3b-4767-af8d-1137cbfb189c",
         "product_id": "3c20c747-8502-427a-b2bc-bee63bd132d3",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46"
