@@ -12,25 +12,42 @@ headers = {
 
 
 query = """
-query MyQuery {
-  mst_category {
-    id
-    category
-    image
-    isdeleted
-    shop_id
-    description
-    updated_at
-    created_at
+query GetMstBookings {
+  mst_bookings {
+    coupon_used
+		delivery
+		total
+		bill_products
+		cancel_reason
+		coupon_code
+		payment_type
+		status
+		tax
+		time
+		tracking_id
+		tracking_image
+		accepted_at
+		created_at
+		delivered_at
+		dispatched_at
+		inTransit_at
+		rejected_at
+		updated_at
+		date
+		address
+		customer
+		id
+		shop_id
   }
 }
+    
 """
 
 def fetch_data_from_hasura():
     """Fetches the latest data from the GraphQL API."""
     response = requests.post(url, json={"query": query}, headers=headers, verify=False)
     if response.status_code == 200:
-        return response.json().get('data', {}).get('mst_category', [])
+        return response.json().get('data', {}).get('mst_bookings', [])
     else:
         raise Exception(f"Failed to fetch data: {response.status_code} - {response.text}")
 
@@ -48,7 +65,7 @@ def load_existing_data(filename):
     else:
         return []
 
-def update_json_file(filename='mst_category.json'):
+def update_json_file(filename='mst_bookings.json'):
     """Updates the JSON file based on created_at and updated_at timestamps."""
     
     existing_data = load_existing_data(filename)
