@@ -8490,5 +8490,32 @@
         "id": "24d6e59f-792f-44fc-9bf2-fdbdac8451ad",
         "product": "7d23df84-11e1-4886-8bfa-1b7f0d6bf118",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 1,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "pink",
+            "price": "500",
+            "images": [
+                "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740824433060-cropped-1740824433054.png"
+            ],
+            "stocks": "10",
+            "offered_price": "1"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-01T11:47:35.821373",
+        "updated_at": "2025-03-01T11:47:35.821373",
+        "booking_id": "046e63dd-b5fc-40c6-887a-454d34a2e4aa",
+        "id": "e7ea09e2-3fb6-4204-b1cd-6614df3fc207",
+        "product": "3c20c747-8502-427a-b2bc-bee63bd132d3",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
