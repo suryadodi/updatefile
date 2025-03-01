@@ -38,6 +38,7 @@ jobs:
         python update_mst_cart.py
         python update_mst_chats.py
         python update_mst_cms.py
+        python update_mst_coupons.py
 
     - name: Commit and push changes
       run: |
@@ -53,6 +54,7 @@ jobs:
         git add mst_cart.json
         git add mst_chat.json
         git add mst_cms.json
+        git add mst_coupons.json
         git commit -m "Update mst_category data for $(date +'%Y-%m-%d')"
         git push https://github.com/${{ github.repository }}.git HEAD:main
       env:
