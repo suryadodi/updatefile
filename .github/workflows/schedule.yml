@@ -34,6 +34,7 @@ jobs:
         python update_mst_attribute.py
         python update_mst_banner.py
         python update_mst_bookedproducts.py
+        python update_mst_bookings.py
 
     - name: Commit and push changes
       run: |
@@ -45,6 +46,7 @@ jobs:
         git add mst_attribute.json
         git add mst_banner.json
         git add mst_bookedproducts.json
+        git add mst_bookings.json
         git commit -m "Update mst_category data for $(date +'%Y-%m-%d')"
         git push https://github.com/${{ github.repository }}.git HEAD:main
       env:
