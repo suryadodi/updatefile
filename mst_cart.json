@@ -1,0 +1,22 @@
+[
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 5,
+        "attributes": null,
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740037601227-cropped-1740037601223.png",
+        "product_name": "\u0b9c\u0bcb\u0ba4\u0bbf\u0b95\u0bbe  mam. Saree ",
+        "created_at": "2025-02-27T08:06:33.29038",
+        "updated_at": "2025-02-27T08:06:33.29038",
+        "id": "9c0489e2-9682-4906-ac43-40c1541c58c4",
+        "product_id": "72499c58-e214-47d9-8a11-29fece42a75d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "237fe800-f27a-462a-911e-e9cc9e631ec9"
+    }
+]
