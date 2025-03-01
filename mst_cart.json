@@ -3,6 +3,35 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 2,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "size": "m",
+            "color": "red",
+            "price": "500",
+            "images": [
+                "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740761502577-cropped-1740761502573.png"
+            ],
+            "stocks": "10",
+            "offered_price": "400"
+        },
+        "image": null,
+        "product_name": "Test",
+        "created_at": "2025-03-01T08:30:25.056237",
+        "updated_at": "2025-03-01T08:30:35.295763",
+        "id": "e3e9b5ac-358c-4aca-bfe8-b32bbf397758",
+        "product_id": "3c20c747-8502-427a-b2bc-bee63bd132d3",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": 999,
         "original_price": null,
         "price": 999,
@@ -18,25 +47,5 @@
         "product_id": "72499c58-e214-47d9-8a11-29fece42a75d",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "237fe800-f27a-462a-911e-e9cc9e631ec9"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": 0,
-        "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": null,
-        "image": "",
-        "product_name": "Test",
-        "created_at": "2025-03-01T08:08:55.730977",
-        "updated_at": "2025-03-01T08:11:56.341859",
-        "id": "806c7f56-dd6a-4c9d-b8a9-f2eea6baf8d2",
-        "product_id": "3c20c747-8502-427a-b2bc-bee63bd132d3",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46"
     }
 ]
