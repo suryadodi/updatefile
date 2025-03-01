@@ -17,16 +17,6 @@
         "stocks": null,
         "attributes": [
             {
-                "size": "s",
-                "color": "blue",
-                "price": "500",
-                "images": [
-                    "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740761438882-cropped-1740761438878.png"
-                ],
-                "stocks": "10",
-                "offered_price": "450"
-            },
-            {
                 "size": "m",
                 "color": "red",
                 "price": "500",
@@ -37,7 +27,7 @@
                 "offered_price": "400"
             },
             {
-                "size": "m",
+                "size": "s",
                 "color": "brown",
                 "price": "600",
                 "images": [
@@ -55,7 +45,7 @@
         "product_code": null,
         "videos": null,
         "created_at": null,
-        "updated_at": "2025-03-01T07:52:52.146372",
+        "updated_at": "2025-03-01T08:11:30.345849",
         "category": "f688dad7-7021-4076-a0fd-90653630dfec",
         "id": "3c20c747-8502-427a-b2bc-bee63bd132d3",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
