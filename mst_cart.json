@@ -47,5 +47,25 @@
         "product_id": "72499c58-e214-47d9-8a11-29fece42a75d",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "237fe800-f27a-462a-911e-e9cc9e631ec9"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 450,
+        "original_price": null,
+        "price": 450,
+        "quantity": 1,
+        "selling_price": 499,
+        "stocks": 9,
+        "attributes": null,
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740035494224-cropped-1740035494219.png",
+        "product_name": "1000star sarees",
+        "created_at": "2025-03-02T09:13:39.681731",
+        "updated_at": "2025-03-02T09:13:39.681731",
+        "id": "3c436686-d231-44f8-80ff-863c54430d42",
+        "product_id": "d86d2147-36bc-45cf-ba15-a476326e9c36",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "db41ce2f-6441-4f6d-8bf5-8c01eb8ef4b9"
     }
 ]
