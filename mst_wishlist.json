@@ -34,5 +34,23 @@
         "product_id": "72499c58-e214-47d9-8a11-29fece42a75d",
         "shop_id": null,
         "wishlist_collection_id": "26158616-4aac-4e8d-86ed-22b53392ca0d"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-01T13:51:14.516558",
+        "updated_at": "2025-03-01T13:51:14.516558",
+        "id": "6890a2b2-c200-4c4d-bf17-b03609549a7c",
+        "product_id": "d664a17e-16b8-4f92-82fe-281d1286fbb9",
+        "shop_id": null,
+        "wishlist_collection_id": "eeeada97-2791-475e-8616-51bf927bb906"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-01T13:51:19.791039",
+        "updated_at": "2025-03-01T13:51:19.791039",
+        "id": "754391db-99c2-4fd6-84cb-691c0373d634",
+        "product_id": "bc1eb463-5ee0-4ffa-9972-fdf69787dd41",
+        "shop_id": null,
+        "wishlist_collection_id": "eeeada97-2791-475e-8616-51bf927bb906"
     }
 ]

@@ -25,5 +25,14 @@
         "isdeleted": false,
         "created_at": "2025-02-28T10:11:26.836322",
         "updated_at": "2025-02-28T10:11:26.836322"
+    },
+    {
+        "id": "eeeada97-2791-475e-8616-51bf927bb906",
+        "user_id": "1308cbd3-ad9f-4d51-a21f-02f74ab0573b",
+        "name": "Banupriya ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-01T13:51:14.174399",
+        "updated_at": "2025-03-01T13:51:14.174399"
     }
 ]

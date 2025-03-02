@@ -32798,5 +32798,37 @@
         "address_id": null,
         "id": "6620744f-1bac-4640-bf2f-661f5bad86aa",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "venn9790320709@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "9790320709",
+        "name": "Vennila murugavel ",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-01T12:54:14.69357",
+        "updated_at": "2025-03-01T12:54:14.69357",
+        "address_id": null,
+        "id": "db41ce2f-6441-4f6d-8bf5-8c01eb8ef4b9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "banu8870435877@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "8870435877",
+        "name": "Banupriya ",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-01T13:49:40.768899",
+        "updated_at": "2025-03-01T13:49:40.768899",
+        "address_id": null,
+        "id": "1308cbd3-ad9f-4d51-a21f-02f74ab0573b",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
