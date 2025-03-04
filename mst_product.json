@@ -135,6 +135,58 @@
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": null,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "Size": "M",
+                "color": "black",
+                "price": "100",
+                "images": [
+                    "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741009488135-cropped-1741009488131.png"
+                ],
+                "stocks": "10"
+            },
+            {
+                "Size": "L",
+                "color": "blue",
+                "price": "23",
+                "images": [
+                    "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741009518137-cropped-1741009518133.png"
+                ],
+                "stocks": "10",
+                "offered_price": "400"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": null,
+        "image": null,
+        "name": "Saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-03T13:45:26.850095",
+        "category": "f688dad7-7021-4076-a0fd-90653630dfec",
+        "id": "cfc800cf-0099-45f5-b5a1-55c1c723e6f2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "73a7a44f-88b6-4a87-9d49-eb2d801c4462"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
         "show_stock": true,
         "status": null,
         "top_selling": null,

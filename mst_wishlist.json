@@ -52,5 +52,14 @@
         "product_id": "bc1eb463-5ee0-4ffa-9972-fdf69787dd41",
         "shop_id": null,
         "wishlist_collection_id": "eeeada97-2791-475e-8616-51bf927bb906"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-04T00:04:47.20825",
+        "updated_at": "2025-03-04T00:04:47.20825",
+        "id": "c875e3dd-9a2c-483b-8241-0cda285db01a",
+        "product_id": "42bf53ac-71ff-4179-ac94-89860c7a4730",
+        "shop_id": null,
+        "wishlist_collection_id": "41fcfe93-9414-43a8-a41f-1271f2b16e84"
     }
 ]
