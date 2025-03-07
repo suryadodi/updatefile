@@ -1,62 +1,12 @@
 [
     {
-        "id": "73a7a44f-88b6-4a87-9d49-eb2d801c4462",
-        "isdeleted": false,
-        "description": "A",
-        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1736337270/Employee/vd8yxjcxe4pyppvyg60i.png",
-        "sub_name": "Stone Work Sarees",
-        "created_at": "2025-01-08T11:54:37.82832",
-        "updated_at": "2025-02-27T06:50:41.465454",
-        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
-    },
-    {
-        "id": "67d4cac9-2e80-42ff-93c9-290168b73a38",
-        "isdeleted": false,
-        "description": "Good Quality \n\nSoft cloth",
-        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1736402401/Employee/vzwo9sgfbl84l0ismndm.png",
-        "sub_name": "\u0bb5\u0bc8\u0bb0\u0bb5\u0bc1\u0b9a\u0bbf \u0b9a\u0bc7\u0bb2\u0bc8",
-        "created_at": "2025-01-09T06:00:09.400801",
-        "updated_at": "2025-02-27T06:50:41.465454",
-        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
-    },
-    {
-        "id": "9f9861a8-60b6-4543-a7fc-c04a2b79dea0",
-        "isdeleted": false,
-        "description": null,
-        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1737652074/Employee/yqmcnl76daj0owknproj.png",
-        "sub_name": "1000 star saree",
-        "created_at": "2025-01-23T17:07:59.908924",
-        "updated_at": "2025-02-27T06:50:41.465454",
-        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
-    },
-    {
-        "id": "5dc86014-65b4-4747-b673-b5343a23f2af",
-        "isdeleted": false,
-        "description": null,
-        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1736588500/Employee/hksjp9nw75jrrn9vtnx4.png",
-        "sub_name": "Work blouse",
-        "created_at": "2025-01-11T09:42:08.925299",
-        "updated_at": "2025-02-27T06:50:41.465454",
-        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
-    },
-    {
-        "id": "015d5c52-05b5-4016-b1c4-b94124dff035",
-        "isdeleted": false,
-        "description": null,
-        "image": "http://res.cloudinary.com/dpci74ypu/image/upload/v1737723203/rdbowytm7zovzxudmgqc.png",
-        "sub_name": "\u0b9c\u0bcb\u0ba4\u0bbf\u0b95\u0bbe  saree",
-        "created_at": "2025-01-24T12:53:27.638609",
-        "updated_at": "2025-02-27T06:50:41.465454",
-        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
-    },
-    {
         "id": "d4204319-dc5e-4100-a61d-60dcb0e1b460",
-        "isdeleted": false,
+        "isdeleted": true,
         "description": null,
         "image": "http://res.cloudinary.com/dpci74ypu/image/upload/v1737724434/vnan79azjf8vvsuwoypl.png",
         "sub_name": "mirror work saree",
         "created_at": "2025-01-24T06:14:37.773633",
-        "updated_at": "2025-02-27T06:50:41.465454",
+        "updated_at": "2025-03-05T09:15:32.729012",
         "category": "f688dad7-7021-4076-a0fd-90653630dfec"
     },
     {
@@ -71,12 +21,72 @@
     },
     {
         "id": "f2f26291-fb93-467f-b5d2-660cc66fc2c1",
-        "isdeleted": false,
+        "isdeleted": true,
         "description": null,
         "image": "http://res.cloudinary.com/dpci74ypu/image/upload/v1737787678/zqzxf1lzsq5trrrcdwzc.png",
         "sub_name": "party wear sarees",
         "created_at": "2025-01-25T06:48:01.656987",
-        "updated_at": "2025-02-27T06:50:41.465454",
+        "updated_at": "2025-03-05T09:15:38.622188",
+        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
+    },
+    {
+        "id": "fcb3b625-c916-4119-ad88-e9555cc4f0a5",
+        "isdeleted": false,
+        "description": null,
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741188507799-cropped-1741188507796.png",
+        "sub_name": "puspa 2 sarees",
+        "created_at": "2025-03-05T15:28:31.415612",
+        "updated_at": "2025-03-05T15:28:31.415612",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
+    },
+    {
+        "id": "73a7a44f-88b6-4a87-9d49-eb2d801c4462",
+        "isdeleted": true,
+        "description": "A",
+        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1736337270/Employee/vd8yxjcxe4pyppvyg60i.png",
+        "sub_name": "Stone Work Sarees",
+        "created_at": "2025-01-08T11:54:37.82832",
+        "updated_at": "2025-03-05T09:15:00.099887",
+        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
+    },
+    {
+        "id": "67d4cac9-2e80-42ff-93c9-290168b73a38",
+        "isdeleted": true,
+        "description": "Good Quality \n\nSoft cloth",
+        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1736402401/Employee/vzwo9sgfbl84l0ismndm.png",
+        "sub_name": "\u0bb5\u0bc8\u0bb0\u0bb5\u0bc1\u0b9a\u0bbf \u0b9a\u0bc7\u0bb2\u0bc8",
+        "created_at": "2025-01-09T06:00:09.400801",
+        "updated_at": "2025-03-05T09:15:07.780407",
+        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
+    },
+    {
+        "id": "9f9861a8-60b6-4543-a7fc-c04a2b79dea0",
+        "isdeleted": true,
+        "description": null,
+        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1737652074/Employee/yqmcnl76daj0owknproj.png",
+        "sub_name": "1000 star saree",
+        "created_at": "2025-01-23T17:07:59.908924",
+        "updated_at": "2025-03-05T09:15:15.402431",
+        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
+    },
+    {
+        "id": "5dc86014-65b4-4747-b673-b5343a23f2af",
+        "isdeleted": true,
+        "description": null,
+        "image": "http://res.cloudinary.com/dgcgmcaxb/image/upload/v1736588500/Employee/hksjp9nw75jrrn9vtnx4.png",
+        "sub_name": "Work blouse",
+        "created_at": "2025-01-11T09:42:08.925299",
+        "updated_at": "2025-03-05T09:15:21.068799",
+        "category": "f688dad7-7021-4076-a0fd-90653630dfec"
+    },
+    {
+        "id": "015d5c52-05b5-4016-b1c4-b94124dff035",
+        "isdeleted": true,
+        "description": null,
+        "image": "http://res.cloudinary.com/dpci74ypu/image/upload/v1737723203/rdbowytm7zovzxudmgqc.png",
+        "sub_name": "\u0b9c\u0bcb\u0ba4\u0bbf\u0b95\u0bbe  saree",
+        "created_at": "2025-01-24T12:53:27.638609",
+        "updated_at": "2025-03-05T09:15:28.355587",
         "category": "f688dad7-7021-4076-a0fd-90653630dfec"
     }
 ]
