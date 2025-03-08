@@ -1,20 +1,20 @@
 [
     {
         "isdeleted": false,
-        "visibility": true,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741173001421-cropped-1741173001416.png",
-        "created_at": "2025-03-05T11:10:07.618982",
-        "updated_at": "2025-03-05T11:10:07.618982",
-        "id": "4332dadd-e2f6-40f7-8ce7-434d0cde50fa",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
-    },
-    {
-        "isdeleted": false,
         "visibility": false,
         "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1739874432448-cropped-1739874432399.png",
         "created_at": "2025-02-18T10:27:23.064101",
         "updated_at": "2025-03-05T11:10:12.917324",
         "id": "7862ef03-2b15-4cc1-8561-6b665f4cfe87",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "visibility": true,
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741360881644-cropped-1741360881633.png",
+        "created_at": "2025-03-05T11:10:07.618982",
+        "updated_at": "2025-03-07T15:21:27.256829",
+        "id": "4332dadd-e2f6-40f7-8ce7-434d0cde50fa",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
