@@ -18,5 +18,25 @@
         "description": null,
         "updated_at": "2025-03-07T09:29:27.641399",
         "created_at": "2025-03-05T15:27:19.539085"
+    },
+    {
+        "id": "7360cf00-5aeb-472f-8a9f-991e0bf48c31",
+        "category": "saree kar",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741448781169-cropped-1741448781165.png",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-08T15:56:18.122305",
+        "created_at": "2025-03-08T15:56:01.022976"
+    },
+    {
+        "id": "753ae135-4cd5-438d-8b14-af9403d62c7e",
+        "category": "sartest",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741450263411-cropped-1741450263406.png",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-08T16:11:37.781743",
+        "created_at": "2025-03-08T16:11:23.331932"
     }
 ]
