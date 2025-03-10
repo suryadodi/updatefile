@@ -514,39 +514,12 @@
     },
     {
         "isdeleted": false,
-        "created_at": "2025-03-08T15:19:59.636526",
-        "updated_at": "2025-03-08T15:19:59.636526",
-        "id": "8d437861-50b9-4a72-b633-1290417d23a9",
-        "product_id": "41812b88-2356-43d2-b118-e46c327866ad",
-        "shop_id": null,
-        "wishlist_collection_id": "02c08283-5970-4a68-944c-3e3de7b6d4f7"
-    },
-    {
-        "isdeleted": false,
         "created_at": "2025-03-08T16:51:48.266088",
         "updated_at": "2025-03-08T16:51:48.266088",
         "id": "aac87d44-28a3-4415-b584-a9a5d0256de7",
         "product_id": "340f2ec8-f3c8-4cd5-a5b6-da03921dd956",
         "shop_id": null,
         "wishlist_collection_id": "276ebffb-3062-4eb1-9e41-17f1db39ec5a"
-    },
-    {
-        "isdeleted": false,
-        "created_at": "2025-03-08T18:02:58.112227",
-        "updated_at": "2025-03-08T18:02:58.112227",
-        "id": "8486bb2a-ac16-4664-a557-d14223ab0e1e",
-        "product_id": "41812b88-2356-43d2-b118-e46c327866ad",
-        "shop_id": null,
-        "wishlist_collection_id": "56b7a1df-0515-47ad-9465-51d0d898ce10"
-    },
-    {
-        "isdeleted": false,
-        "created_at": "2025-03-08T18:09:33.695125",
-        "updated_at": "2025-03-08T18:09:33.695125",
-        "id": "855df34c-19e6-4ed1-b3c9-5b00d6312292",
-        "product_id": "41812b88-2356-43d2-b118-e46c327866ad",
-        "shop_id": null,
-        "wishlist_collection_id": "9bebe4f1-69e7-4047-a8d7-8ef3bdc3fee7"
     },
     {
         "isdeleted": false,
@@ -565,5 +538,113 @@
         "product_id": "340f2ec8-f3c8-4cd5-a5b6-da03921dd956",
         "shop_id": null,
         "wishlist_collection_id": "63fe9157-0304-4fe0-9596-ce53b10ca06a"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T07:13:59.860471",
+        "updated_at": "2025-03-09T07:13:59.860471",
+        "id": "d0d7b873-cfd3-48aa-b07c-d6d1278d983b",
+        "product_id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": null,
+        "wishlist_collection_id": "e99d5937-f35b-4928-9570-3db67e98bba7"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T07:14:01.10036",
+        "updated_at": "2025-03-09T07:14:01.10036",
+        "id": "4fe861b2-200e-424b-b209-ba9860d3a272",
+        "product_id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": null,
+        "wishlist_collection_id": "223a1e27-10cf-4c54-a09d-9d1da5cc34ea"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T07:14:03.837465",
+        "updated_at": "2025-03-09T07:14:03.837465",
+        "id": "84145528-d8a6-4660-9c2e-c936a4038c0f",
+        "product_id": "a27ed749-a651-4d5e-882b-112fba249be6",
+        "shop_id": null,
+        "wishlist_collection_id": "fdedae07-1487-4f72-9655-748f1236597e"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T07:43:28.954094",
+        "updated_at": "2025-03-09T07:43:28.954094",
+        "id": "36b0207f-2ea6-4693-a13f-8d8261a6ec5d",
+        "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": null,
+        "wishlist_collection_id": "91501d4e-5c3e-4af4-9530-f693a398c668"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T07:48:18.214665",
+        "updated_at": "2025-03-09T07:48:18.214665",
+        "id": "0fb4a378-47f0-4220-9c3d-03f8257b7a32",
+        "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": null,
+        "wishlist_collection_id": "fd698968-b75e-4536-a0f4-0c4eea135366"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T09:20:57.956083",
+        "updated_at": "2025-03-09T09:20:57.956083",
+        "id": "c4a0dcf2-22c7-4473-9a9b-06dc2751b2ae",
+        "product_id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
+        "shop_id": null,
+        "wishlist_collection_id": "b6336f85-52b6-4753-b771-087cb8e3113e"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T09:21:05.527924",
+        "updated_at": "2025-03-09T09:21:05.527924",
+        "id": "4d51f53e-2b80-4d1e-bcfa-99d57109a1ae",
+        "product_id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
+        "shop_id": null,
+        "wishlist_collection_id": "1f33847e-37ea-4c9d-b8bc-7c3847524d5b"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T09:23:48.819897",
+        "updated_at": "2025-03-09T09:23:48.819897",
+        "id": "a2e52b0f-3ed5-4313-bc0b-ad1e4f5c910d",
+        "product_id": "8563d17a-9690-435d-93a9-90cd0e9d0102",
+        "shop_id": null,
+        "wishlist_collection_id": "2cec1f17-a916-4a21-8b7a-4a87ceda1fec"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T09:57:07.365168",
+        "updated_at": "2025-03-09T09:57:07.365168",
+        "id": "0d4348be-b1a6-43d8-ba5c-bf34103eef4c",
+        "product_id": "62f85a16-9c42-4ba9-b3d2-a84abe6c6860",
+        "shop_id": null,
+        "wishlist_collection_id": "2ea12425-8c72-4769-b763-5e79b33936aa"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T10:02:01.607986",
+        "updated_at": "2025-03-09T10:02:01.607986",
+        "id": "9e45428d-c472-4116-ad75-09e49f5bf02c",
+        "product_id": "8563d17a-9690-435d-93a9-90cd0e9d0102",
+        "shop_id": null,
+        "wishlist_collection_id": "3b19b70a-4acf-46dc-acf0-f8253c483ee3"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T10:11:08.58663",
+        "updated_at": "2025-03-09T10:11:08.58663",
+        "id": "91482f1e-9369-4944-a4f1-ab7e85bb1c3d",
+        "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": null,
+        "wishlist_collection_id": "12bd8520-a7a9-4f74-90c7-9337e34c4895"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-09T12:39:44.060266",
+        "updated_at": "2025-03-09T12:39:44.060266",
+        "id": "41758ceb-9eeb-4438-8101-3c7f4c85cbca",
+        "product_id": "a27ed749-a651-4d5e-882b-112fba249be6",
+        "shop_id": null,
+        "wishlist_collection_id": "48fd1a10-e27c-439e-9c3b-525f8d87ada0"
     }
 ]

@@ -30,56 +30,6 @@
         "category": "f688dad7-7021-4076-a0fd-90653630dfec"
     },
     {
-        "id": "fcb3b625-c916-4119-ad88-e9555cc4f0a5",
-        "isdeleted": false,
-        "description": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741188507799-cropped-1741188507796.png",
-        "sub_name": "puspa 2 sarees",
-        "created_at": "2025-03-05T15:28:31.415612",
-        "updated_at": "2025-03-05T15:28:31.415612",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
-    },
-    {
-        "id": "5be3bab2-73ff-43a9-af87-e398a563c974",
-        "isdeleted": false,
-        "description": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741335417329-cropped-1741335417322.png",
-        "sub_name": "work blouse combo",
-        "created_at": "2025-03-07T08:17:04.798075",
-        "updated_at": "2025-03-07T08:17:04.798075",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
-    },
-    {
-        "id": "2821a0ca-47f6-49d1-85fc-949e072cfbce",
-        "isdeleted": false,
-        "description": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741339799792-cropped-1741339799786.png",
-        "sub_name": "stone sarees",
-        "created_at": "2025-03-07T09:30:05.19842",
-        "updated_at": "2025-03-07T09:30:05.19842",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
-    },
-    {
-        "id": "98efe3fd-5c02-439d-a769-54a347ba2fa5",
-        "isdeleted": false,
-        "description": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741356843454-cropped-1741356843443.png",
-        "sub_name": "viravusi saree",
-        "created_at": "2025-03-07T14:14:08.519884",
-        "updated_at": "2025-03-07T14:14:08.519884",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
-    },
-    {
-        "id": "f276e563-294a-46fa-a8ef-19e40b4d3232",
-        "isdeleted": false,
-        "description": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741360568675-cropped-1741360568664.png",
-        "sub_name": "1000 putta saree",
-        "created_at": "2025-03-07T15:16:13.494262",
-        "updated_at": "2025-03-07T15:16:13.494262",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
-    },
-    {
         "id": "73a7a44f-88b6-4a87-9d49-eb2d801c4462",
         "isdeleted": true,
         "description": "A",
@@ -128,5 +78,65 @@
         "created_at": "2025-01-24T12:53:27.638609",
         "updated_at": "2025-03-05T09:15:28.355587",
         "category": "f688dad7-7021-4076-a0fd-90653630dfec"
+    },
+    {
+        "id": "fcb3b625-c916-4119-ad88-e9555cc4f0a5",
+        "isdeleted": true,
+        "description": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741505302550-cropped-1741505302547.png",
+        "sub_name": "puspa 2 sarees",
+        "created_at": "2025-03-05T15:28:31.415612",
+        "updated_at": "2025-03-09T13:45:46.285655",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
+    },
+    {
+        "id": "2821a0ca-47f6-49d1-85fc-949e072cfbce",
+        "isdeleted": true,
+        "description": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741505688275-cropped-1741505688266.png",
+        "sub_name": "stone sarees",
+        "created_at": "2025-03-07T09:30:05.19842",
+        "updated_at": "2025-03-09T13:46:43.834821",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
+    },
+    {
+        "id": "f276e563-294a-46fa-a8ef-19e40b4d3232",
+        "isdeleted": true,
+        "description": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741505751212-cropped-1741505751203.png",
+        "sub_name": "1000 putta saree",
+        "created_at": "2025-03-07T15:16:13.494262",
+        "updated_at": "2025-03-09T13:46:47.865661",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
+    },
+    {
+        "id": "98efe3fd-5c02-439d-a769-54a347ba2fa5",
+        "isdeleted": true,
+        "description": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741505801403-cropped-1741505801393.png",
+        "sub_name": "viravusi saree",
+        "created_at": "2025-03-07T14:14:08.519884",
+        "updated_at": "2025-03-09T13:46:51.412565",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
+    },
+    {
+        "id": "5be3bab2-73ff-43a9-af87-e398a563c974",
+        "isdeleted": true,
+        "description": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741505887407-cropped-1741505887398.png",
+        "sub_name": "work blouse combo",
+        "created_at": "2025-03-07T08:17:04.798075",
+        "updated_at": "2025-03-09T13:46:55.326075",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
+    },
+    {
+        "id": "a16e3941-94f7-4899-a2cf-dbacafd77f78",
+        "isdeleted": true,
+        "description": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741509442712-cropped-1741509442700.png",
+        "sub_name": "running blouse sarees",
+        "created_at": "2025-03-09T08:37:29.345504",
+        "updated_at": "2025-03-09T13:46:58.977657",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
     }
 ]
