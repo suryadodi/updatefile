@@ -6609,5 +6609,104 @@
         "id": "5fa2efb3-9c7c-49e8-917d-54fc9ede1675",
         "shop_id": null,
         "user_id": "1e146e5d-b168-452e-b3ef-91a246cb859d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi sister ",
+        "created_at": "2025-03-10T02:43:21.92776",
+        "id": "179522e8-9090-4dbc-a753-cbd013c25507",
+        "shop_id": null,
+        "user_id": "f77d8788-4330-4f4b-85ad-fdcf82b24477"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Please refund ",
+        "created_at": "2025-03-10T03:45:02.674031",
+        "id": "4aa80e6f-703d-43b1-bcb7-56b4fdcc917e",
+        "shop_id": null,
+        "user_id": "de4b11b1-5691-4cfd-ac32-f7691462def7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-10T04:33:36.236711",
+        "id": "3938ed82-5a53-49e3-bd21-a6b4fb806e1b",
+        "shop_id": null,
+        "user_id": "ddff77e7-b079-491b-b31a-ed1300e77e07"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Refund or order placed ",
+        "created_at": "2025-03-10T07:11:30.832861",
+        "id": "f0236e10-de20-4748-aba4-2aedb8099009",
+        "shop_id": null,
+        "user_id": "de4b11b1-5691-4cfd-ac32-f7691462def7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "This is fake website or real",
+        "created_at": "2025-03-10T08:56:25.228332",
+        "id": "6b347b07-3701-42e6-acfc-fa7b849e2c6d",
+        "shop_id": null,
+        "user_id": "de4b11b1-5691-4cfd-ac32-f7691462def7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Mam order yeppo varum sollunga ",
+        "created_at": "2025-03-10T08:58:45.800407",
+        "id": "12daca36-86f3-4080-9cfa-f765862f629b",
+        "shop_id": null,
+        "user_id": "5612226f-bbf3-4976-ba08-e42c5f2785f4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I order one saree but tracking I'd not showing ",
+        "created_at": "2025-03-10T09:38:12.382011",
+        "id": "8591f1d5-4a8e-4fd3-bafb-10397066d737",
+        "shop_id": null,
+        "user_id": "a40e8cb1-769b-4e04-b7ec-047d2f6bd87f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Saturday night 9.30 pm i order Neenga asai patta saree, payment was done but my order details it's not showing ",
+        "created_at": "2025-03-10T09:39:45.0217",
+        "id": "ff9bc9ed-8773-4bd8-a67a-2ad0c5d38a8c",
+        "shop_id": null,
+        "user_id": "a40e8cb1-769b-4e04-b7ec-047d2f6bd87f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-10T14:39:08.361218",
+        "id": "d7e405e7-b03e-49e8-8d35-161d6b114491",
+        "shop_id": null,
+        "user_id": "be89ad10-4b3e-478c-a8c0-d34c9b60e5e0"
     }
 ]
