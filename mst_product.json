@@ -492,7 +492,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1741506465191-cropped-1741506465181.png"
                 ],
-                "stocks": "20",
+                "stocks": "19",
                 "offered_price": "399"
             }
         ],
@@ -505,7 +505,7 @@
         "product_code": null,
         "videos": null,
         "created_at": null,
-        "updated_at": "2025-03-10T12:05:41.401084",
+        "updated_at": "2025-03-11T11:34:03.170881",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "d95fe065-f2f1-4975-9189-15135b7b7517",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -1327,6 +1327,40 @@
         "id": "b7f669b3-e4d7-45cd-a48d-bc58801acdee",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "67d4cac9-2e80-42ff-93c9-290168b73a38"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": true,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 349,
+        "price": 260,
+        "quantity": null,
+        "selling_price": 599,
+        "stocks": 25,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741703679831-cropped-1741703679821.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>stone work </li><li>running blouse</li><li>brazo material</li></ul>",
+        "image": null,
+        "name": "karthika offer",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-11T14:34:47.420775",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "9ece36b1-2598-486a-9bab-22efa17bf6bb",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     },
     {
         "featured_products": null,
@@ -2213,6 +2247,40 @@
         "id": "68383688-a4f6-4e16-a2f9-70b4cb33df65",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": true,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 349,
+        "price": 260,
+        "quantity": null,
+        "selling_price": 599,
+        "stocks": 15,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741703795868-cropped-1741703795853.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>stone saree</li><li>running blouse</li><li>brazo material</li></ul>",
+        "image": null,
+        "name": "karthika offer",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-11T14:36:43.889909",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "f2d95204-acaa-4ca6-bb5b-08496f765d9c",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     },
     {
         "featured_products": null,

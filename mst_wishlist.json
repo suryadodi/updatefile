@@ -682,5 +682,158 @@
         "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
         "shop_id": null,
         "wishlist_collection_id": "11bc6ac6-67ef-4083-9c38-b4bbc7dd9b7c"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T07:37:26.525191",
+        "updated_at": "2025-03-11T07:37:26.525191",
+        "id": "3612a589-6d5a-4b46-a413-315bfbeae662",
+        "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
+        "shop_id": null,
+        "wishlist_collection_id": "3ca9187e-ba12-4068-b627-76fdd4dc5e8d"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T07:37:50.060189",
+        "updated_at": "2025-03-11T07:37:50.060189",
+        "id": "a5ea9a1b-518a-419d-80df-2d6dcc807f4f",
+        "product_id": "e5e3a05f-fccf-4952-8aac-836bb8358d46",
+        "shop_id": null,
+        "wishlist_collection_id": "3ca9187e-ba12-4068-b627-76fdd4dc5e8d"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T07:53:38.4272",
+        "updated_at": "2025-03-11T07:53:38.4272",
+        "id": "d3b1b1ea-c9e4-4b71-a5bd-4e125e23b8ed",
+        "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
+        "shop_id": null,
+        "wishlist_collection_id": "27a1e0ea-051d-4e33-b947-0667ce17a94d"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T08:19:45.958266",
+        "updated_at": "2025-03-11T08:19:45.958266",
+        "id": "bf046a64-942a-43e5-87ac-e7f98dc680d1",
+        "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
+        "shop_id": null,
+        "wishlist_collection_id": "2ff7f95f-4c9c-4160-92f6-0e738875f65d"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T11:01:56.976048",
+        "updated_at": "2025-03-11T11:01:56.976048",
+        "id": "4f0aa642-89df-449e-a891-043480c1b0a3",
+        "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
+        "shop_id": null,
+        "wishlist_collection_id": "2344ae22-9d6f-4dcc-a6ea-7bdeb07e9b84"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T12:31:58.218584",
+        "updated_at": "2025-03-11T12:31:58.218584",
+        "id": "30072f6c-c02b-4c54-b66a-56817aae3c3f",
+        "product_id": "c94e7595-21dd-494f-a824-4b5d48b42ccf",
+        "shop_id": null,
+        "wishlist_collection_id": "510189ee-6009-4616-927f-cb66587dd6dd"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T13:16:44.711122",
+        "updated_at": "2025-03-11T13:16:44.711122",
+        "id": "7c2fefb3-e9d5-424b-bb56-370517d59978",
+        "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": null,
+        "wishlist_collection_id": "2abc315f-18c8-465d-96f6-12b133e1dcd2"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T13:18:08.91623",
+        "updated_at": "2025-03-11T13:18:08.91623",
+        "id": "2c0ca2ef-6cc4-4d4b-9a4d-bf2f72252006",
+        "product_id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": null,
+        "wishlist_collection_id": "c8a78599-f382-4ae0-a17c-bfbad71c2660"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T13:45:36.181207",
+        "updated_at": "2025-03-11T13:45:36.181207",
+        "id": "4d498c29-f03a-4869-a236-72f0b45cfc2f",
+        "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
+        "shop_id": null,
+        "wishlist_collection_id": "2c41115e-774b-4f7e-90bd-d8564d0b1b59"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T15:17:04.654281",
+        "updated_at": "2025-03-11T15:17:04.654281",
+        "id": "c5208963-fa58-4195-bde9-10b79e269020",
+        "product_id": "68383688-a4f6-4e16-a2f9-70b4cb33df65",
+        "shop_id": null,
+        "wishlist_collection_id": "1e5abdf2-c2ad-42d8-8664-010e22eb36a6"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T15:26:07.208399",
+        "updated_at": "2025-03-11T15:26:07.208399",
+        "id": "48ac1476-c942-41d6-b7c2-fd69d3afda69",
+        "product_id": "f2d95204-acaa-4ca6-bb5b-08496f765d9c",
+        "shop_id": null,
+        "wishlist_collection_id": "06b78112-c25b-4e1d-a513-4b3d86938235"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T15:26:08.451943",
+        "updated_at": "2025-03-11T15:26:08.451943",
+        "id": "4c7692cf-ea95-4a7d-a843-ad541bdc205e",
+        "product_id": "f2d95204-acaa-4ca6-bb5b-08496f765d9c",
+        "shop_id": null,
+        "wishlist_collection_id": "d9848e4c-5a6b-407e-aa4e-a99ce7c99167"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T15:37:17.242587",
+        "updated_at": "2025-03-11T15:37:17.242587",
+        "id": "c055bbfc-7103-4cc1-b147-7321b4dd24cc",
+        "product_id": "9ece36b1-2598-486a-9bab-22efa17bf6bb",
+        "shop_id": null,
+        "wishlist_collection_id": "3655fc49-bbf2-4799-9f5b-1344da92f6a2"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T15:54:50.900473",
+        "updated_at": "2025-03-11T15:54:50.900473",
+        "id": "912ed0ce-52e5-47f9-b76f-b68c8040b937",
+        "product_id": "9f652880-f410-4460-ad80-bfffc0bf6e49",
+        "shop_id": null,
+        "wishlist_collection_id": "a5f717c1-ec8d-4112-b689-00253f1e1bb7"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T16:05:42.875476",
+        "updated_at": "2025-03-11T16:05:42.875476",
+        "id": "ba7642e1-1f3f-4d42-9918-aa62fc87cbe6",
+        "product_id": "9ece36b1-2598-486a-9bab-22efa17bf6bb",
+        "shop_id": null,
+        "wishlist_collection_id": "2b7212a7-2abb-4834-8136-565d3fc69cd9"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T16:25:27.757587",
+        "updated_at": "2025-03-11T16:25:27.757587",
+        "id": "8943c6c6-4f59-4c97-a256-2df5cb799652",
+        "product_id": "f2d95204-acaa-4ca6-bb5b-08496f765d9c",
+        "shop_id": null,
+        "wishlist_collection_id": "214ce965-d69e-4f5e-9147-34863593ca26"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-11T16:26:01.914868",
+        "updated_at": "2025-03-11T16:26:01.914868",
+        "id": "d5db04cd-144b-4e22-b79c-11f04224063a",
+        "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": null,
+        "wishlist_collection_id": "3add3428-eafa-4915-9d09-3394940d82b1"
     }
 ]
