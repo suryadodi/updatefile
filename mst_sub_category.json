@@ -138,5 +138,15 @@
         "created_at": "2025-03-07T09:30:05.19842",
         "updated_at": "2025-03-10T06:35:44.226614",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
+    },
+    {
+        "id": "ab0965b3-1db4-49f2-85f0-bbd5121dd1ef",
+        "isdeleted": false,
+        "description": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741780464529-cropped-1741780464521.png",
+        "sub_name": "cotton saree",
+        "created_at": "2025-03-12T11:54:27.723996",
+        "updated_at": "2025-03-12T11:54:27.723996",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc"
     }
 ]

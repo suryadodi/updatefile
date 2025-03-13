@@ -213,39 +213,6 @@
         "is_deleted": false,
         "resolved": true,
         "un_read": false,
-        "message": "Phone number 9363386488",
-        "created_at": "2025-02-19T09:46:39.06432",
-        "id": "082c84e7-873a-4c68-b6f8-b2519d969aa8",
-        "shop_id": null,
-        "user_id": "d378da63-0d89-4d06-bca9-331ac71115fb"
-    },
-    {
-        "is_admin": false,
-        "is_deleted": false,
-        "resolved": true,
-        "un_read": false,
-        "message": "Hiii",
-        "created_at": "2025-02-19T09:46:39.992994",
-        "id": "9707c582-8955-4d52-8744-fb75fd798940",
-        "shop_id": null,
-        "user_id": "ac771fbe-2434-4a16-ad21-aef834dfeda3"
-    },
-    {
-        "is_admin": false,
-        "is_deleted": false,
-        "resolved": true,
-        "un_read": false,
-        "message": "Address details add panna mudiyala off screen tha katuthu",
-        "created_at": "2025-02-19T09:46:44.701217",
-        "id": "139831b3-c723-49ee-9a73-19c451ec3369",
-        "shop_id": null,
-        "user_id": "0f2e2f11-7d66-4ff2-ae1c-3b8d72a17302"
-    },
-    {
-        "is_admin": false,
-        "is_deleted": false,
-        "resolved": true,
-        "un_read": false,
         "message": "Hlo sis karuveppillai saree ithula upload pnlya",
         "created_at": "2025-02-19T09:46:45.661868",
         "id": "1f9359b0-c9cf-4690-bac6-87437cd8793a",
@@ -444,17 +411,6 @@
         "is_deleted": false,
         "resolved": false,
         "un_read": false,
-        "message": " Sister sollunga ",
-        "created_at": "2025-02-19T09:47:10.914002",
-        "id": "8ff9fda6-aef1-41c6-b443-88898aec0870",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "ac771fbe-2434-4a16-ad21-aef834dfeda3"
-    },
-    {
-        "is_admin": true,
-        "is_deleted": false,
-        "resolved": false,
-        "un_read": false,
         "message": "Website la order pannunga ",
         "created_at": "2025-02-19T09:47:11.937619",
         "id": "aa6824cd-61f0-4477-ab26-b8515152de11",
@@ -471,17 +427,6 @@
         "id": "359e6d32-8879-40c2-8412-c3e007806174",
         "shop_id": null,
         "user_id": "db2e41f6-a4fb-478d-93ff-52ad736042cb"
-    },
-    {
-        "is_admin": true,
-        "is_deleted": false,
-        "resolved": false,
-        "un_read": false,
-        "message": "Wait pannunga sari agidum",
-        "created_at": "2025-02-19T09:47:15.005544",
-        "id": "d9449e99-f7c6-49e2-8cee-6958ba2a86b1",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "0f2e2f11-7d66-4ff2-ae1c-3b8d72a17302"
     },
     {
         "is_admin": true,
@@ -746,6 +691,61 @@
         "id": "b21ffd04-2ce0-4790-8dc3-bd4cc98c6b7a",
         "shop_id": null,
         "user_id": "1901f47e-034d-4ad5-8b74-a71705791d25"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "Phone number 9363386488",
+        "created_at": "2025-02-19T09:46:39.06432",
+        "id": "082c84e7-873a-4c68-b6f8-b2519d969aa8",
+        "shop_id": null,
+        "user_id": "d378da63-0d89-4d06-bca9-331ac71115fb"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "Hiii",
+        "created_at": "2025-02-19T09:46:39.992994",
+        "id": "9707c582-8955-4d52-8744-fb75fd798940",
+        "shop_id": null,
+        "user_id": "ac771fbe-2434-4a16-ad21-aef834dfeda3"
+    },
+    {
+        "is_admin": true,
+        "is_deleted": false,
+        "resolved": false,
+        "un_read": false,
+        "message": " Sister sollunga ",
+        "created_at": "2025-02-19T09:47:10.914002",
+        "id": "8ff9fda6-aef1-41c6-b443-88898aec0870",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "ac771fbe-2434-4a16-ad21-aef834dfeda3"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "Address details add panna mudiyala off screen tha katuthu",
+        "created_at": "2025-02-19T09:46:44.701217",
+        "id": "139831b3-c723-49ee-9a73-19c451ec3369",
+        "shop_id": null,
+        "user_id": "0f2e2f11-7d66-4ff2-ae1c-3b8d72a17302"
+    },
+    {
+        "is_admin": true,
+        "is_deleted": false,
+        "resolved": false,
+        "un_read": false,
+        "message": "Wait pannunga sari agidum",
+        "created_at": "2025-02-19T09:47:15.005544",
+        "id": "d9449e99-f7c6-49e2-8cee-6958ba2a86b1",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "0f2e2f11-7d66-4ff2-ae1c-3b8d72a17302"
     },
     {
         "is_admin": true,
@@ -6785,5 +6785,137 @@
         "id": "d60ae3c1-e31f-48a2-96de-4da351d64aa7",
         "shop_id": null,
         "user_id": "18836efe-0e93-45da-95f2-27f92758246f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi",
+        "created_at": "2025-03-12T04:29:28.534002",
+        "id": "49612efa-8b9f-407a-b1a6-327c0a228f4d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "0da1a22d-9612-43b7-9a1c-8bdd4fa6ae35"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi",
+        "created_at": "2025-03-12T05:43:09.961292",
+        "id": "533822f1-1461-4eb6-913e-026b71180ed0",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "f65dc399-f734-49c4-bcc1-41232f584374"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-12T11:13:19.175506",
+        "id": "22a12881-a2aa-4420-b28d-5db27aa2cb7f",
+        "shop_id": null,
+        "user_id": "fbd4e05e-c832-405e-9f62-7197fb45cea9"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Pls send courier details ",
+        "created_at": "2025-03-12T11:13:35.525267",
+        "id": "899929dd-e6ce-4665-a6e0-6c93fa936bcb",
+        "shop_id": null,
+        "user_id": "fbd4e05e-c832-405e-9f62-7197fb45cea9"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "stone sarees",
+        "created_at": "2025-03-12T11:21:05.723485",
+        "id": "572a75d0-5c13-4028-ad58-816c46fdb162",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "e269c41e-ebb7-43ed-a7a7-63c4494d1d92"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "I want more then saree collection in under 500 range please ",
+        "created_at": "2025-03-12T07:10:26.764805",
+        "id": "ad7e162c-fa86-48dd-9e3d-77e4fe1876d9",
+        "shop_id": null,
+        "user_id": "a1a08923-1fac-45e3-b6e8-dda91f9cb9ec"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-12T15:01:51.196783",
+        "id": "9fcf6bf1-fe1d-48b9-8eed-314f1668d25f",
+        "shop_id": null,
+        "user_id": "b36b32f3-1141-40d4-b594-18778d4f7b9d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hii",
+        "created_at": "2025-03-12T15:01:59.615994",
+        "id": "b1ec6257-6980-46f6-a5f5-26b29f145bb3",
+        "shop_id": null,
+        "user_id": "b36b32f3-1141-40d4-b594-18778d4f7b9d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Soft silk saree 699/- new saree  ",
+        "created_at": "2025-03-12T16:14:15.112553",
+        "id": "ea54d819-6e49-40a1-9854-5c6e011eacd2",
+        "shop_id": null,
+        "user_id": "a0898bbd-18d6-4202-b494-f7e5d4ad07f0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Soft Poonam saree collection not available website ",
+        "created_at": "2025-03-12T16:20:41.026333",
+        "id": "54d1bd34-d61c-4dd5-9fe2-56e0c3d4d8e4",
+        "shop_id": null,
+        "user_id": "a0898bbd-18d6-4202-b494-f7e5d4ad07f0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Vaira usi saree",
+        "created_at": "2025-03-12T17:19:38.928817",
+        "id": "1d979b60-e2cf-4c1f-b4f2-7464997bbfca",
+        "shop_id": null,
+        "user_id": "ac7df4f7-5d57-47b2-b95a-d6277dd1eb13"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Vaira usic saree",
+        "created_at": "2025-03-12T17:19:59.38421",
+        "id": "2b6a8c13-e9df-4d56-99f3-d01f1d7172e2",
+        "shop_id": null,
+        "user_id": "ac7df4f7-5d57-47b2-b95a-d6277dd1eb13"
     }
 ]
