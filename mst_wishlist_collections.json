@@ -567,15 +567,6 @@
         "updated_at": "2025-03-08T14:42:19.914421"
     },
     {
-        "id": "02c08283-5970-4a68-944c-3e3de7b6d4f7",
-        "user_id": "56667297-ea80-41e5-ad6f-2ef06833eb80",
-        "name": "Haseena",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-08T15:19:59.222084",
-        "updated_at": "2025-03-08T15:19:59.222084"
-    },
-    {
         "id": "276ebffb-3062-4eb1-9e41-17f1db39ec5a",
         "user_id": "46b671de-d708-436f-a1d5-9b2fdb427f65",
         "name": "Stone work",
@@ -1141,5 +1132,239 @@
         "isdeleted": false,
         "created_at": "2025-03-12T19:27:12.172635",
         "updated_at": "2025-03-12T19:27:12.172635"
+    },
+    {
+        "id": "9adaf297-4392-468f-8741-6c0f8726bc03",
+        "user_id": "8a8f31b1-2aba-43cb-aaa5-7f1c772ad281",
+        "name": "Amali selvaraj",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T04:32:59.254356",
+        "updated_at": "2025-03-13T04:32:59.254356"
+    },
+    {
+        "id": "bb4687a0-d159-4c78-997d-a16b986eb725",
+        "user_id": "7bd4456d-6b2e-496e-93ff-1aaf9bf7bbad",
+        "name": "Hussain Hussain",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T04:58:06.280203",
+        "updated_at": "2025-03-13T04:58:06.280203"
+    },
+    {
+        "id": "5287d8c7-cd48-4535-bdd5-f474e7395d78",
+        "user_id": "7bd4456d-6b2e-496e-93ff-1aaf9bf7bbad",
+        "name": "Hussain Hussain",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T04:58:15.099424",
+        "updated_at": "2025-03-13T04:58:15.099424"
+    },
+    {
+        "id": "8ecc8d7a-831c-4dcc-ba6d-655b416ccd28",
+        "user_id": "7bd4456d-6b2e-496e-93ff-1aaf9bf7bbad",
+        "name": "Hussain ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T04:58:16.749694",
+        "updated_at": "2025-03-13T04:58:16.749694"
+    },
+    {
+        "id": "5df510ea-8bea-4bf7-987c-e217e5786497",
+        "user_id": "7bd4456d-6b2e-496e-93ff-1aaf9bf7bbad",
+        "name": "Hussain Hussain",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T04:58:26.644701",
+        "updated_at": "2025-03-13T04:58:26.644701"
+    },
+    {
+        "id": "dc791819-1c6d-4016-b7c0-5541c332281b",
+        "user_id": "7bd4456d-6b2e-496e-93ff-1aaf9bf7bbad",
+        "name": "Hussain",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T04:58:26.727237",
+        "updated_at": "2025-03-13T04:58:26.727237"
+    },
+    {
+        "id": "117b633f-ecda-43fa-8f79-74defbeb8453",
+        "user_id": "1196403a-3347-4380-a349-bb0326690ded",
+        "name": "Fathima",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T05:39:22.184578",
+        "updated_at": "2025-03-13T05:39:22.184578"
+    },
+    {
+        "id": "e119f8bd-9434-4ff1-9fb5-e9b89cd53f17",
+        "user_id": "1e0328e7-c2bd-4f04-99a5-3284696ea60c",
+        "name": "Karthika sarri ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T07:05:24.788537",
+        "updated_at": "2025-03-13T07:05:24.788537"
+    },
+    {
+        "id": "f757f4b3-5191-40ee-a7cd-9bf97ce70e2c",
+        "user_id": "ebae66e1-b73b-4b8c-8e11-f65c751a092d",
+        "name": "Indu",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T15:56:10.915765",
+        "updated_at": "2025-03-13T15:56:10.915765"
+    },
+    {
+        "id": "f7331859-f57e-45ba-b49f-9dbba0d0c88b",
+        "user_id": "403c91c1-4cbb-4d4a-99ab-cdbd11e46095",
+        "name": "buvaneshwari8110@gmill.com",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T16:24:59.04384",
+        "updated_at": "2025-03-13T16:24:59.04384"
+    },
+    {
+        "id": "434ad44e-1b64-4c1c-acaa-caa0d288d298",
+        "user_id": "b2dd8368-e2d9-4abd-ba3f-8c853c8fc389",
+        "name": "Vasanthi ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T16:45:15.945613",
+        "updated_at": "2025-03-13T16:45:15.945613"
+    },
+    {
+        "id": "d74a2334-f9bb-45b9-aabe-2bc30e9308c4",
+        "user_id": "08f03444-578e-4968-8e04-435c9b95ab8a",
+        "name": "Sh",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T16:54:03.607748",
+        "updated_at": "2025-03-13T16:54:03.607748"
+    },
+    {
+        "id": "4b8c9b48-5961-42e3-97ce-5069def13797",
+        "user_id": "dd885cab-213a-4fce-9f07-ed8e4bcacf9f",
+        "name": "New",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:29:11.194423",
+        "updated_at": "2025-03-13T17:29:11.194423"
+    },
+    {
+        "id": "0e5d9185-a2c4-4a18-9991-58c54eb107cb",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:25.947628",
+        "updated_at": "2025-03-13T17:35:25.947628"
+    },
+    {
+        "id": "0f972cac-d759-47b2-9bf4-292ac7fd6b36",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:29.25718",
+        "updated_at": "2025-03-13T17:35:29.25718"
+    },
+    {
+        "id": "70ac9ebe-721e-41fe-b85f-9f8aa3e02ab5",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:32.349044",
+        "updated_at": "2025-03-13T17:35:32.349044"
+    },
+    {
+        "id": "e980c145-58c8-48a6-9bf9-67670ce3272c",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:33.556784",
+        "updated_at": "2025-03-13T17:35:33.556784"
+    },
+    {
+        "id": "29d9ea11-4910-4b6f-bb55-fd88fce4a72f",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:35.262932",
+        "updated_at": "2025-03-13T17:35:35.262932"
+    },
+    {
+        "id": "4ecbb57e-3037-4f4d-8a4f-790af8e81ac4",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:38.772117",
+        "updated_at": "2025-03-13T17:35:38.772117"
+    },
+    {
+        "id": "9da3dce4-80c5-4d5e-9a72-bfbfa0c4d028",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:41.222497",
+        "updated_at": "2025-03-13T17:35:41.222497"
+    },
+    {
+        "id": "1082074d-3623-4a68-b3a6-de47b6ba8cab",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:45.438785",
+        "updated_at": "2025-03-13T17:35:45.438785"
+    },
+    {
+        "id": "1f070860-ad1e-4211-978e-34d217581ae3",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:47.732031",
+        "updated_at": "2025-03-13T17:35:47.732031"
+    },
+    {
+        "id": "592bdeae-a815-4e97-ac8a-41138455a965",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:55.835612",
+        "updated_at": "2025-03-13T17:35:55.835612"
+    },
+    {
+        "id": "98fd168e-eea8-42e7-9d8c-02f2051cba5c",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:57.964115",
+        "updated_at": "2025-03-13T17:35:57.964115"
+    },
+    {
+        "id": "eb46a5d6-1e12-4433-966f-ae45dd49e1c7",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:59.186525",
+        "updated_at": "2025-03-13T17:35:59.186525"
+    },
+    {
+        "id": "31139312-3b27-499d-b37f-74104275b54a",
+        "user_id": "ac4aaf66-672a-4c12-9053-48100158428f",
+        "name": "Digital print",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-13T17:35:59.624304",
+        "updated_at": "2025-03-13T17:35:59.624304"
     }
 ]
