@@ -54,15 +54,6 @@
         "updated_at": "2025-03-07T00:42:44.398417"
     },
     {
-        "id": "b6336f85-52b6-4753-b771-087cb8e3113e",
-        "user_id": "fab3e6bc-2bcc-41e3-8caa-9e85eb49ac4a",
-        "name": "Ranjani Ranjani",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-07T03:36:46.023164",
-        "updated_at": "2025-03-07T03:36:46.023164"
-    },
-    {
         "id": "985c8293-2ec7-4fae-a93d-9e12f9be2540",
         "user_id": "6cce7c73-902a-4631-b5d7-95343ab5a471",
         "name": "Soniya soni",
@@ -666,15 +657,6 @@
         "updated_at": "2025-03-09T07:48:17.864015"
     },
     {
-        "id": "1f33847e-37ea-4c9d-b8bc-7c3847524d5b",
-        "user_id": "fab3e6bc-2bcc-41e3-8caa-9e85eb49ac4a",
-        "name": "Ranjani Ranjani",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-09T09:21:05.132818",
-        "updated_at": "2025-03-09T09:21:05.132818"
-    },
-    {
         "id": "2cec1f17-a916-4a21-8b7a-4a87ceda1fec",
         "user_id": "3ded6e90-3a9e-4f02-89be-76af0736db5e",
         "name": "Thowhi Rafeek",
@@ -799,15 +781,6 @@
         "isdeleted": false,
         "created_at": "2025-03-11T08:19:45.641238",
         "updated_at": "2025-03-11T08:19:45.641238"
-    },
-    {
-        "id": "2344ae22-9d6f-4dcc-a6ea-7bdeb07e9b84",
-        "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46",
-        "name": "test",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-11T11:01:56.66149",
-        "updated_at": "2025-03-11T11:01:56.66149"
     },
     {
         "id": "510189ee-6009-4616-927f-cb66587dd6dd",
@@ -1366,5 +1339,131 @@
         "isdeleted": false,
         "created_at": "2025-03-13T17:35:59.624304",
         "updated_at": "2025-03-13T17:35:59.624304"
+    },
+    {
+        "id": "241367b2-2f2e-4b0b-a4bd-e64d764e1cc8",
+        "user_id": "fab3e6bc-2bcc-41e3-8caa-9e85eb49ac4a",
+        "name": "Ranjani Ranjani",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T02:32:42.389127",
+        "updated_at": "2025-03-14T02:32:42.389127"
+    },
+    {
+        "id": "2f050dd9-7e23-4f62-89df-c994a4b758ec",
+        "user_id": "7a23f98e-bc6b-4f6d-9268-6add72e1d0e5",
+        "name": "Francy",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T05:07:56.083943",
+        "updated_at": "2025-03-14T05:07:56.083943"
+    },
+    {
+        "id": "1dec587b-12be-470a-8455-61e6411a52ae",
+        "user_id": "b2962705-941f-4ae9-9062-465893ae240c",
+        "name": "Sri",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T06:07:50.297947",
+        "updated_at": "2025-03-14T06:07:50.297947"
+    },
+    {
+        "id": "0da8e297-ff16-4b25-8e40-b2b0c4bfe20b",
+        "user_id": "b2962705-941f-4ae9-9062-465893ae240c",
+        "name": "Sri",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T06:07:52.407934",
+        "updated_at": "2025-03-14T06:07:52.407934"
+    },
+    {
+        "id": "a952ee08-2dfe-4a9c-801c-8621c09bfc6e",
+        "user_id": "b2962705-941f-4ae9-9062-465893ae240c",
+        "name": "Sri",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T06:07:52.633137",
+        "updated_at": "2025-03-14T06:07:52.633137"
+    },
+    {
+        "id": "067ec10a-a160-48b2-8bd0-05b008884f5f",
+        "user_id": "b2962705-941f-4ae9-9062-465893ae240c",
+        "name": "Sri",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T06:08:25.653392",
+        "updated_at": "2025-03-14T06:08:25.653392"
+    },
+    {
+        "id": "7ffd514f-43d0-4f9f-aa87-76765fc9c3be",
+        "user_id": "b2962705-941f-4ae9-9062-465893ae240c",
+        "name": "Sri",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T06:09:27.323879",
+        "updated_at": "2025-03-14T06:09:27.323879"
+    },
+    {
+        "id": "47af09ae-be3f-4000-a2d1-f9891562d15d",
+        "user_id": "8216c618-e289-484d-8674-a30b4be9fdd3",
+        "name": "Prink poonam",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T06:50:03.176354",
+        "updated_at": "2025-03-14T06:50:03.176354"
+    },
+    {
+        "id": "93f070a4-be9c-49e7-99fd-9b628f5fa610",
+        "user_id": "949649b1-c8d9-4380-b5d5-9cbfc3960cbf",
+        "name": "Belt saree ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T06:58:12.859859",
+        "updated_at": "2025-03-14T06:58:12.859859"
+    },
+    {
+        "id": "a6ca8ba7-1e15-4681-9cd3-83f0bbb0edab",
+        "user_id": "8da5501d-c65a-42cf-9c39-aa5f0d129c77",
+        "name": "Gowthami",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T07:15:24.00735",
+        "updated_at": "2025-03-14T07:15:24.00735"
+    },
+    {
+        "id": "2e935492-5b5c-4abf-8e79-0ade521d1c70",
+        "user_id": "7a23f98e-bc6b-4f6d-9268-6add72e1d0e5",
+        "name": "Francy",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T09:22:29.26137",
+        "updated_at": "2025-03-14T09:22:29.26137"
+    },
+    {
+        "id": "eab32083-5793-414a-b3e4-fdcc08e0609f",
+        "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46",
+        "name": "new",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T10:09:15.542147",
+        "updated_at": "2025-03-14T10:09:15.542147"
+    },
+    {
+        "id": "578c16fc-9fbd-4e35-97e1-0f12d3191b8a",
+        "user_id": "bb9965b0-8330-4d58-89de-03b92b96ffe2",
+        "name": "Benasir S",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T15:04:52.199527",
+        "updated_at": "2025-03-14T15:04:52.199527"
+    },
+    {
+        "id": "3f03a4ca-4730-4dda-9fd2-0e529517e540",
+        "user_id": "50bf2fb7-0189-44e9-a3c3-f8ab4563e336",
+        "name": "Black",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-14T17:56:52.916216",
+        "updated_at": "2025-03-14T17:56:52.916216"
     }
 ]
