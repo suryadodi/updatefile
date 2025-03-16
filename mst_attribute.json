@@ -16,11 +16,13 @@
             "ASH",
             "lavender",
             "sky blue",
-            "violet"
+            "violet",
+            "rama green",
+            "peche"
         ],
         "name": "color",
         "created_at": "2025-02-27T06:35:30.355919",
-        "updated_at": "2025-03-14T12:00:26.941765",
+        "updated_at": "2025-03-15T05:54:51.65888",
         "categories": null,
         "id": "f8782332-d804-48e1-93b8-5bb6961b5dd0",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"

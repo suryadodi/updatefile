@@ -7076,6 +7076,105 @@
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
+        "un_read": true,
+        "message": "\u0bae\u0bc7\u0bae\u0bcd \u0bb5\u0baf\u0bbf\u0bb1\u0bc1 \u0b8a\u0b9a\u0bbf \u0b9a\u0bbe\u0bb0\u0bbf \u0bb5\u0bc7\u0ba3\u0bc1\u0bae\u0bcd \u0bae\u0bc7\u0bae\u0bcd \u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc1 ",
+        "created_at": "2025-03-15T09:17:01.384393",
+        "id": "1f4dbbfc-1802-4b36-b91d-47bc8bb7c47c",
+        "shop_id": null,
+        "user_id": "58727a65-62e0-47d0-90ef-c1e3a2987273"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "My order 2days delivery date ",
+        "created_at": "2025-03-15T12:26:12.374027",
+        "id": "415c073e-3225-4a0b-90ab-62d60962e59d",
+        "shop_id": null,
+        "user_id": "d1c65ded-2612-48c5-8483-9559b16a9481"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "My order 2days delivery  date please ",
+        "created_at": "2025-03-15T12:29:27.962932",
+        "id": "eea0901a-fd09-44c4-8617-c0c45bdbb3b4",
+        "shop_id": null,
+        "user_id": "d1c65ded-2612-48c5-8483-9559b16a9481"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "My order list",
+        "created_at": "2025-03-15T12:43:15.409001",
+        "id": "eca7bcdb-760d-460b-bb9b-9646bb25b9c9",
+        "shop_id": null,
+        "user_id": "42392e13-2bb2-4654-b04e-2af89dc738c9"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "My order list",
+        "created_at": "2025-03-15T12:43:37.516146",
+        "id": "bb6052aa-1e96-4c46-84c6-ba298256b038",
+        "shop_id": null,
+        "user_id": "42392e13-2bb2-4654-b04e-2af89dc738c9"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-15T12:44:02.711545",
+        "id": "ba059d0d-da5a-44de-b91d-74852417a972",
+        "shop_id": null,
+        "user_id": "42392e13-2bb2-4654-b04e-2af89dc738c9"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I completed my payement for my order but still my order list was no available, what i do? ",
+        "created_at": "2025-03-15T13:36:46.445302",
+        "id": "cc04100b-5c92-4554-bede-29559b6c8262",
+        "shop_id": null,
+        "user_id": "42392e13-2bb2-4654-b04e-2af89dc738c9"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "new collection update pannuga",
+        "created_at": "2025-03-15T14:42:38.907753",
+        "id": "c246c36f-8a09-494a-a5c3-472cb3944294",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "949649b1-c8d9-4380-b5d5-9cbfc3960cbf"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "website la only 4saree view aguthu",
+        "created_at": "2025-03-15T14:43:29.178588",
+        "id": "7ce6ed5a-fe39-41c6-bf06-a26462dec053",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "949649b1-c8d9-4380-b5d5-9cbfc3960cbf"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
         "un_read": false,
         "message": "Kaila tha amount irukku",
         "created_at": "2025-02-19T09:46:16.139264",
@@ -7104,6 +7203,105 @@
         "id": "98007145-f582-4e0c-b06a-42a1a111a5fb",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "60d06b5d-147f-47ca-9755-f074942e7d9f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "???my order   packing aaituccha mam",
+        "created_at": "2025-03-15T14:51:08.192806",
+        "id": "66e29053-35bf-4ef4-ada2-21529e55856a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7d269cce-ab51-454f-ad69-25325a01377c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "respons vara ye mam",
+        "created_at": "2025-03-15T14:51:43.527259",
+        "id": "b51d8f87-b322-4b17-a45f-7f61f5190665",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7d269cce-ab51-454f-ad69-25325a01377c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "All saee",
+        "created_at": "2025-03-15T16:59:15.406732",
+        "id": "c53311a4-117b-4b10-9391-41fc03e17a54",
+        "shop_id": null,
+        "user_id": "917f11e3-7545-40b7-9b09-3ea6638714c5"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-15T17:14:48.015503",
+        "id": "bc90c1b8-4240-46e3-874d-2f9e341a4562",
+        "shop_id": null,
+        "user_id": "b396c972-9494-4285-962a-2d9a7a7af969"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Saree yethum photo varale",
+        "created_at": "2025-03-15T17:15:27.286899",
+        "id": "2cea1e94-5a1f-45b0-acd7-f60eda6b73bc",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7c9fda00-08c8-4d53-be90-984c3d153d7d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Sunday offer saree?",
+        "created_at": "2025-03-15T17:15:50.659555",
+        "id": "ece53cbf-b274-4c5e-b26f-f068645baabe",
+        "shop_id": null,
+        "user_id": "b396c972-9494-4285-962a-2d9a7a7af969"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi ",
+        "created_at": "2025-03-15T19:59:11.565994",
+        "id": "c6f1ed46-bae1-4eca-83a4-58d535694537",
+        "shop_id": null,
+        "user_id": "90f4e96d-32b6-4650-b282-720f6c053b7c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "All products nice but can you put some Sarees with some contrast colour blouses some soft silk too and some cotton sarees also it's suggestion from my side",
+        "created_at": "2025-03-15T20:00:15.8505",
+        "id": "d76ca56f-6541-4a18-b5a5-78291ce1cb22",
+        "shop_id": null,
+        "user_id": "90f4e96d-32b6-4650-b282-720f6c053b7c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Summer season is coming now you can put some mumul cotton sarees it's looking very soft and comfortable and different varieties of kalakari umbrella tops also ",
+        "created_at": "2025-03-15T20:01:28.172926",
+        "id": "c9de9fa1-2fbe-484f-ab5f-e2f685a0acab",
+        "shop_id": null,
+        "user_id": "90f4e96d-32b6-4650-b282-720f6c053b7c"
     },
     {
         "is_admin": true,
@@ -7313,5 +7511,49 @@
         "id": "670a76e5-f8d7-4032-987b-b3394250f5ce",
         "shop_id": null,
         "user_id": "dbf50865-501c-4adc-a941-ce32e390fbaf"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "\u0b8e\u0ba9\u0ba4\u0bc1 \u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9\u0bbe\u0b9a\u0bcd\u0b9a\u0bc1 ",
+        "created_at": "2025-03-15T01:43:03.205372",
+        "id": "9a2187b5-8c61-42f1-8dd2-6127bd8d84ff",
+        "shop_id": null,
+        "user_id": "2ed48212-b140-4772-bb26-df2030b28ff9"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Intha saree order ",
+        "created_at": "2025-03-15T03:44:05.188726",
+        "id": "61198557-16a6-427c-bfce-9be200f760cd",
+        "shop_id": null,
+        "user_id": "e12f9f82-84c1-4ae6-b0fd-a79ed296db29"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": " I want this saree mam",
+        "created_at": "2025-03-15T06:07:40.456879",
+        "id": "6ae58b52-82be-475a-8526-1d6b709a6805",
+        "shop_id": null,
+        "user_id": "1308cbd3-ad9f-4d51-a21f-02f74ab0573b"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": " I want this saree mam",
+        "created_at": "2025-03-15T06:08:02.078683",
+        "id": "a568f93c-335d-4f5d-902e-1f3accb4c383",
+        "shop_id": null,
+        "user_id": "1308cbd3-ad9f-4d51-a21f-02f74ab0573b"
     }
 ]
