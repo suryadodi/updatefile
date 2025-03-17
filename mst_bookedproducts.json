@@ -15365,5 +15365,2616 @@
         "id": "898ea962-d12f-4845-b8c9-98a4151fae9b",
         "product": "eeb30872-7201-404b-9984-507d60884c4e",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 0,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059329194-cropped-1742059329177.png"
+            ],
+            "stocks": 4,
+            "offered_price": ""
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:01:40.744383",
+        "updated_at": "2025-03-16T02:01:40.744383",
+        "booking_id": "c39f186b-bb89-46ef-9d55-cdccead6433f",
+        "id": "8718d1b2-9672-4ebc-8471-ab6c12b58c91",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 449,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:18:32.5946",
+        "updated_at": "2025-03-16T02:18:32.5946",
+        "booking_id": "66190705-7d62-4d46-b42f-5909f2a1217b",
+        "id": "7f3529a9-7f4d-4ba4-a1c7-efc642b70819",
+        "product": "68383688-a4f6-4e16-a2f9-70b4cb33df65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017853179-cropped-1742017853164.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:18:33.502613",
+        "updated_at": "2025-03-16T02:18:33.502613",
+        "booking_id": "66190705-7d62-4d46-b42f-5909f2a1217b",
+        "id": "3bb69b10-c74a-4e74-b2ef-02ee08f6d06f",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 0,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059329194-cropped-1742059329177.png"
+            ],
+            "stocks": 2,
+            "offered_price": ""
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:19:48.462941",
+        "updated_at": "2025-03-16T02:19:48.462941",
+        "booking_id": "e03672c4-5c77-4a38-ae65-13cf588cd006",
+        "id": "eaf44988-5004-409f-95d2-1a40f51b62ef",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "sky blue",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059572628-cropped-1742059572612.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:20:05.065507",
+        "updated_at": "2025-03-16T02:20:05.065507",
+        "booking_id": "75692e12-7db7-4f25-88eb-698dd804899d",
+        "id": "ca81eaf7-373b-481d-aaa2-734418d0233f",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 13
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:39:53.730878",
+        "updated_at": "2025-03-16T02:39:53.730878",
+        "booking_id": "1ac112c4-5ba7-4a66-abf6-597433d2380f",
+        "id": "01d7b473-4b27-4aa1-bd0a-a8efd96cb072",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "violet",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059650326-cropped-1742059650310.png"
+            ],
+            "stocks": 1
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:58:02.644636",
+        "updated_at": "2025-03-16T02:58:02.644636",
+        "booking_id": "9180d811-f74d-452c-be71-206f7f071e2c",
+        "id": "e511d5f2-d2f2-4e35-aed3-820a67c0bbe8",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "NAVY BLUE",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017820106-cropped-1742017820091.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T02:59:17.425407",
+        "updated_at": "2025-03-16T02:59:17.425407",
+        "booking_id": "5d6d8a8a-892e-4d0f-a01b-7502970f13aa",
+        "id": "cdc95c50-57f1-4d30-94e8-87ae9b376afb",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 649,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "699",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741507707200-cropped-1741507707188.png"
+            ],
+            "stocks": "5",
+            "offered_price": "649"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T03:04:11.442183",
+        "updated_at": "2025-03-16T03:04:11.442183",
+        "booking_id": "8a5a217c-1b50-496c-b9f6-06a030b34e6b",
+        "id": "d907ccb2-3b34-4326-a141-fab103fcc6f6",
+        "product": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 870,
+        "coupon_price": null,
+        "quantity": 2,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059398019-cropped-1742059398004.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T03:19:23.358682",
+        "updated_at": "2025-03-16T03:19:23.358682",
+        "booking_id": "58144f32-15f0-4f64-b4d1-466297d20d08",
+        "id": "4e05a522-c0fd-4654-bdc1-6e51a19c694f",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059485795-cropped-1742059485779.png"
+            ],
+            "stocks": 4
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T03:39:44.163992",
+        "updated_at": "2025-03-16T03:39:44.163992",
+        "booking_id": "c4a4167d-a436-4568-9a57-7cf150a28ab1",
+        "id": "27526232-2981-42ac-8294-6cc7626a11df",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 12
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T03:47:58.952834",
+        "updated_at": "2025-03-16T03:47:58.952834",
+        "booking_id": "f1d9b736-0848-475e-9e52-93f8f05e1212",
+        "id": "3067490e-3468-403f-9ee2-bc3f6a1ead46",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 11
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T04:36:11.311809",
+        "updated_at": "2025-03-16T04:36:11.311809",
+        "booking_id": "b5c853ec-4138-4003-9cd6-7a9b9bd16384",
+        "id": "9bfd6e2b-8fb2-4a27-87d9-12bcebd71ccf",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059398019-cropped-1742059398004.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T04:36:11.943884",
+        "updated_at": "2025-03-16T04:36:11.943884",
+        "booking_id": "b5c853ec-4138-4003-9cd6-7a9b9bd16384",
+        "id": "d075701d-24bf-4bd8-a004-cb22323b706e",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059398019-cropped-1742059398004.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T04:38:53.191125",
+        "updated_at": "2025-03-16T04:38:53.191125",
+        "booking_id": "9b1af2a0-f020-4fca-a7e1-540919f15062",
+        "id": "5faf2334-0164-444c-96b1-90f7795d2fea",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "sky blue",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059572628-cropped-1742059572612.png"
+            ],
+            "stocks": 4
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T04:40:59.091287",
+        "updated_at": "2025-03-16T04:40:59.091287",
+        "booking_id": "48d4d7fb-6bdd-4eab-9efc-b04f7f7cc0f2",
+        "id": "c739557f-01b2-4b46-a65c-87ac187076b7",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 0,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059329194-cropped-1742059329177.png"
+            ],
+            "stocks": 1,
+            "offered_price": ""
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T04:49:36.726836",
+        "updated_at": "2025-03-16T04:49:36.726836",
+        "booking_id": "c103a764-9a59-4946-b2a2-8f57073cbbc7",
+        "id": "e82b1324-cc64-49e0-80c2-5d1c17f46a2b",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 11
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T04:53:59.663371",
+        "updated_at": "2025-03-16T04:53:59.663371",
+        "booking_id": "f4ec0bf7-b27e-4e98-8975-51ad261dd30b",
+        "id": "9d8de04e-580d-4042-abab-9e03c9f90b2a",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "sky blue",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059572628-cropped-1742059572612.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T04:58:15.20408",
+        "updated_at": "2025-03-16T04:58:15.20408",
+        "booking_id": "d0350c8d-ff6c-40b5-b049-f6fffa4615d1",
+        "id": "076941f8-7788-48d5-9052-27151154d245",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059485795-cropped-1742059485779.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:02:48.252656",
+        "updated_at": "2025-03-16T05:02:48.252656",
+        "booking_id": "dd3fc617-8532-4e9a-8fc7-4c552dd0088a",
+        "id": "5f9eb0de-df74-49ce-bde0-2792086dd8c2",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059439964-cropped-1742059439948.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:05:22.16201",
+        "updated_at": "2025-03-16T05:05:22.16201",
+        "booking_id": "7b260d8d-490a-48ca-8f3f-54bf525d6d34",
+        "id": "6e859b85-359b-421e-a9f1-23d935752939",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "sky blue",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059572628-cropped-1742059572612.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:16:41.521564",
+        "updated_at": "2025-03-16T05:16:41.521564",
+        "booking_id": "27bd7aba-da58-49c5-ae1e-6dd3091c3300",
+        "id": "b4972408-a455-4a69-9c94-0d840404fbef",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 499,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:16:42.366529",
+        "updated_at": "2025-03-16T05:16:42.366529",
+        "booking_id": "27bd7aba-da58-49c5-ae1e-6dd3091c3300",
+        "id": "a133c7a3-8026-451a-a7a7-62c69716bccd",
+        "product": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "NAVY BLUE",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017820106-cropped-1742017820091.png"
+            ],
+            "stocks": 6
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:21:36.477459",
+        "updated_at": "2025-03-16T05:21:36.477459",
+        "booking_id": "dcd23283-ee52-4c24-931b-75d606b23d3a",
+        "id": "e6e30c0b-2805-422f-8a06-e5157b7d24bd",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059398019-cropped-1742059398004.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:23:58.688191",
+        "updated_at": "2025-03-16T05:23:58.688191",
+        "booking_id": "7bb09ed7-d479-46ad-ba5a-4352b858da13",
+        "id": "4b534290-4be2-474f-8c0a-db7f3c374a56",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059439964-cropped-1742059439948.png"
+            ],
+            "stocks": 6
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:23:58.967776",
+        "updated_at": "2025-03-16T05:23:58.967776",
+        "booking_id": "7bb09ed7-d479-46ad-ba5a-4352b858da13",
+        "id": "df07f281-0ca6-40ad-b9db-6d8f74507ee8",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742039824437-cropped-1742039824423.png"
+            ],
+            "stocks": "5"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:30:12.399297",
+        "updated_at": "2025-03-16T05:30:12.399297",
+        "booking_id": "0144732e-8e6e-4049-b187-e66431691374",
+        "id": "c4e1035c-bd48-4982-9c82-acf7be20b570",
+        "product": "b582a802-9be8-4491-920a-8d2613dc9b65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059398019-cropped-1742059398004.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:36:26.086501",
+        "updated_at": "2025-03-16T05:36:26.086501",
+        "booking_id": "051b2a20-d969-4d23-a86a-e974966dc6ca",
+        "id": "cd2d8022-6d52-41bc-ab41-b0ab1ca29b8f",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059439964-cropped-1742059439948.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:57:22.842027",
+        "updated_at": "2025-03-16T05:57:22.842027",
+        "booking_id": "c64787a7-bea3-4951-b63a-b359ff84605d",
+        "id": "17d1852c-285e-486d-b0b8-c90d64ab391d",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "sky blue",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059572628-cropped-1742059572612.png"
+            ],
+            "stocks": 1
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T05:57:58.934314",
+        "updated_at": "2025-03-16T05:57:58.934314",
+        "booking_id": "d6c532c7-3f1f-4d1c-a2e5-7e375fed4827",
+        "id": "41663432-c148-4f7c-bb88-6dbb628f4bc1",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059439964-cropped-1742059439948.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T06:00:29.460134",
+        "updated_at": "2025-03-16T06:00:29.460134",
+        "booking_id": "81af187e-bb03-4f93-81b7-23cd30473ecf",
+        "id": "8121dcc6-8b20-4c27-ae0b-451ab7d4fd19",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 649,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "YELLOW",
+            "price": "699",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741507777050-cropped-1741507777038.png"
+            ],
+            "stocks": "5",
+            "offered_price": "649"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T06:14:21.636616",
+        "updated_at": "2025-03-16T06:14:21.636616",
+        "booking_id": "0b3d4fcb-0d72-4e22-9cb1-747e7ce16c32",
+        "id": "940320fc-8d6a-4536-acfa-1cb9134cce5f",
+        "product": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 449,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T06:48:40.377505",
+        "updated_at": "2025-03-16T06:48:40.377505",
+        "booking_id": "4745e522-b70c-4de8-81d5-5307a01674a1",
+        "id": "00afb4de-0a7d-414e-a701-069944179575",
+        "product": "68383688-a4f6-4e16-a2f9-70b4cb33df65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059439964-cropped-1742059439948.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T06:50:22.334357",
+        "updated_at": "2025-03-16T06:50:22.334357",
+        "booking_id": "a38d9a7f-f73a-46e5-a7c8-579f02457f7d",
+        "id": "7494ee61-18d7-4c53-97d3-22febcf7346c",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 1596,
+        "coupon_price": null,
+        "quantity": 4,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 9
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T07:04:28.400773",
+        "updated_at": "2025-03-16T07:04:28.400773",
+        "booking_id": "e9880335-da19-46f5-a547-1ed0f25b0939",
+        "id": "3d194695-f5bb-49b0-9ecb-eaa4a9512204",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059439964-cropped-1742059439948.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T07:18:40.052515",
+        "updated_at": "2025-03-16T07:18:40.052515",
+        "booking_id": "788c8796-8c44-4db8-9265-6d7fc54dc8f0",
+        "id": "47bd242e-eb51-4b0c-90b0-20df8ff1bbef",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059439964-cropped-1742059439948.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T07:29:36.608478",
+        "updated_at": "2025-03-16T07:29:36.608478",
+        "booking_id": "8a22cf15-1484-46ef-bd5c-803fd4db1a2b",
+        "id": "f01ead55-c83f-46fe-87d1-ca4625e9b56a",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T07:37:41.147338",
+        "updated_at": "2025-03-16T07:37:41.147338",
+        "booking_id": "bd4af599-136c-4e0c-bb07-da7f0ed6bade",
+        "id": "908c5207-1a80-491b-92af-bf32d7b23b17",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 499,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T07:41:10.768368",
+        "updated_at": "2025-03-16T07:41:10.768368",
+        "booking_id": "e25ffd11-d646-4658-a12e-d81200965e24",
+        "id": "0b1a7fdb-e34f-4990-ac16-85007e842bca",
+        "product": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 499,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T07:53:48.014292",
+        "updated_at": "2025-03-16T07:53:48.014292",
+        "booking_id": "a5e2a4ab-05b1-4b3c-91e4-611c020c4d6f",
+        "id": "2fd6f146-77e7-4abb-9619-dfeee06b5fc8",
+        "product": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059485795-cropped-1742059485779.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T08:00:49.96778",
+        "updated_at": "2025-03-16T08:00:49.96778",
+        "booking_id": "2627aae1-4b29-430e-a8c3-dd22bd7b4d1d",
+        "id": "2991ce0e-5b47-43b0-8387-9d71965944bc",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "NAVY BLUE",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017820106-cropped-1742017820091.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T08:18:43.745072",
+        "updated_at": "2025-03-16T08:18:43.745072",
+        "booking_id": "8364542e-5ab0-43eb-a407-87603187505d",
+        "id": "cde9a2e7-b21c-426e-8f5c-81713d942aa0",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 899,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T08:38:07.235002",
+        "updated_at": "2025-03-16T08:38:07.235002",
+        "booking_id": "5589dc65-d20f-47b9-97aa-651d90011d44",
+        "id": "2dd76caa-3294-44e2-a1ab-2fac181d8c20",
+        "product": "a27ed749-a651-4d5e-882b-112fba249be6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059485795-cropped-1742059485779.png"
+            ],
+            "stocks": 1
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T08:46:21.378778",
+        "updated_at": "2025-03-16T08:46:21.378778",
+        "booking_id": "de075a1d-7f89-4266-8fd3-070a2398102f",
+        "id": "40449baa-ba99-42ad-ad84-7783a3921dfd",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059398019-cropped-1742059398004.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T08:47:22.872891",
+        "updated_at": "2025-03-16T08:47:22.872891",
+        "booking_id": "976f6bb5-f7d9-495e-9f9e-13987f1bba44",
+        "id": "b72dcd14-e623-49ff-abc7-37881d92aa28",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 550,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "lavender",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102386111-cropped-1742102386096.png"
+            ],
+            "stocks": "20"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T08:58:13.697689",
+        "updated_at": "2025-03-16T08:58:13.697689",
+        "booking_id": "f81d8d4a-4bbf-4f40-b130-fc5e2bf1d989",
+        "id": "aefb99ba-9d84-486c-a514-425964a0e5c6",
+        "product": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 550,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "lavender",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102386111-cropped-1742102386096.png"
+            ],
+            "stocks": 19
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T09:27:22.884511",
+        "updated_at": "2025-03-16T09:27:22.884511",
+        "booking_id": "7eeba5f0-ce09-4eaa-95d9-ebd438e45ecf",
+        "id": "3795db8e-5e88-4d02-a362-c670a5078e7a",
+        "product": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 649,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "ASH",
+            "price": "699",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741507855767-cropped-1741507855756.png"
+            ],
+            "stocks": "5",
+            "offered_price": "649"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T09:48:44.416408",
+        "updated_at": "2025-03-16T09:48:44.416408",
+        "booking_id": "46745561-f7df-4ecd-ab39-57ae263169eb",
+        "id": "0fec9111-77d3-4203-8c21-3f375448daa4",
+        "product": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 349,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T09:55:00.064361",
+        "updated_at": "2025-03-16T09:55:00.064361",
+        "booking_id": "06714fea-e44a-414d-8860-0928bb255852",
+        "id": "8ce7e5d9-d6b1-4417-ac2c-f653ee559ec7",
+        "product": "9ece36b1-2598-486a-9bab-22efa17bf6bb",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 1947,
+        "coupon_price": null,
+        "quantity": 3,
+        "attributes": {
+            "color": "PINK",
+            "price": "699",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741507632576-cropped-1741507632566.png"
+            ],
+            "stocks": "5",
+            "offered_price": "649"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:23:38.49787",
+        "updated_at": "2025-03-16T10:23:38.49787",
+        "booking_id": "f9647f93-1509-4a64-a328-121a5130f360",
+        "id": "c77e0cde-25da-4c5f-ad9c-60f0901d83d8",
+        "product": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 550,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
+            ],
+            "stocks": "20"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:28:09.876939",
+        "updated_at": "2025-03-16T10:28:09.876939",
+        "booking_id": "6fece4c0-02ee-4c2e-a45a-607d6d309889",
+        "id": "eaefafe4-7fc4-454f-aee9-367918a46b6f",
+        "product": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 4
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:30:36.507406",
+        "updated_at": "2025-03-16T10:30:36.507406",
+        "booking_id": "7a787765-179e-40d1-a5d2-55537ea2a1c3",
+        "id": "1e5bbc93-b751-4044-9e0a-d1ce94ec8ade",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "NAVY BLUE",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742039950087-cropped-1742039950076.png"
+            ],
+            "stocks": "5"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:31:08.319786",
+        "updated_at": "2025-03-16T10:31:08.319786",
+        "booking_id": "87b86910-0d32-4855-adf6-845423339dfd",
+        "id": "7efccdff-99d4-41c0-8ddc-da874ada6a62",
+        "product": "b582a802-9be8-4491-920a-8d2613dc9b65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 499,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:31:32.750153",
+        "updated_at": "2025-03-16T10:31:32.750153",
+        "booking_id": "27b1c98d-62aa-4317-b8c1-c2c35924d8a6",
+        "id": "f0167858-9449-45a1-ad2e-3208b7b1e287",
+        "product": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 450,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:37:07.657449",
+        "updated_at": "2025-03-16T10:37:07.657449",
+        "booking_id": "d31aed90-1ee5-4802-936a-9e69639d5841",
+        "id": "65f1fb5a-5c36-47a0-9c3e-c0089116b8a2",
+        "product": "62f85a16-9c42-4ba9-b3d2-a84abe6c6860",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742059398019-cropped-1742059398004.png"
+            ],
+            "stocks": 1
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:38:45.471014",
+        "updated_at": "2025-03-16T10:38:45.471014",
+        "booking_id": "1a9e4346-eddc-43bf-867e-576339ca5e4b",
+        "id": "aa6bbc70-fa43-45de-9289-fc62f844f018",
+        "product": "eeb30872-7201-404b-9984-507d60884c4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLACK",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017690150-cropped-1742017690140.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T10:45:00.04831",
+        "updated_at": "2025-03-16T10:45:00.04831",
+        "booking_id": "dbdecaff-33d9-47e6-9035-af6de86d7ace",
+        "id": "babd8495-0e74-4ffa-967f-33ad8a2ad812",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 349,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T11:01:27.030483",
+        "updated_at": "2025-03-16T11:01:27.030483",
+        "booking_id": "e56e85fe-9f7b-47af-a476-267cc2cf1520",
+        "id": "f70b20d9-5dba-4e3b-aac8-fd957cf90bc0",
+        "product": "9ece36b1-2598-486a-9bab-22efa17bf6bb",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017724980-cropped-1742017724965.png"
+            ],
+            "stocks": "8"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T11:08:08.591575",
+        "updated_at": "2025-03-16T11:08:08.591575",
+        "booking_id": "dae65f83-f69b-4f5d-aadf-4dc8e01c81f4",
+        "id": "06e24cf1-6562-40a1-b6d4-996662e8a9f9",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 349,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T11:14:55.61882",
+        "updated_at": "2025-03-16T11:14:55.61882",
+        "booking_id": "e0a55bfb-a4b1-4f21-a8de-6806b93b6665",
+        "id": "71e2ed44-1320-41cd-a009-e9fe36240ebd",
+        "product": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T11:16:58.395367",
+        "updated_at": "2025-03-16T11:16:58.395367",
+        "booking_id": "b2b9d1fd-c8b0-499c-bfd6-62423dc6a6d4",
+        "id": "f3f4068e-8c9d-4518-b0f9-def32bf94be2",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 999,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T11:53:21.420275",
+        "updated_at": "2025-03-16T11:53:21.420275",
+        "booking_id": "b4d4165e-debd-45bc-ace2-bf59e7f46cfa",
+        "id": "0ef7caf6-e879-4f5d-aa8a-623070535cac",
+        "product": "9995ee68-eb4c-485f-8927-760e150b3997",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "violet",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125171287-cropped-1742125171272.png"
+            ],
+            "stocks": "6"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T12:05:24.537382",
+        "updated_at": "2025-03-16T12:05:24.537382",
+        "booking_id": "5e7538a7-0ad5-438c-8c36-6437a9cfb47b",
+        "id": "f955a8b1-6517-4658-8db6-e81b6db61626",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLACK",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017690150-cropped-1742017690140.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T12:23:30.592835",
+        "updated_at": "2025-03-16T12:23:30.592835",
+        "booking_id": "e5caca4a-92fb-48cb-bfb9-06e8ef0d4cab",
+        "id": "d5b977ad-8fff-4da6-a8ae-bd2acf747b50",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "violet",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125171287-cropped-1742125171272.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:35:52.704261",
+        "updated_at": "2025-03-16T13:35:52.704261",
+        "booking_id": "31492f06-7021-4e26-bb6d-ff6f5d80542e",
+        "id": "ebf31f76-4167-4bdd-90d3-8c6701f8bf4a",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125132218-cropped-1742125132204.png"
+            ],
+            "stocks": "5"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:37:43.11309",
+        "updated_at": "2025-03-16T13:37:43.11309",
+        "booking_id": "7c705ffd-ccaa-4ea6-b822-666e24d0bde0",
+        "id": "3aade49a-cce2-4826-959d-3032ff9a2266",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": "10"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:38:39.585127",
+        "updated_at": "2025-03-16T13:38:39.585127",
+        "booking_id": "1eaa6c26-3c1e-45d7-95df-e3ef19ea2bc9",
+        "id": "6319345b-cd2e-439c-807a-9daf9d447db7",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125096974-cropped-1742125096959.png"
+            ],
+            "stocks": "3"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:39:02.651865",
+        "updated_at": "2025-03-16T13:39:02.651865",
+        "booking_id": "24475d10-e8ae-4587-ae77-27aeb03d4166",
+        "id": "c7754928-8b09-47c7-b1f4-dc54f67e8286",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "violet",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125171287-cropped-1742125171272.png"
+            ],
+            "stocks": 4
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:40:57.722913",
+        "updated_at": "2025-03-16T13:40:57.722913",
+        "booking_id": "9a07ed0b-6fa8-4625-b01b-eab55a8434b8",
+        "id": "cabe37cc-fa91-4841-ba2f-425e0314250b",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125132218-cropped-1742125132204.png"
+            ],
+            "stocks": "5"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:41:27.526822",
+        "updated_at": "2025-03-16T13:41:27.526822",
+        "booking_id": "acbf5687-6b44-4e3d-890b-c7a1f2956e13",
+        "id": "9cac58f6-ca2f-444f-9dcc-a0a063d06b11",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125096974-cropped-1742125096959.png"
+            ],
+            "stocks": "3"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:42:52.789874",
+        "updated_at": "2025-03-16T13:42:52.789874",
+        "booking_id": "2f29cc19-9132-4ceb-8188-6b958918da98",
+        "id": "2e66422e-4403-43e7-b3d2-671dbce3e30c",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": "10"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:43:14.825345",
+        "updated_at": "2025-03-16T13:43:14.825345",
+        "booking_id": "2d15ec6f-3830-4bc9-9c52-0f5dac647d0e",
+        "id": "3ab63adc-074d-47cb-99a2-a6a521242934",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": 8
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:48:29.696844",
+        "updated_at": "2025-03-16T13:48:29.696844",
+        "booking_id": "47695156-1293-4f37-b03b-66350dd40ce7",
+        "id": "7743caea-6c72-4bc4-9e68-a412d2308429",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "violet",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125171287-cropped-1742125171272.png"
+            ],
+            "stocks": "3"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:49:33.016225",
+        "updated_at": "2025-03-16T13:49:33.016225",
+        "booking_id": "1bda28fa-17e1-4172-9ed2-a285e2f0b84b",
+        "id": "4edb5051-151f-44b1-892d-5a25cca2539e",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125132218-cropped-1742125132204.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:57:31.418219",
+        "updated_at": "2025-03-16T13:57:31.418219",
+        "booking_id": "823585cc-ea99-47cf-bed2-c55c45faf6b1",
+        "id": "7612b736-2694-4440-aee0-f6badbcdae5e",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 550,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "lavender",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102386111-cropped-1742102386096.png"
+            ],
+            "stocks": 18
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:58:39.014299",
+        "updated_at": "2025-03-16T13:58:39.014299",
+        "booking_id": "8b5acf5c-3191-44cc-bd2f-2dffd68f9b48",
+        "id": "2245f4a9-04d6-4cef-b320-98ef8ef0dfd3",
+        "product": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "RED",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125057825-cropped-1742125057810.png"
+            ],
+            "stocks": "5"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T13:59:59.856097",
+        "updated_at": "2025-03-16T13:59:59.856097",
+        "booking_id": "4cfa024c-27ee-487c-9b97-25eb2465e6e3",
+        "id": "1f51c438-9588-48e4-96e8-2e25a437cfb2",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "violet",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125171287-cropped-1742125171272.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T14:05:58.865623",
+        "updated_at": "2025-03-16T14:05:58.865623",
+        "booking_id": "17ded0d8-e4b5-457b-aa85-4fb960c89bda",
+        "id": "e1d3425e-cefd-44f5-8982-38de317a1f6a",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "violet",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125171287-cropped-1742125171272.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T14:08:54.179126",
+        "updated_at": "2025-03-16T14:08:54.179126",
+        "booking_id": "5c6244ce-82e5-44db-a9a3-9a255fda09ca",
+        "id": "d7c544a3-a9a0-42f1-b87e-52a121df1149",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742017724980-cropped-1742017724965.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T14:11:21.861012",
+        "updated_at": "2025-03-16T14:11:21.861012",
+        "booking_id": "cd003c81-3900-4b83-841b-185d76132223",
+        "id": "f26eadf3-a37f-49ef-9cc5-395e608ccd4f",
+        "product": "2f6d5c03-f04e-485e-9b40-aec0484136bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125217304-cropped-1742125217289.png"
+            ],
+            "stocks": "9"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T14:23:15.009214",
+        "updated_at": "2025-03-16T14:23:15.009214",
+        "booking_id": "27ae7bb1-cc93-42a8-a737-e92e792f57de",
+        "id": "2119f07d-dfae-42a3-823f-451bbb5ef7ce",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": 7
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T14:35:02.654418",
+        "updated_at": "2025-03-16T14:35:02.654418",
+        "booking_id": "84498470-d3a3-4f03-b09d-01277626e6ab",
+        "id": "bd8365dc-93d1-4347-9ab8-c5eb1a32b35c",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 899,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T14:41:43.165068",
+        "updated_at": "2025-03-16T14:41:43.165068",
+        "booking_id": "97f51b0a-62bb-4acf-8134-bef4eafe367a",
+        "id": "8a308713-7954-463f-bc43-1125b9c4fc7f",
+        "product": "41812b88-2356-43d2-b118-e46c327866ad",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125132218-cropped-1742125132204.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T14:48:50.559044",
+        "updated_at": "2025-03-16T14:48:50.559044",
+        "booking_id": "3ab4001f-06f9-4b33-98ab-ee9c593af5da",
+        "id": "53916afa-d34d-4c05-9c2b-a5b2e28e4e07",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": 6
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T15:16:44.276575",
+        "updated_at": "2025-03-16T15:16:44.276575",
+        "booking_id": "b4486ac1-64a5-4e1e-8d77-905df768f6b1",
+        "id": "2df8bf65-cc52-4a57-9308-ec5d9ecc2f27",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": 5
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T15:38:12.680215",
+        "updated_at": "2025-03-16T15:38:12.680215",
+        "booking_id": "c0ad6779-04d3-47a4-8937-3c892c074c03",
+        "id": "5c3af7b0-ee5a-4244-bf47-e0ade193113c",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 2
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T15:44:06.104538",
+        "updated_at": "2025-03-16T15:44:06.104538",
+        "booking_id": "3a48ef6e-2ddb-429c-907d-d2d4a2ead6c1",
+        "id": "fdadab4f-3a6e-4660-9ada-b62a704d3a01",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 399,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BROWN",
+            "price": "399",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
+            ],
+            "stocks": 13
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T16:12:00.512281",
+        "updated_at": "2025-03-16T16:12:00.512281",
+        "booking_id": "2a267e0d-657b-4950-a6d8-f238bb2d0ab5",
+        "id": "fd1152ea-55c7-4abf-a6c2-b4d67ae49075",
+        "product": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125217304-cropped-1742125217289.png"
+            ],
+            "stocks": 8
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T16:24:03.85234",
+        "updated_at": "2025-03-16T16:24:03.85234",
+        "booking_id": "a7c4fd8f-b2ef-4dfd-9d61-69ef704a112e",
+        "id": "82ced4cf-1cbb-43c4-958c-f76186bb268d",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "BLUE",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125132218-cropped-1742125132204.png"
+            ],
+            "stocks": 1
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T16:26:58.832287",
+        "updated_at": "2025-03-16T16:26:58.832287",
+        "booking_id": "3d04c0e8-9da1-4aa3-b73f-107ea85d3a5a",
+        "id": "c50102b8-dfdf-41d1-a045-6a5875b63321",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 899,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T16:32:02.24626",
+        "updated_at": "2025-03-16T16:32:02.24626",
+        "booking_id": "d01775aa-3428-4bfd-8dd9-03f24ed2faaf",
+        "id": "788391c6-4f50-4675-9f1c-90a4d0d2211c",
+        "product": "a27ed749-a651-4d5e-882b-112fba249be6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 499,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "499",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742142066385-cropped-1742142066370.png"
+            ],
+            "stocks": "8"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T16:52:27.887216",
+        "updated_at": "2025-03-16T16:52:27.887216",
+        "booking_id": "3538d331-0d1a-478f-b139-7d6a1f3bb7a3",
+        "id": "9601f8ad-603d-4af5-bf7d-64c6b364374e",
+        "product": "fda88f3e-aac2-4d66-bc51-de3ffa45ecec",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "rama green",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125096974-cropped-1742125096959.png"
+            ],
+            "stocks": 1
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T17:01:52.032633",
+        "updated_at": "2025-03-16T17:01:52.032633",
+        "booking_id": "6d60f639-279f-4491-8f29-b4a3b03624c1",
+        "id": "5b5fe4cd-1265-46b4-9a3e-68ab3fb3c3b8",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": 4
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T17:02:24.681681",
+        "updated_at": "2025-03-16T17:02:24.681681",
+        "booking_id": "fa30bde8-4142-449b-b34d-453cb38d7242",
+        "id": "1d1b3129-e965-43d4-af16-1d79f5c176fa",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T17:09:01.612595",
+        "updated_at": "2025-03-16T17:09:01.612595",
+        "booking_id": "6ef6043c-9ddd-479e-8373-30618c36508b",
+        "id": "168ad676-96fd-4ed4-9847-af94ef8bda17",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125005986-cropped-1742125005958.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T17:11:12.148189",
+        "updated_at": "2025-03-16T17:11:12.148189",
+        "booking_id": "7c669792-41f5-462a-81d0-b427346e3184",
+        "id": "88fc1d7a-6205-40dc-bc5f-88e7b44f8266",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "RED",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125057825-cropped-1742125057810.png"
+            ],
+            "stocks": 4
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T17:15:25.165326",
+        "updated_at": "2025-03-16T17:15:25.165326",
+        "booking_id": "1359c691-4950-4a8d-892a-b6ea9f589e03",
+        "id": "8592eb76-6bed-4a0d-b2e7-251845b498bd",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 349,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T17:52:26.767425",
+        "updated_at": "2025-03-16T17:52:26.767425",
+        "booking_id": "39261b1e-5656-47ad-bd3b-e3da19078eda",
+        "id": "5343c8d1-0262-492c-8a28-87e60360219f",
+        "product": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "RED",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125057825-cropped-1742125057810.png"
+            ],
+            "stocks": "5"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T18:05:03.164001",
+        "updated_at": "2025-03-16T18:05:03.164001",
+        "booking_id": "b27b6343-787c-4f7b-87a9-5918b7483a05",
+        "id": "6d8dae86-9e12-4df4-a392-fadf8068d3a6",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 899,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T18:15:16.473399",
+        "updated_at": "2025-03-16T18:15:16.473399",
+        "booking_id": "96fcf7a0-3162-4ca7-bc46-afa094529be1",
+        "id": "5eb406a1-412d-4701-925e-164428bb3c78",
+        "product": "552b6e6f-6bf2-4751-85b7-f38c8bb57857",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 435,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "RED",
+            "price": "435",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742125057825-cropped-1742125057810.png"
+            ],
+            "stocks": 3
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T18:15:17.313559",
+        "updated_at": "2025-03-16T18:15:17.313559",
+        "booking_id": "96fcf7a0-3162-4ca7-bc46-afa094529be1",
+        "id": "ecc077ef-d0dd-4b8e-ab0d-03072f4d345c",
+        "product": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 499,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T18:15:17.889727",
+        "updated_at": "2025-03-16T18:15:17.889727",
+        "booking_id": "96fcf7a0-3162-4ca7-bc46-afa094529be1",
+        "id": "05e95b5d-123e-4f38-98ae-16cb0d3ad8bc",
+        "product": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 550,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "PINK",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
+            ],
+            "stocks": 19
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T18:44:19.402199",
+        "updated_at": "2025-03-16T18:44:19.402199",
+        "booking_id": "f0c059c6-bd31-4c1e-9fe3-6874faec8cbb",
+        "id": "a3028712-7495-4b20-9a94-3bb3ee56b0a2",
+        "product": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 799,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": {
+            "color": "GREEN",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742039771760-cropped-1742039771748.png"
+            ],
+            "stocks": "5"
+        },
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-16T23:58:54.97738",
+        "updated_at": "2025-03-16T23:58:54.97738",
+        "booking_id": "ce3e2208-1dec-4afd-bb7e-8d1ccbcc0773",
+        "id": "1518094a-5623-40c5-aab6-aa01aa9ba362",
+        "product": "b582a802-9be8-4491-920a-8d2613dc9b65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "is_review": false,
+        "paid_price": null,
+        "price": null,
+        "saved_price": null,
+        "star_rating": null,
+        "sub_total": 499,
+        "coupon_price": null,
+        "quantity": 1,
+        "attributes": null,
+        "review_photos_videos": null,
+        "review_rating": null,
+        "created_at": "2025-03-17T01:18:02.245711",
+        "updated_at": "2025-03-17T01:18:02.245711",
+        "booking_id": "17cbdd39-af4b-4761-a6ce-0d64db690dab",
+        "id": "5570a520-d0af-4d0e-a068-9deb927e5429",
+        "product": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
