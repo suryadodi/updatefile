@@ -4,17 +4,6 @@
         "is_deleted": false,
         "resolved": true,
         "un_read": false,
-        "message": "Mam nan what up number la vaira oosi saree order pannirunthen innum enaku varala 5days aachi msg panna no reply pls konjam check panni sollunga pls mam",
-        "created_at": "2025-02-19T09:46:11.404522",
-        "id": "cc241a0f-caac-4280-a244-82c8210c6cb2",
-        "shop_id": null,
-        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
-    },
-    {
-        "is_admin": false,
-        "is_deleted": false,
-        "resolved": true,
-        "un_read": false,
         "message": "Saree rate",
         "created_at": "2025-02-19T09:46:14.173148",
         "id": "6674a69e-822d-4f81-ad62-8b3fcca28af6",
@@ -708,6 +697,17 @@
         "is_deleted": false,
         "resolved": true,
         "un_read": false,
+        "message": "Mam nan what up number la vaira oosi saree order pannirunthen innum enaku varala 5days aachi msg panna no reply pls konjam check panni sollunga pls mam",
+        "created_at": "2025-02-19T09:46:11.404522",
+        "id": "cc241a0f-caac-4280-a244-82c8210c6cb2",
+        "shop_id": null,
+        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
         "message": "Hiii",
         "created_at": "2025-02-19T09:46:39.992994",
         "id": "9707c582-8955-4d52-8744-fb75fd798940",
@@ -968,17 +968,6 @@
         "user_id": "cc266231-e26f-483d-a85d-454818d6bb75"
     },
     {
-        "is_admin": true,
-        "is_deleted": false,
-        "resolved": false,
-        "un_read": false,
-        "message": "Ungaloda order receive aagi nu check panna solli. ",
-        "created_at": "2025-02-19T09:47:55.141676",
-        "id": "df25e1ad-43c6-4bca-978d-0b2aa4ccf542",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
-    },
-    {
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
@@ -1021,17 +1010,6 @@
         "id": "dbe18835-d343-4485-b8f1-23b17a7f89ca",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "a35e184c-ae61-4701-9b6f-c650f36fd8d9"
-    },
-    {
-        "is_admin": true,
-        "is_deleted": false,
-        "resolved": false,
-        "un_read": false,
-        "message": "Iruken ",
-        "created_at": "2025-02-19T09:48:00.874034",
-        "id": "8ff67066-fbdb-4a92-b978-d981ea67c0ce",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
     },
     {
         "is_admin": false,
@@ -1131,17 +1109,6 @@
         "id": "9372dee6-93d0-457a-bca7-17fe08ffaa64",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "516430d1-67e9-4e32-894b-18b3aa628e51"
-    },
-    {
-        "is_admin": false,
-        "is_deleted": false,
-        "resolved": true,
-        "un_read": false,
-        "message": "Mam wepsidela potta saree innum varala mam",
-        "created_at": "2025-02-19T09:48:22.902116",
-        "id": "04e77724-15e2-470a-8367-8d4a94665502",
-        "shop_id": null,
-        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
     },
     {
         "is_admin": false,
@@ -1419,13 +1386,35 @@
         "user_id": "849e7a9f-c9fe-4865-871b-3d171cb5dd25"
     },
     {
+        "is_admin": true,
+        "is_deleted": false,
+        "resolved": false,
+        "un_read": false,
+        "message": "Ungaloda order receive aagi nu check panna solli. ",
+        "created_at": "2025-02-19T09:47:55.141676",
+        "id": "df25e1ad-43c6-4bca-978d-0b2aa4ccf542",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
+    },
+    {
+        "is_admin": true,
+        "is_deleted": false,
+        "resolved": false,
+        "un_read": false,
+        "message": "Iruken ",
+        "created_at": "2025-02-19T09:48:00.874034",
+        "id": "8ff67066-fbdb-4a92-b978-d981ea67c0ce",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
+    },
+    {
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
         "un_read": false,
-        "message": "Stone work saree mam",
-        "created_at": "2025-02-19T09:48:24.742093",
-        "id": "2ec156a7-1b98-4bce-a5d2-6db3c60ccac0",
+        "message": "Mam wepsidela potta saree innum varala mam",
+        "created_at": "2025-02-19T09:48:22.902116",
+        "id": "04e77724-15e2-470a-8367-8d4a94665502",
         "shop_id": null,
         "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
     },
@@ -1626,17 +1615,6 @@
         "id": "8cc60f18-530a-40ed-add8-56ed57391ea7",
         "shop_id": null,
         "user_id": "18063c87-ff66-4e9b-93c9-f7179b6a5bb3"
-    },
-    {
-        "is_admin": false,
-        "is_deleted": false,
-        "resolved": true,
-        "un_read": false,
-        "message": "Hlo mam konjam check panni sollunga wepside order panna 3days varumnu sonninga innum en kaila keedaikala",
-        "created_at": "2025-02-19T09:49:02.014707",
-        "id": "89addcf1-8c5f-4636-ab90-31f3d3e7cb52",
-        "shop_id": null,
-        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
     },
     {
         "is_admin": false,
@@ -2099,6 +2077,28 @@
         "id": "d686e733-6987-41f9-b2d8-7464025bae39",
         "shop_id": null,
         "user_id": "d242a203-985d-46f2-99ad-0f34e95312c7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "Stone work saree mam",
+        "created_at": "2025-02-19T09:48:24.742093",
+        "id": "2ec156a7-1b98-4bce-a5d2-6db3c60ccac0",
+        "shop_id": null,
+        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "Hlo mam konjam check panni sollunga wepside order panna 3days varumnu sonninga innum en kaila keedaikala",
+        "created_at": "2025-02-19T09:49:02.014707",
+        "id": "89addcf1-8c5f-4636-ab90-31f3d3e7cb52",
+        "shop_id": null,
+        "user_id": "60a92e16-0dda-489c-b0f4-d1d485060e6f"
     },
     {
         "is_admin": false,
@@ -6240,6 +6240,127 @@
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
+        "un_read": true,
+        "message": "Name abinaya ",
+        "created_at": "2025-03-18T15:06:21.817736",
+        "id": "4055bf0d-54ab-48cb-acae-3ab3e75d4ccd",
+        "shop_id": null,
+        "user_id": "0ed9d61c-a2bf-48c0-98bb-550ee98686d4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Phone num 8110089727",
+        "created_at": "2025-03-18T15:06:43.978122",
+        "id": "736332dd-d8dd-4115-9544-572db30bc651",
+        "shop_id": null,
+        "user_id": "0ed9d61c-a2bf-48c0-98bb-550ee98686d4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Place nagore",
+        "created_at": "2025-03-18T15:06:56.517706",
+        "id": "29c172ea-95a2-465f-afe3-fff3366c017f",
+        "shop_id": null,
+        "user_id": "0ed9d61c-a2bf-48c0-98bb-550ee98686d4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Pls response pannunga mam",
+        "created_at": "2025-03-18T15:07:25.415195",
+        "id": "053e1ade-e5eb-4666-9c0f-b2166255bc5c",
+        "shop_id": null,
+        "user_id": "0ed9d61c-a2bf-48c0-98bb-550ee98686d4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-18T15:43:30.710329",
+        "id": "3f91139e-6790-4462-b436-271019377c47",
+        "shop_id": null,
+        "user_id": "f838bfb8-73bd-462d-b944-fb6e27b5250d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello m",
+        "created_at": "2025-03-18T15:44:27.956124",
+        "id": "3ed3023d-89f9-4b81-a777-c2cd11b694cf",
+        "shop_id": null,
+        "user_id": "f2af6b39-9fc0-43bb-b2ec-44ba6688e53f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Mam eppa varum saree",
+        "created_at": "2025-03-18T16:33:06.421386",
+        "id": "619f84a7-64ce-4868-b9a6-52f282ac9921",
+        "shop_id": null,
+        "user_id": "30db8073-2925-4709-ad93-e5de4c82ebd2"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-18T16:47:12.778674",
+        "id": "642e0f62-2607-4e6e-8ec9-a8a3fc7f921c",
+        "shop_id": null,
+        "user_id": "8019af53-6d5d-435d-a612-72ce7bdacdb0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Recently I ordered sarees",
+        "created_at": "2025-03-18T16:48:06.146341",
+        "id": "32fa7ded-b5f5-4669-ad46-830af0e14b7c",
+        "shop_id": null,
+        "user_id": "8019af53-6d5d-435d-a612-72ce7bdacdb0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Order id is 073cf63c",
+        "created_at": "2025-03-18T16:48:14.220524",
+        "id": "7b37e664-83f4-4bec-a25e-3204d2babffc",
+        "shop_id": null,
+        "user_id": "8019af53-6d5d-435d-a612-72ce7bdacdb0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "When is dispatched",
+        "created_at": "2025-03-18T16:48:25.539443",
+        "id": "4d1974b5-466d-46c8-ab7f-8f8c14519194",
+        "shop_id": null,
+        "user_id": "8019af53-6d5d-435d-a612-72ce7bdacdb0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
         "un_read": false,
         "message": "I ordered Pushpa 2 saree but money debited from my side but ordered not placed please check",
         "created_at": "2025-03-08T17:57:59.557821",
@@ -6389,6 +6510,94 @@
         "id": "b40fd217-91ba-4f2b-9308-5a88437f2a36",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "de4b11b1-5691-4cfd-ac32-f7691462def7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hii",
+        "created_at": "2025-03-18T17:11:23.008591",
+        "id": "74987f17-e470-4d07-8ee8-0fbd0e7aad89",
+        "shop_id": null,
+        "user_id": "e9bf4e76-247b-4e30-8d59-a7b33f8fdd29"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Send saree collection ",
+        "created_at": "2025-03-18T17:11:33.438552",
+        "id": "e91c957c-801a-431d-b853-5a5ab6ac5328",
+        "shop_id": null,
+        "user_id": "e9bf4e76-247b-4e30-8d59-a7b33f8fdd29"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-18T17:32:50.218717",
+        "id": "b2d4c3d9-1bd4-4e5d-a314-384e52a00b12",
+        "shop_id": null,
+        "user_id": "5d435c6e-045a-4011-9277-f5d50645672d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I want this saree in brown colour ",
+        "created_at": "2025-03-18T17:54:43.681357",
+        "id": "9dcbf888-9fdf-495b-b2e9-3f9334e69b76",
+        "shop_id": null,
+        "user_id": "f9670f0d-980d-4b9b-abab-217835202657"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I want this saree in brown colour ",
+        "created_at": "2025-03-18T17:55:02.85681",
+        "id": "e426af9c-5862-4fe4-90c0-f80a9e1b0ea0",
+        "shop_id": null,
+        "user_id": "f9670f0d-980d-4b9b-abab-217835202657"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Where is my order",
+        "created_at": "2025-03-18T18:49:56.930777",
+        "id": "e04c77e2-d23d-4272-b94b-e3d89c99c641",
+        "shop_id": null,
+        "user_id": "09f7f1b3-978f-45aa-b331-3c08b7ae1745"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "10 days aacu ",
+        "created_at": "2025-03-18T18:50:25.140731",
+        "id": "80b3809e-fed3-46fb-b87a-7e4b8abd2718",
+        "shop_id": null,
+        "user_id": "09f7f1b3-978f-45aa-b331-3c08b7ae1745"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Cash on delivery",
+        "created_at": "2025-03-18T18:55:51.605649",
+        "id": "d4505238-78e5-4df9-a0d2-934aa33da840",
+        "shop_id": null,
+        "user_id": "14e2a25d-9033-41b6-ab65-4a1ef6ca76dd"
     },
     {
         "is_admin": true,
@@ -8195,6 +8404,50 @@
         "user_id": "7d269cce-ab51-454f-ad69-25325a01377c"
     },
     {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Akka enna pantringa",
+        "created_at": "2025-03-18T06:17:28.791942",
+        "id": "03dc8ef7-71c7-407c-b9a8-1ca3139990b7",
+        "shop_id": null,
+        "user_id": "e65ca313-0446-460b-9cb0-715fcac7183c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Search panna vara mattanguthu mam",
+        "created_at": "2025-03-18T01:45:54.631043",
+        "id": "06e29a0d-1d7b-433f-a77e-7fda9979801c",
+        "shop_id": null,
+        "user_id": "e86b0a00-6f58-4a7e-865c-cb2282c8f0f5"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi mam nan shawl order panen amount um sent paniten but no orders nu katudhu",
+        "created_at": "2025-03-18T02:38:26.308208",
+        "id": "f2df7207-318e-4b70-986c-eae2fab098d6",
+        "shop_id": null,
+        "user_id": "4f8f9569-f90b-47b6-9d1d-4a7efb2c1e1c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-18T06:52:18.207942",
+        "id": "1caddcfa-f5f0-4fb9-9c2e-682d7a88a554",
+        "shop_id": null,
+        "user_id": "1dfcdfbc-4e52-4285-83a5-af844b1b8ee8"
+    },
+    {
         "is_admin": true,
         "is_deleted": false,
         "resolved": false,
@@ -8209,56 +8462,56 @@
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
-        "un_read": false,
-        "message": "Hii",
-        "created_at": "2025-03-17T11:03:46.715981",
-        "id": "e8333b9a-1c08-4e43-bc8b-f177c1fe7e86",
+        "un_read": true,
+        "message": "Hii mam",
+        "created_at": "2025-03-18T05:43:55.180117",
+        "id": "c51b7e4c-4618-482f-927c-cd6ab91e532c",
         "shop_id": null,
-        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+        "user_id": "83dc002c-2aee-4c88-aed7-a36d8bdbc537"
     },
     {
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
-        "un_read": false,
-        "message": "hii",
-        "created_at": "2025-03-17T11:05:54.744087",
-        "id": "34d476c4-27cd-46e5-8ef7-81ee4354bf82",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+        "un_read": true,
+        "message": "Hii mam",
+        "created_at": "2025-03-18T05:44:04.409234",
+        "id": "54a92166-4ae9-4c6b-ab39-9c530b02875e",
+        "shop_id": null,
+        "user_id": "83dc002c-2aee-4c88-aed7-a36d8bdbc537"
     },
     {
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
-        "un_read": false,
-        "message": "how many days will it take to deliver the parcel",
-        "created_at": "2025-03-17T11:06:42.458824",
-        "id": "e7f700f4-8ede-422e-8e39-d32a9f3c3c19",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+        "un_read": true,
+        "message": "Hiiii ",
+        "created_at": "2025-03-18T05:53:40.286259",
+        "id": "e7990d45-4904-4b9b-a25b-fad281e4e479",
+        "shop_id": null,
+        "user_id": "e65ca313-0446-460b-9cb0-715fcac7183c"
     },
     {
         "is_admin": false,
         "is_deleted": false,
         "resolved": true,
-        "un_read": false,
-        "message": "hello",
-        "created_at": "2025-03-17T13:57:31.978262",
-        "id": "86be9e1b-24fa-4162-a7d9-3b5977509016",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+        "un_read": true,
+        "message": "Hiii",
+        "created_at": "2025-03-18T05:53:53.37071",
+        "id": "9a9a5511-ada2-4533-a913-870363b9c447",
+        "shop_id": null,
+        "user_id": "e65ca313-0446-460b-9cb0-715fcac7183c"
     },
     {
-        "is_admin": true,
+        "is_admin": false,
         "is_deleted": false,
-        "resolved": false,
-        "un_read": false,
-        "message": "max 3",
-        "created_at": "2025-03-17T18:38:06.21516",
-        "id": "f0a60dce-6cbd-404c-9141-2084cc95e83e",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-18T05:54:02.482558",
+        "id": "a67e220e-da1d-44ce-82e0-1a98554fd4cd",
+        "shop_id": null,
+        "user_id": "76fa17c9-7c55-4809-a009-93e9058522ac"
     },
     {
         "is_admin": true,
@@ -8347,5 +8600,258 @@
         "id": "155517d7-1c66-43fe-889b-a939f000bf6a",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "90aaa2bb-324e-42c9-9175-b9bd67d2e38a"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hlooooo ",
+        "created_at": "2025-03-18T05:54:10.166108",
+        "id": "4fc97f2a-5964-450f-bcd7-90e6a118397b",
+        "shop_id": null,
+        "user_id": "e65ca313-0446-460b-9cb0-715fcac7183c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Cod option is not available ",
+        "created_at": "2025-03-18T05:54:21.583733",
+        "id": "29231c0a-1a54-45ec-b8a3-c35162544426",
+        "shop_id": null,
+        "user_id": "76fa17c9-7c55-4809-a009-93e9058522ac"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I want cod option",
+        "created_at": "2025-03-18T05:54:35.32764",
+        "id": "2be3c4c8-62d4-4c0d-b90d-d75a6cb39261",
+        "shop_id": null,
+        "user_id": "76fa17c9-7c55-4809-a009-93e9058522ac"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "Hii",
+        "created_at": "2025-03-17T11:03:46.715981",
+        "id": "e8333b9a-1c08-4e43-bc8b-f177c1fe7e86",
+        "shop_id": null,
+        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "hii",
+        "created_at": "2025-03-17T11:05:54.744087",
+        "id": "34d476c4-27cd-46e5-8ef7-81ee4354bf82",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "how many days will it take to deliver the parcel",
+        "created_at": "2025-03-17T11:06:42.458824",
+        "id": "e7f700f4-8ede-422e-8e39-d32a9f3c3c19",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": false,
+        "message": "hello",
+        "created_at": "2025-03-17T13:57:31.978262",
+        "id": "86be9e1b-24fa-4162-a7d9-3b5977509016",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+    },
+    {
+        "is_admin": true,
+        "is_deleted": false,
+        "resolved": false,
+        "un_read": false,
+        "message": "max 3",
+        "created_at": "2025-03-17T18:38:06.21516",
+        "id": "f0a60dce-6cbd-404c-9141-2084cc95e83e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2400d917-6a90-4e64-aaf9-2fffa4df3aee"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Colour venum",
+        "created_at": "2025-03-18T06:52:38.83365",
+        "id": "ccb99f03-37f8-4e8a-a01e-1fc09c5b175d",
+        "shop_id": null,
+        "user_id": "1dfcdfbc-4e52-4285-83a5-af844b1b8ee8"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Saree collection venum",
+        "created_at": "2025-03-18T07:04:53.253878",
+        "id": "488a80c0-1685-4f57-bbf6-42b081a3ea2c",
+        "shop_id": null,
+        "user_id": "1dfcdfbc-4e52-4285-83a5-af844b1b8ee8"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Mam saree illaya",
+        "created_at": "2025-03-18T08:45:25.104593",
+        "id": "e49ed103-05db-4ace-9cbf-40b95a9d27c3",
+        "shop_id": null,
+        "user_id": "58727a65-62e0-47d0-90ef-c1e3a2987273"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Replay pannunga mam please",
+        "created_at": "2025-03-18T08:49:13.408935",
+        "id": "9e635a19-8fc3-4e8e-abd6-f252e46b11e4",
+        "shop_id": null,
+        "user_id": "58727a65-62e0-47d0-90ef-c1e3a2987273"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-18T09:14:24.177357",
+        "id": "12e4e974-7e1b-4f67-b42d-7b3ceb45fdd6",
+        "shop_id": null,
+        "user_id": "7ff25c49-e14e-4931-84ad-aa716ea076ee"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hlo",
+        "created_at": "2025-03-18T09:32:18.949874",
+        "id": "54c11688-f07d-4f89-ba46-18070f500632",
+        "shop_id": null,
+        "user_id": "48fd379c-8abc-405a-b028-13917cc749d6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Latest collection ",
+        "created_at": "2025-03-18T11:13:08.637155",
+        "id": "c9591058-e3ea-4b8b-81be-4a24462da52c",
+        "shop_id": null,
+        "user_id": "a7a817c9-d6e8-46e8-a7a9-0cdcf51b48a0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Latest collection ",
+        "created_at": "2025-03-18T11:13:21.614269",
+        "id": "20dedc91-db89-431e-8625-42b6fab7cbd1",
+        "shop_id": null,
+        "user_id": "a7a817c9-d6e8-46e8-a7a9-0cdcf51b48a0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello",
+        "created_at": "2025-03-18T12:42:54.945372",
+        "id": "5b435fd9-2e34-434f-8503-46aa0df94c9b",
+        "shop_id": null,
+        "user_id": "8cec6cf0-7d4d-47f8-8c5c-8baffec271b4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-18T13:24:30.005807",
+        "id": "b6ca8579-e804-4bfd-afb4-08045b5609a4",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "c6a7468e-67fd-43e2-a9a0-ab39c85447df"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Collersh",
+        "created_at": "2025-03-18T13:59:38.835219",
+        "id": "2022cf80-3cf9-4615-83b4-f0197e57d0e7",
+        "shop_id": null,
+        "user_id": "0aec5db4-f90a-4932-87f0-c922cacc5c70"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Mam",
+        "created_at": "2025-03-18T14:02:58.58303",
+        "id": "420bbd4b-59de-4b42-98ff-0e6f08017693",
+        "shop_id": null,
+        "user_id": "58727a65-62e0-47d0-90ef-c1e3a2987273"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Screen shot mobile la eruthu anupa mudiyala",
+        "created_at": "2025-03-18T15:04:23.481516",
+        "id": "2757e97e-59cb-4335-ba5d-0c0371029b0b",
+        "shop_id": null,
+        "user_id": "0ed9d61c-a2bf-48c0-98bb-550ee98686d4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Unga whatsapp num ku anupi eruken mam pls check pannunga",
+        "created_at": "2025-03-18T15:06:02.476177",
+        "id": "5aa355e7-9b62-4370-9903-470a485a2c2a",
+        "shop_id": null,
+        "user_id": "0ed9d61c-a2bf-48c0-98bb-550ee98686d4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "\u0ba8\u0bbe\u0ba9\u0bcd \u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd \u0baa\u0bcb\u0b9f\u0bcd\u0b9f\u0bc1 5\u0ba8\u0bbe\u0bb3\u0bcd \u0b86\u0b95\u0bc1\u0ba4\u0bc1 sister \u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc1 \u0b86\u0bb0\u0bcd\u0b9f\u0bb0\u0bcd \u0bb2\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0bb5\u0bb0\u0bb5\u0bc7 \u0b87\u0bb2\u0bcd\u0bb2\u0bc8. rs.349 upi \u0bb2 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bbf \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95 \u0ba8\u0bc0\u0b99\u0bcd\u0b95 chek \u0baa\u0ba3\u0bcd\u0ba3\u0bbf \u0baa\u0bbe\u0bb0\u0bc1\u0b99\u0bcd\u0b95 whatapp \u0bb2 screen short \u0b8e\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1 \u0b85\u0ba9\u0bc1\u0baa\u0bcd\u0baa\u0bbf\u0b9f\u0bcd\u0b9f\u0bc7\u0ba9\u0bcd \u0b8e\u0ba8\u0bcd\u0ba4 replay \u0baf\u0bc1\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0bc8.. \ud83d\ude15",
+        "created_at": "2025-03-19T00:09:04.684449",
+        "id": "d9885709-19fd-4aed-844f-6819f9ea4f3e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7d269cce-ab51-454f-ad69-25325a01377c"
     }
 ]
