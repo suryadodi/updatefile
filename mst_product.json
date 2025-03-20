@@ -1,6 +1,71 @@
 [
     {
         "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "lavender",
+                "price": "850",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741953710091-cropped-1741953710086.png"
+                ],
+                "stocks": "5"
+            },
+            {
+                "color": "PINK",
+                "price": "850",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741953740735-cropped-1741953740724.png"
+                ],
+                "stocks": "5"
+            },
+            {
+                "color": "sky blue",
+                "price": "850",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741953787049-cropped-1741953787039.png"
+                ],
+                "stocks": 4
+            },
+            {
+                "color": "violet",
+                "price": "850",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741953864647-cropped-1741953864636.png"
+                ],
+                "stocks": "5"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>plain pattu</li><li>running blouse</li><li>with border</li><li><br></li></ul>",
+        "image": null,
+        "name": "fancy pattu",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-14T12:07:09.632572",
+        "updated_at": "2025-03-19T07:05:54.331642",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "4bb53640-8549-421d-812f-f57f81436c9c",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
+    },
+    {
+        "featured_products": null,
         "isdeleted": true,
         "is_offer": null,
         "show_stock": true,
@@ -73,6 +138,40 @@
         "id": "81bd666f-5f41-45a0-abb4-c84a21138f55",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": true,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 999,
+        "price": 700,
+        "quantity": null,
+        "selling_price": 1049,
+        "stocks": 5,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741871852536-cropped-1741871852525.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>copper  silk</li><li>border saree</li></ul>",
+        "image": null,
+        "name": "soft silk",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-13T13:17:43.921582",
+        "updated_at": "2025-03-19T18:07:03.534617",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "9995ee68-eb4c-485f-8927-760e150b3997",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
     },
     {
         "featured_products": null,
@@ -576,40 +675,6 @@
     },
     {
         "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": true,
-        "status": null,
-        "top_selling": true,
-        "trending_products": null,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": 999,
-        "price": 700,
-        "quantity": null,
-        "selling_price": 1049,
-        "stocks": 6,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1741871852536-cropped-1741871852525.png"
-        ],
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>copper  silk</li><li>border saree</li></ul>",
-        "image": null,
-        "name": "soft silk",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-13T13:17:43.921582",
-        "updated_at": "2025-03-16T11:53:21.547555",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "9995ee68-eb4c-485f-8927-760e150b3997",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
-    },
-    {
-        "featured_products": null,
         "isdeleted": true,
         "is_offer": null,
         "show_stock": false,
@@ -764,6 +829,41 @@
         "id": "6a519cd6-69cb-4c35-928f-7cd7b6197320",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": null,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": 350,
+        "quantity": null,
+        "selling_price": 499,
+        "stocks": 1,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741508093289-cropped-1741508093284.png",
+            "https://d246wdlhxeb44j.cloudfront.net/1741508146394-cropped-1741508146387.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>Poonam saree</li><li>stone work</li><li>running blouse</li><li>super qulity</li></ul>",
+        "image": null,
+        "name": "susila pink",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-19T15:43:11.245293",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     },
     {
         "featured_products": null,
@@ -1157,71 +1257,6 @@
     },
     {
         "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": false,
-        "status": null,
-        "top_selling": true,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": null,
-        "price": null,
-        "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": [
-            {
-                "color": "lavender",
-                "price": "850",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741953710091-cropped-1741953710086.png"
-                ],
-                "stocks": "5"
-            },
-            {
-                "color": "PINK",
-                "price": "850",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741953740735-cropped-1741953740724.png"
-                ],
-                "stocks": "5"
-            },
-            {
-                "color": "sky blue",
-                "price": "850",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741953787049-cropped-1741953787039.png"
-                ],
-                "stocks": "5"
-            },
-            {
-                "color": "violet",
-                "price": "850",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741953864647-cropped-1741953864636.png"
-                ],
-                "stocks": "5"
-            }
-        ],
-        "images": null,
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>plain pattu</li><li>running blouse</li><li>with border</li><li><br></li></ul>",
-        "image": null,
-        "name": "fancy pattu",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-14T12:07:09.632572",
-        "updated_at": "2025-03-14T12:07:09.632572",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "4bb53640-8549-421d-812f-f57f81436c9c",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
-    },
-    {
-        "featured_products": null,
         "isdeleted": true,
         "is_offer": null,
         "show_stock": false,
@@ -1333,41 +1368,6 @@
         "discount": null,
         "duration": null,
         "expiry": null,
-        "offered_price": null,
-        "price": 350,
-        "quantity": null,
-        "selling_price": 499,
-        "stocks": 6,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1741508093289-cropped-1741508093284.png",
-            "https://d246wdlhxeb44j.cloudfront.net/1741508146394-cropped-1741508146387.png"
-        ],
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>Poonam saree</li><li>stone work</li><li>running blouse</li><li>super qulity</li></ul>",
-        "image": null,
-        "name": "susila pink",
-        "product_code": null,
-        "videos": null,
-        "created_at": null,
-        "updated_at": "2025-03-18T14:24:57.894189",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": true,
-        "status": null,
-        "top_selling": null,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
         "offered_price": 349,
         "price": 260,
         "quantity": null,
@@ -1424,6 +1424,40 @@
         "id": "340f2ec8-f3c8-4cd5-a5b6-da03921dd956",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": null,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 349,
+        "price": 270,
+        "quantity": null,
+        "selling_price": 399,
+        "stocks": 26,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741509476836-cropped-1741509476834.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li><strong><em>puspa 2 saree</em></strong></li><li><strong><em>running blouse</em></strong></li><li><strong><em>peacock pallu</em></strong></li></ul>",
+        "image": null,
+        "name": "puspa 2 saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-19T08:52:12.949681",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "f76a8b7e-db8b-45fd-929f-46cbb5c70c87",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "fcb3b625-c916-4119-ad88-e9555cc4f0a5"
     },
     {
         "featured_products": null,
@@ -2126,40 +2160,6 @@
     },
     {
         "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": true,
-        "status": null,
-        "top_selling": null,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": 349,
-        "price": 270,
-        "quantity": null,
-        "selling_price": 399,
-        "stocks": 27,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1741509476836-cropped-1741509476834.png"
-        ],
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li><strong><em>puspa 2 saree</em></strong></li><li><strong><em>running blouse</em></strong></li><li><strong><em>peacock pallu</em></strong></li></ul>",
-        "image": null,
-        "name": "puspa 2 saree",
-        "product_code": null,
-        "videos": null,
-        "created_at": null,
-        "updated_at": "2025-03-18T06:14:00.581274",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "f76a8b7e-db8b-45fd-929f-46cbb5c70c87",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "fcb3b625-c916-4119-ad88-e9555cc4f0a5"
-    },
-    {
-        "featured_products": null,
         "isdeleted": true,
         "is_offer": null,
         "show_stock": true,
@@ -2566,6 +2566,40 @@
     },
     {
         "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": true,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 349,
+        "price": 260,
+        "quantity": null,
+        "selling_price": 550,
+        "stocks": 6,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741508011654-cropped-1741508011649.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>Gemma offer</li><li>work blouse</li><li>ungalukaka</li></ul>",
+        "image": null,
+        "name": "offer for my followers",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-19T11:39:03.094779",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "fcb3b625-c916-4119-ad88-e9555cc4f0a5"
+    },
+    {
+        "featured_products": null,
         "isdeleted": true,
         "is_offer": null,
         "show_stock": true,
@@ -2597,6 +2631,40 @@
         "id": "ef33f8f1-a002-4fbc-949f-78e62a1d12b1",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "d4204319-dc5e-4100-a61d-60dcb0e1b460"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": null,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 449,
+        "price": 360,
+        "quantity": null,
+        "selling_price": 499,
+        "stocks": 5,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741508122371-cropped-1741508122359.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>most sale sarees</li><li>work blouse </li><li>blouse point 90</li></ul>",
+        "image": null,
+        "name": "folwer velly",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-19T11:43:28.864669",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "68383688-a4f6-4e16-a2f9-70b4cb33df65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
     },
     {
         "featured_products": null,
@@ -2787,7 +2855,7 @@
         "price": 650,
         "quantity": null,
         "selling_price": 899,
-        "stocks": 15,
+        "stocks": 14,
         "attributes": null,
         "images": [
             "https://d246wdlhxeb44j.cloudfront.net/1741507244287-cropped-1741507244277.png"
@@ -2800,77 +2868,9 @@
         "product_code": null,
         "videos": null,
         "created_at": null,
-        "updated_at": "2025-03-18T04:10:54.026935",
+        "updated_at": "2025-03-19T15:37:57.782594",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "84a4e3b7-1417-496f-b939-b8f0197a28b3",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": true,
-        "status": null,
-        "top_selling": true,
-        "trending_products": null,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": 349,
-        "price": 260,
-        "quantity": null,
-        "selling_price": 550,
-        "stocks": 9,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1741508011654-cropped-1741508011649.png"
-        ],
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>Gemma offer</li><li>work blouse</li><li>ungalukaka</li></ul>",
-        "image": null,
-        "name": "offer for my followers",
-        "product_code": null,
-        "videos": null,
-        "created_at": null,
-        "updated_at": "2025-03-18T16:27:23.696512",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "fcb3b625-c916-4119-ad88-e9555cc4f0a5"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": true,
-        "status": null,
-        "top_selling": null,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": 449,
-        "price": 360,
-        "quantity": null,
-        "selling_price": 499,
-        "stocks": 6,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1741508122371-cropped-1741508122359.png"
-        ],
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>most sale sarees</li><li>work blouse </li><li>blouse point 90</li></ul>",
-        "image": null,
-        "name": "folwer velly",
-        "product_code": null,
-        "videos": null,
-        "created_at": null,
-        "updated_at": "2025-03-16T06:48:40.795367",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "68383688-a4f6-4e16-a2f9-70b4cb33df65",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
     },
@@ -3010,10 +3010,10 @@
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
-        "show_stock": true,
+        "show_stock": false,
         "status": null,
         "top_selling": true,
-        "trending_products": null,
+        "trending_products": true,
         "discount": null,
         "duration": null,
         "expiry": null,
@@ -3024,65 +3024,92 @@
         "stocks": null,
         "attributes": [
             {
-                "color": "BLUE",
-                "price": "699",
+                "color": "Red",
+                "price": "799",
                 "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741507551493-cropped-1741507551482.png"
+                    "https://d246wdlhxeb44j.cloudfront.net/1742377862443-cropped-1742377862429.png"
                 ],
-                "stocks": "3",
-                "offered_price": "649"
+                "stocks": "10",
+                "offered_price": "720"
             },
             {
-                "color": "PINK",
-                "price": "699",
+                "color": "Blue",
+                "price": "799",
                 "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741507632576-cropped-1741507632566.png"
+                    "https://d246wdlhxeb44j.cloudfront.net/1742377735186-cropped-1742377735172.png"
                 ],
-                "stocks": 0,
-                "offered_price": "649"
+                "stocks": "10",
+                "offered_price": "720"
             },
             {
-                "color": "GREEN",
-                "price": "699",
+                "color": "Pink",
+                "price": "799",
                 "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741507707200-cropped-1741507707188.png"
+                    "https://d246wdlhxeb44j.cloudfront.net/1742377924889-cropped-1742377924874.png"
                 ],
-                "stocks": 2,
-                "offered_price": "649"
+                "stocks": "10",
+                "offered_price": "720"
             },
             {
-                "color": "YELLOW",
-                "price": "699",
+                "color": "Navy blue",
+                "price": "799",
                 "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741507777050-cropped-1741507777038.png"
+                    "https://d246wdlhxeb44j.cloudfront.net/1742377979022-cropped-1742377979007.png"
                 ],
-                "stocks": 4,
-                "offered_price": "649"
+                "stocks": "10",
+                "offered_price": "720"
             },
             {
-                "color": "ASH",
-                "price": "699",
+                "color": "sky blue",
+                "price": "799",
                 "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1741507855767-cropped-1741507855756.png"
+                    "https://d246wdlhxeb44j.cloudfront.net/1742378021232-cropped-1742378021217.png"
                 ],
-                "stocks": 4,
-                "offered_price": "649"
+                "stocks": "10",
+                "offered_price": "720"
+            },
+            {
+                "color": "Brown",
+                "price": "799",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742378060338-cropped-1742378060322.png"
+                ],
+                "stocks": "10",
+                "offered_price": "720"
+            },
+            {
+                "color": "violet",
+                "price": "799",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742378124165-cropped-1742378124152.png"
+                ],
+                "stocks": "10",
+                "offered_price": "720"
+            },
+            {
+                "color": "rama green",
+                "price": "799",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742378182886-cropped-1742378182873.png"
+                ],
+                "stocks": "10",
+                "offered_price": "720"
             }
         ],
         "images": null,
         "alpha_numeric": null,
         "bar_code": null,
-        "description": "<ul><li>net saree</li><li>wirk blouse combo</li><li>hip belt</li></ul>",
+        "description": "<ul><li>STONE WORK</li><li>RUNNING BLOUSE</li><li>BLOUSE POINT 1 MET</li></ul>",
         "image": null,
-        "name": "net saree ",
+        "name": "RAMZAN COLLECTIONS",
         "product_code": null,
         "videos": null,
-        "created_at": null,
-        "updated_at": "2025-03-18T16:14:42.360197",
+        "created_at": "2025-03-19T09:55:48.013421",
+        "updated_at": "2025-03-19T09:56:51.020091",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "id": "e0e68474-ee0a-4d31-a9f0-e83415d0e029",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     },
     {
         "featured_products": null,
@@ -3148,6 +3175,153 @@
         "id": "c210cc80-12f7-415e-a657-f2d071120911",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "Brown",
+                "price": "1200",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742382144446-cropped-1742382144435.png"
+                ],
+                "stocks": 6,
+                "offered_price": "999"
+            },
+            {
+                "color": "Blue",
+                "price": "1200",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742382199246-cropped-1742382199230.png"
+                ],
+                "stocks": 5,
+                "offered_price": "999"
+            },
+            {
+                "color": "rama green",
+                "price": "1200",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742382283749-cropped-1742382283733.png"
+                ],
+                "stocks": "7",
+                "offered_price": "999"
+            },
+            {
+                "color": "violet",
+                "price": "1200",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742382359268-cropped-1742382359253.png"
+                ],
+                "stocks": 5,
+                "offered_price": "999"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>Poonam cloth</li><li>stone work</li><li>running blouse</li></ul>",
+        "image": null,
+        "name": "semma collection",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-19T11:06:44.673858",
+        "updated_at": "2025-03-19T11:30:45.717541",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "a9d5feaa-09c8-4df3-8ccd-a4335a7faead",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": true,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "BLUE",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741507551493-cropped-1741507551482.png"
+                ],
+                "stocks": 2,
+                "offered_price": "649"
+            },
+            {
+                "color": "PINK",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741507632576-cropped-1741507632566.png"
+                ],
+                "stocks": 0,
+                "offered_price": "649"
+            },
+            {
+                "color": "GREEN",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741507707200-cropped-1741507707188.png"
+                ],
+                "stocks": 0,
+                "offered_price": "649"
+            },
+            {
+                "color": "YELLOW",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741507777050-cropped-1741507777038.png"
+                ],
+                "stocks": 4,
+                "offered_price": "649"
+            },
+            {
+                "color": "ASH",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1741507855767-cropped-1741507855756.png"
+                ],
+                "stocks": 3,
+                "offered_price": "649"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>net saree</li><li>wirk blouse combo</li><li>hip belt</li></ul>",
+        "image": null,
+        "name": "net saree ",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-19T08:37:58.114993",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
     },
     {
         "featured_products": null,
@@ -3237,7 +3411,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742039771760-cropped-1742039771748.png"
                 ],
-                "stocks": 2
+                "stocks": 1
             },
             {
                 "color": "BLUE",
@@ -3269,7 +3443,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742039986595-cropped-1742039986584.png"
                 ],
-                "stocks": 4
+                "stocks": 3
             }
         ],
         "images": null,
@@ -3281,7 +3455,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-15T12:00:23.603392",
-        "updated_at": "2025-03-18T17:44:31.477917",
+        "updated_at": "2025-03-19T08:52:13.72951",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "b582a802-9be8-4491-920a-8d2613dc9b65",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -3310,7 +3484,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
                 ],
-                "stocks": 15
+                "stocks": 14
             },
             {
                 "color": "lavender",
@@ -3318,7 +3492,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742102386111-cropped-1742102386096.png"
                 ],
-                "stocks": 13
+                "stocks": 12
             },
             {
                 "color": "peche",
@@ -3334,7 +3508,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742102443893-cropped-1742102443880.png"
                 ],
-                "stocks": 17
+                "stocks": 16
             }
         ],
         "images": null,
@@ -3346,11 +3520,76 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-16T05:20:56.117708",
-        "updated_at": "2025-03-18T16:33:01.602872",
+        "updated_at": "2025-03-19T15:49:23.477735",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": true,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "Black",
+                "price": "599",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742385943915-cropped-1742385943904.png"
+                ],
+                "stocks": 4
+            },
+            {
+                "color": "Green",
+                "price": "599",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742385974244-cropped-1742385974229.png"
+                ],
+                "stocks": "10"
+            },
+            {
+                "color": "Blue",
+                "price": "599",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742386000639-cropped-1742386000624.png"
+                ],
+                "stocks": 1
+            },
+            {
+                "color": "Brown",
+                "price": "599",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742386050991-cropped-1742386050976.png"
+                ],
+                "stocks": 8
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>stone work running blouse</li><li>point 1 meter</li><li>cut work</li></ul>",
+        "image": null,
+        "name": "roja saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-19T12:07:56.571778",
+        "updated_at": "2025-03-19T23:45:47.270373",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     },
     {
         "featured_products": null,
@@ -3431,6 +3670,41 @@
         "is_offer": null,
         "show_stock": true,
         "status": null,
+        "top_selling": null,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 999,
+        "price": 780,
+        "quantity": null,
+        "selling_price": 1100,
+        "stocks": 36,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1742394780561-cropped-1742394780557.png",
+            "https://d246wdlhxeb44j.cloudfront.net/1742394793356-cropped-1742394793351.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<p>Jyothika mam saree</p>",
+        "image": null,
+        "name": "Jyothika mam saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-19T14:33:19.823405",
+        "updated_at": "2025-03-19T17:15:05.460333",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
         "top_selling": true,
         "trending_products": true,
         "discount": null,
@@ -3440,7 +3714,7 @@
         "price": 80,
         "quantity": null,
         "selling_price": 300,
-        "stocks": 28,
+        "stocks": 14,
         "attributes": null,
         "images": [
             "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png"
@@ -3453,7 +3727,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-17T15:02:14.084323",
-        "updated_at": "2025-03-18T17:57:49.400735",
+        "updated_at": "2025-03-19T18:24:38.770698",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -3653,6 +3927,105 @@
         "updated_at": "2025-03-17T17:38:15.309718",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "97fc1be5-e4be-44e2-9bdd-7ee39348adbb",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 999,
+        "price": 690,
+        "quantity": null,
+        "selling_price": 1100,
+        "stocks": 22,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>ambani pattu</li></ul>",
+        "image": null,
+        "name": "Ambani pattu",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-19T14:44:35.487136",
+        "updated_at": "2025-03-20T00:09:20.999989",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "Yellow",
+                "price": "420",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742398534008-cropped-1742398533986.png"
+                ],
+                "stocks": 14
+            },
+            {
+                "color": "Green",
+                "price": "420",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742398571141-cropped-1742398571118.png"
+                ],
+                "stocks": 23
+            },
+            {
+                "color": "Orange",
+                "price": "420",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742398599145-cropped-1742398599123.png"
+                ],
+                "stocks": 9
+            },
+            {
+                "color": "Ash",
+                "price": "420",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742398627914-cropped-1742398627891.png"
+                ],
+                "stocks": "23"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>work blouse</li><li>blouse point</li><li>90 point</li></ul><p><br></p>",
+        "image": null,
+        "name": "420 offer saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-19T15:37:16.532168",
+        "updated_at": "2025-03-19T17:50:57.263299",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
     },
@@ -3923,93 +4296,12 @@
         "stocks": null,
         "attributes": [
             {
-                "color": "YELLOW",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205639198-cropped-1742205639183.png"
-                ],
-                "stocks": "10"
-            },
-            {
-                "color": "PINK",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205673176-cropped-1742205673161.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "lavender",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205710844-cropped-1742205710828.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "sky blue",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205750611-cropped-1742205750596.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "rama green",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205806910-cropped-1742205806896.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "peche",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205851438-cropped-1742205851423.png"
-                ],
-                "stocks": 9
-            }
-        ],
-        "images": null,
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>party wear</li><li>stone work</li><li>running blouse</li><li>Fazal</li></ul>",
-        "image": null,
-        "name": "party wear saree",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-17T10:04:30.528367",
-        "updated_at": "2025-03-18T17:38:22.090456",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "4d9c6a6d-ef18-4dc8-a87e-0a3f777a164e",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": false,
-        "status": null,
-        "top_selling": true,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": null,
-        "price": null,
-        "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": [
-            {
                 "color": "BLUE",
                 "price": "2500",
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742207429249-cropped-1742207429235.png"
                 ],
-                "stocks": 2,
+                "stocks": 0,
                 "offered_price": "999"
             },
             {
@@ -4067,7 +4359,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-17T10:38:07.36611",
-        "updated_at": "2025-03-18T07:21:21.622491",
+        "updated_at": "2025-03-19T23:22:02.722738",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "b09664f1-cb8f-4bd2-9f03-30fb466375aa",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -4096,7 +4388,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
                 ],
-                "stocks": 23,
+                "stocks": 19,
                 "offered_price": "455"
             },
             {
@@ -4105,7 +4397,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742305040993-cropped-1742305040978.png"
                 ],
-                "stocks": 19,
+                "stocks": 9,
                 "offered_price": "455"
             },
             {
@@ -4114,7 +4406,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742305075209-cropped-1742305075194.png"
                 ],
-                "stocks": 24,
+                "stocks": 23,
                 "offered_price": "455"
             },
             {
@@ -4132,7 +4424,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742305185510-cropped-1742305185495.png"
                 ],
-                "stocks": 22,
+                "stocks": 19,
                 "offered_price": "455"
             }
         ],
@@ -4145,10 +4437,91 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-18T13:40:04.872178",
-        "updated_at": "2025-03-19T00:32:30.682487",
+        "updated_at": "2025-03-19T19:21:09.397573",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "YELLOW",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205639198-cropped-1742205639183.png"
+                ],
+                "stocks": "10"
+            },
+            {
+                "color": "PINK",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205673176-cropped-1742205673161.png"
+                ],
+                "stocks": 9
+            },
+            {
+                "color": "lavender",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205710844-cropped-1742205710828.png"
+                ],
+                "stocks": 8
+            },
+            {
+                "color": "sky blue",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205750611-cropped-1742205750596.png"
+                ],
+                "stocks": 9
+            },
+            {
+                "color": "rama green",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205806910-cropped-1742205806896.png"
+                ],
+                "stocks": 9
+            },
+            {
+                "color": "peche",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205851438-cropped-1742205851423.png"
+                ],
+                "stocks": 9
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>party wear</li><li>stone work</li><li>running blouse</li><li>Fazal</li></ul>",
+        "image": null,
+        "name": "party wear saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-17T10:04:30.528367",
+        "updated_at": "2025-03-19T05:40:53.702507",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "4d9c6a6d-ef18-4dc8-a87e-0a3f777a164e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     }
 ]
