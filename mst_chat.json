@@ -6230,6 +6230,17 @@
         "is_deleted": false,
         "resolved": true,
         "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-21T09:39:22.24306",
+        "id": "d67f6502-a3e2-462b-94d5-4db1cfe52777",
+        "shop_id": null,
+        "user_id": "6cce7c73-902a-4631-b5d7-95343ab5a471"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
         "message": "New collection soft Poonam stone saree collection ",
         "created_at": "2025-03-13T18:05:46.077727",
         "id": "26f14eb6-418f-41d0-985c-c0fe8b7d16b4",
@@ -6598,6 +6609,105 @@
         "id": "d4505238-78e5-4df9-a0d2-934aa33da840",
         "shop_id": null,
         "user_id": "14e2a25d-9033-41b6-ab65-4a1ef6ca76dd"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Enna achi",
+        "created_at": "2025-03-21T09:36:29.758019",
+        "id": "a42d55f0-d109-4b67-8e74-3af4a47a45f5",
+        "shop_id": null,
+        "user_id": "48fd379c-8abc-405a-b028-13917cc749d6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I paid but it shown as pending ",
+        "created_at": "2025-03-21T10:19:40.628705",
+        "id": "6de3313e-8ace-486c-a96d-1a88034b5405",
+        "shop_id": null,
+        "user_id": "7afa6f1d-c3da-4621-8534-dc8ad19a2995"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I paid but it shown as pending ",
+        "created_at": "2025-03-21T10:19:59.546521",
+        "id": "b877bebd-d86a-4da6-b426-2ffa7beb9251",
+        "shop_id": null,
+        "user_id": "7afa6f1d-c3da-4621-8534-dc8ad19a2995"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I paid but it shown as pending ",
+        "created_at": "2025-03-21T10:24:24.678444",
+        "id": "5b2159f4-4799-4374-b720-f7b6d74b9d47",
+        "shop_id": null,
+        "user_id": "7afa6f1d-c3da-4621-8534-dc8ad19a2995"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I need this ",
+        "created_at": "2025-03-21T10:47:44.699682",
+        "id": "24b6f27b-a69e-4009-accc-12e10a49727a",
+        "shop_id": null,
+        "user_id": "4a89078f-310f-4dea-85ef-1140c003f957"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Message potunga",
+        "created_at": "2025-03-21T11:14:37.787606",
+        "id": "c79b09bd-687b-480b-b70e-82b7483abd73",
+        "shop_id": null,
+        "user_id": "0b0e0e6e-2f1b-45b5-a6b9-2577f2cf9d1c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Saree coriyar potacha ",
+        "created_at": "2025-03-21T11:15:16.739748",
+        "id": "d824bf32-9469-4c07-ab2d-e1f181564dd5",
+        "shop_id": null,
+        "user_id": "0b0e0e6e-2f1b-45b5-a6b9-2577f2cf9d1c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "7639685595",
+        "created_at": "2025-03-21T13:30:16.529349",
+        "id": "98d43924-aae3-40e0-b419-ed0ca537c320",
+        "shop_id": null,
+        "user_id": "4a89078f-310f-4dea-85ef-1140c003f957"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "7639685595",
+        "created_at": "2025-03-21T13:30:58.771019",
+        "id": "238e35b2-3482-482d-8552-755ffba9bc77",
+        "shop_id": null,
+        "user_id": "4a89078f-310f-4dea-85ef-1140c003f957"
     },
     {
         "is_admin": true,
@@ -9502,5 +9612,115 @@
         "id": "3d51b452-65e0-4df3-8498-842b2bbb2f14",
         "shop_id": null,
         "user_id": "dc0f746a-39ce-42ad-8366-552039a8188d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Why not  shipping?",
+        "created_at": "2025-03-21T01:50:20.145987",
+        "id": "0a195ea7-054b-4862-add0-d209979a3a6a",
+        "shop_id": null,
+        "user_id": "dd858812-8bf3-4a1d-a691-265669967315"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Why not  shipping?",
+        "created_at": "2025-03-21T01:50:33.331125",
+        "id": "a8f7b9ac-8a7d-4daf-8e66-b3c628c6dc20",
+        "shop_id": null,
+        "user_id": "dd858812-8bf3-4a1d-a691-265669967315"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Why not  shipping?",
+        "created_at": "2025-03-21T01:50:40.021142",
+        "id": "b3715814-eeb1-4e25-bbcb-5a4dd9a33e5d",
+        "shop_id": null,
+        "user_id": "dd858812-8bf3-4a1d-a691-265669967315"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Why not  shipping?",
+        "created_at": "2025-03-21T01:50:51.696392",
+        "id": "dc4e9d48-17d2-4708-a4f4-2829f858ef87",
+        "shop_id": null,
+        "user_id": "dd858812-8bf3-4a1d-a691-265669967315"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Why not  shipping?",
+        "created_at": "2025-03-21T01:51:02.366782",
+        "id": "02e2c5f7-7f68-4f3f-947f-de56fe3939f4",
+        "shop_id": null,
+        "user_id": "dd858812-8bf3-4a1d-a691-265669967315"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Mam eppo order kadaikum",
+        "created_at": "2025-03-21T02:51:42.97781",
+        "id": "b284ba9d-5073-49e3-8f18-81101cc57b5b",
+        "shop_id": null,
+        "user_id": "092eb5b9-b2c9-4927-9bb2-14406d90d2b6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "????",
+        "created_at": "2025-03-21T07:17:56.605019",
+        "id": "4cdb6f0d-3f90-4c70-9201-7031b2171930",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7d269cce-ab51-454f-ad69-25325a01377c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Reply pannunga",
+        "created_at": "2025-03-21T07:49:31.320202",
+        "id": "7b2acaba-c806-487b-b2a7-979890bb64d2",
+        "shop_id": null,
+        "user_id": "0ed9d61c-a2bf-48c0-98bb-550ee98686d4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Which date the product will come?",
+        "created_at": "2025-03-21T09:31:07.55817",
+        "id": "6b694af0-ffab-4f9d-a0b0-25fb18efda99",
+        "shop_id": null,
+        "user_id": "2737f431-978c-4e07-9164-d97efe86dabc"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Order pana sarre",
+        "created_at": "2025-03-21T09:36:18.709592",
+        "id": "3f3dbe5e-fe97-4200-8052-2b85986f5df9",
+        "shop_id": null,
+        "user_id": "48fd379c-8abc-405a-b028-13917cc749d6"
     }
 ]

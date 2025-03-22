@@ -1269,26 +1269,6 @@
         "price": 349,
         "quantity": 1,
         "selling_price": 550,
-        "stocks": 12,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741508011654-cropped-1741508011649.png",
-        "product_name": "offer for my followers",
-        "created_at": "2025-03-17T15:26:21.520154",
-        "updated_at": "2025-03-17T15:26:21.520154",
-        "id": "3b642a63-fe5b-416a-8d0a-41946de3722b",
-        "product_id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "85d61c23-d885-45d8-a405-bc93faa86c97"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": 349,
-        "original_price": null,
-        "price": 349,
-        "quantity": 1,
-        "selling_price": 550,
         "stocks": 21,
         "attributes": null,
         "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741271978297-cropped-1741271978291.png",
@@ -2484,6 +2464,26 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1049,
+        "stocks": 6,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741871777105-cropped-1741871777094.png",
+        "product_name": "soft silk",
+        "created_at": "2025-03-21T01:57:19.801336",
+        "updated_at": "2025-03-21T01:57:19.801336",
+        "id": "4478f5fc-ce22-4431-886a-f7e02f0d9ce0",
+        "product_id": "561dc079-785a-49cc-9d89-f7383d012118",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "5b55ad45-f3a2-49c5-9ef7-8818d8859429"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": null,
@@ -3225,26 +3225,6 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": 349,
-        "original_price": null,
-        "price": 349,
-        "quantity": 1,
-        "selling_price": 550,
-        "stocks": 19,
-        "attributes": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741271978297-cropped-1741271978291.png",
-        "product_name": "offer for my followers",
-        "created_at": "2025-03-08T00:35:43.023314",
-        "updated_at": "2025-03-08T00:35:43.023314",
-        "id": "bce7cb16-4393-49c5-9fd0-3b1b0c731656",
-        "product_id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "82acbb35-8009-44f8-b76e-323cfb35a6f5"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
         "offered_price": 399,
         "original_price": null,
         "price": 399,
@@ -3894,21 +3874,22 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "Blue",
-            "price": "599",
+            "color": "Red",
+            "price": "499",
             "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742386000639-cropped-1742386000624.png"
+                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
             ],
-            "stocks": 1
+            "stocks": 13,
+            "offered_price": "455"
         },
         "image": null,
-        "product_name": "roja saree",
-        "created_at": "2025-03-19T16:52:58.227168",
-        "updated_at": "2025-03-19T16:52:58.227168",
-        "id": "a1c15334-92ec-4bf2-a8a7-8c021ad5987f",
-        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
+        "product_name": "popcorn saree",
+        "created_at": "2025-03-21T13:45:43.844344",
+        "updated_at": "2025-03-21T13:45:43.844344",
+        "id": "a9eb6217-03a4-4392-b83a-0fd7d59bc499",
+        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "85d61c23-d885-45d8-a405-bc93faa86c97"
+        "user_id": "71d8cd3c-0992-4178-b7b6-0626cf36df8e"
     },
     {
         "paid_price": null,
@@ -3949,6 +3930,33 @@
         "product_id": "c94e7595-21dd-494f-a824-4b5d48b42ccf",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "2ce524ed-baec-4851-8c5a-81a0000f1165"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Green",
+            "price": "599",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742385974244-cropped-1742385974229.png"
+            ],
+            "stocks": 7
+        },
+        "image": null,
+        "product_name": "roja saree",
+        "created_at": "2025-03-21T13:53:59.800819",
+        "updated_at": "2025-03-21T13:53:59.800819",
+        "id": "ee7134a1-cb60-46cc-a568-c1248719b755",
+        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "1980bc33-1905-4650-8429-a62a617ee009"
     },
     {
         "paid_price": null,
@@ -4464,6 +4472,33 @@
         "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "7c1154b4-4f4c-4cb2-9793-b31e9694fee4"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Green",
+            "price": "599",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742385974244-cropped-1742385974229.png"
+            ],
+            "stocks": 7
+        },
+        "image": null,
+        "product_name": "roja saree",
+        "created_at": "2025-03-21T14:11:41.49066",
+        "updated_at": "2025-03-21T14:11:41.49066",
+        "id": "ed43e660-216b-435f-9966-2ef73ee289cc",
+        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "d1d7b71c-ef2a-4cc9-825c-005e9d36438f"
     },
     {
         "paid_price": null,
@@ -5034,26 +5069,6 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": 449,
-        "original_price": null,
-        "price": 449,
-        "quantity": 1,
-        "selling_price": 499,
-        "stocks": 7,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741509614076-cropped-1741509614061.png",
-        "product_name": "braze",
-        "created_at": "2025-03-16T02:01:01.679594",
-        "updated_at": "2025-03-16T02:01:01.679594",
-        "id": "87f7596b-a00f-421f-bdda-346453b53e0b",
-        "product_id": "3560910f-3ea2-4350-a7b7-e8fadced8dbe",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "6946cb20-2aee-4f45-9881-813b66e7a8b3"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": null,
@@ -5284,26 +5299,6 @@
         "product_id": "451cffeb-1f75-4ed1-95b4-8a195cb52922",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "43a7c159-b88a-40d6-afbe-79d017be3bc2"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": 1798,
-        "quantity": 2,
-        "selling_price": 899,
-        "stocks": 20,
-        "attributes": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1741429413030-cropped-1741429413013.png",
-        "product_name": "neenga asai patta saree",
-        "created_at": "2025-03-08T12:39:41.340247",
-        "updated_at": "2025-03-16T08:28:08.609183",
-        "id": "a6efdd48-c9c1-4b9d-915f-aeac1b9e5fc7",
-        "product_id": "41812b88-2356-43d2-b118-e46c327866ad",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "5612226f-bbf3-4976-ba08-e42c5f2785f4"
     },
     {
         "paid_price": null,
@@ -5814,6 +5809,26 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": 130,
+        "original_price": null,
+        "price": 130,
+        "quantity": 1,
+        "selling_price": 300,
+        "stocks": 1,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
+        "product_name": "4 shall 130 random colours",
+        "created_at": "2025-03-21T14:13:56.602083",
+        "updated_at": "2025-03-21T14:13:56.602083",
+        "id": "0b70bafb-7d69-41c6-983f-da3a6fe7ac51",
+        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "1aa393ba-627f-4ea3-ada2-e19ce1681833"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": 899,
@@ -6133,33 +6148,6 @@
         "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "2efde129-b59f-4e21-b721-ac658f563b42"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Brown",
-            "price": "599",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742386050991-cropped-1742386050976.png"
-            ],
-            "stocks": 10
-        },
-        "image": null,
-        "product_name": "roja saree",
-        "created_at": "2025-03-19T17:05:23.966925",
-        "updated_at": "2025-03-19T17:05:23.966925",
-        "id": "e3e6c150-776c-4977-865e-e204065c05f5",
-        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "4979c4c8-761f-4518-ad73-9974e300836e"
     },
     {
         "paid_price": null,
@@ -7108,6 +7096,33 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Yellow",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398534008-cropped-1742398533986.png"
+            ],
+            "stocks": 10
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T14:17:45.067283",
+        "updated_at": "2025-03-21T14:17:45.067283",
+        "id": "1b134e79-60da-443b-abef-f55f40ed2f68",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "f0d5c127-2f53-45b0-a4b7-16481306cb0a"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": 399,
         "original_price": null,
         "price": 399,
@@ -7668,6 +7683,26 @@
         "product_id": "8563d17a-9690-435d-93a9-90cd0e9d0102",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "b5563334-e3f9-47c9-97f8-b4613dda867d"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 690,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 19,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T14:34:37.533659",
+        "updated_at": "2025-03-21T14:34:37.533659",
+        "id": "0c6c063c-62c4-4db8-9657-7e0aa3acc4a4",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "5760eaee-1164-451b-8140-eeeab25e7a3d"
     },
     {
         "paid_price": null,
@@ -8804,34 +8839,6 @@
         "product_id": "cfdc0db8-5026-437f-9359-d351eb94cbc6",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "3e78249b-48ff-4fb3-8003-0dd93b8f82db"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "PEACOCK GREEN",
-            "price": "500",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1741508232763-cropped-1741508232755.png"
-            ],
-            "stocks": "10",
-            "offered_price": "399"
-        },
-        "image": null,
-        "product_name": "vairavusi saree",
-        "created_at": "2025-03-10T11:39:07.227875",
-        "updated_at": "2025-03-10T11:39:07.227875",
-        "id": "98bec0fd-3cf8-4ede-95d1-7a0aed37d7d8",
-        "product_id": "451cffeb-1f75-4ed1-95b4-8a195cb52922",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "8795a56e-e836-4180-bcc8-21a464de1f41"
     },
     {
         "paid_price": null,
@@ -10621,26 +10628,6 @@
         "price": 1798,
         "quantity": 2,
         "selling_price": 899,
-        "stocks": 14,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741507375899-cropped-1741507375889.png",
-        "product_name": "neenga asai patta saree",
-        "created_at": "2025-03-12T08:44:45.972691",
-        "updated_at": "2025-03-15T07:32:31.191418",
-        "id": "3ae0ed4f-e196-4c05-9884-49f8093467f1",
-        "product_id": "e5e3a05f-fccf-4952-8aac-836bb8358d46",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "5131ba30-83d1-430c-932f-2dbc5e4ff689"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": 1798,
-        "quantity": 2,
-        "selling_price": 899,
         "stocks": 20,
         "attributes": null,
         "image": "https://d246wdlhxeb44j.cloudfront.net/1741506786633-cropped-1741506786617.png",
@@ -11114,6 +11101,26 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": 349,
+        "original_price": null,
+        "price": 349,
+        "quantity": 1,
+        "selling_price": 399,
+        "stocks": 25,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741509476836-cropped-1741509476834.png",
+        "product_name": "puspa 2 saree",
+        "created_at": "2025-03-21T15:03:22.310286",
+        "updated_at": "2025-03-21T15:03:22.310286",
+        "id": "d5d88b7c-c13b-420d-932d-d6d0fb1a1c0b",
+        "product_id": "f76a8b7e-db8b-45fd-929f-46cbb5c70c87",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "a22f6c54-c7c0-4b55-a7d1-5c308876fef2"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": null,
@@ -11136,26 +11143,6 @@
         "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "15e10fda-73c6-45ac-bcd0-ca9899437d55"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": 899,
-        "quantity": 1,
-        "selling_price": 899,
-        "stocks": 15,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741507244287-cropped-1741507244277.png",
-        "product_name": "neenga asai patta saree",
-        "created_at": "2025-03-18T23:41:50.068026",
-        "updated_at": "2025-03-18T23:41:50.068026",
-        "id": "6256d056-b375-4c93-8e0d-65932af3bd5a",
-        "product_id": "84a4e3b7-1417-496f-b939-b8f0197a28b3",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "dff86a47-d96d-405c-bef5-a5097700c5ff"
     },
     {
         "paid_price": null,
@@ -11484,34 +11471,6 @@
         "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "0174b145-b210-425e-b934-07907a8c6a93"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "blue",
-            "price": "500",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1741506417013-cropped-1741506417002.png"
-            ],
-            "stocks": 15,
-            "offered_price": "399"
-        },
-        "image": null,
-        "product_name": "1000 putta saree",
-        "created_at": "2025-03-13T16:46:36.833871",
-        "updated_at": "2025-03-13T16:46:36.833871",
-        "id": "d634e2f0-8276-45e5-92e2-25ede72e15eb",
-        "product_id": "d95fe065-f2f1-4975-9189-15135b7b7517",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "0ae97805-d77e-4a64-9547-95213c0a666f"
     },
     {
         "paid_price": null,
@@ -12756,26 +12715,6 @@
         "coupon_price": null,
         "offered_price": 349,
         "original_price": null,
-        "price": 349,
-        "quantity": 1,
-        "selling_price": 550,
-        "stocks": 16,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741508011654-cropped-1741508011649.png",
-        "product_name": "offer for my followers",
-        "created_at": "2025-03-14T14:15:13.546067",
-        "updated_at": "2025-03-14T14:15:13.546067",
-        "id": "102dd3db-0972-41bc-9ca3-402e04e70887",
-        "product_id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "4e68acca-64f7-4c8e-be35-2bf27dc5d075"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": 349,
-        "original_price": null,
         "price": 260,
         "quantity": 1,
         "selling_price": 550,
@@ -12809,33 +12748,6 @@
         "product_id": "cfdc0db8-5026-437f-9359-d351eb94cbc6",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "9121b2a7-2d7e-4cdd-bcb2-1c0bf24adde6"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "BROWN",
-            "price": "399",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
-            ],
-            "stocks": "20"
-        },
-        "image": null,
-        "product_name": "offer for you",
-        "created_at": "2025-03-14T15:11:07.744249",
-        "updated_at": "2025-03-14T15:11:07.744249",
-        "id": "8a75dd42-54c5-432a-b76b-f7e8b7ddc543",
-        "product_id": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "04ed0c9e-57c3-4ccf-9a06-e0a537a557fe"
     },
     {
         "paid_price": null,
@@ -13462,33 +13374,6 @@
         "product_id": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "51b1a91c-326a-4b7a-9745-2cacc0fc3825"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "PINK",
-            "price": "550",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
-            ],
-            "stocks": 14
-        },
-        "image": null,
-        "product_name": "hip belt saree",
-        "created_at": "2025-03-19T17:18:33.5321",
-        "updated_at": "2025-03-19T17:18:33.5321",
-        "id": "c07415b1-4920-4498-96cf-08d7512ad7d9",
-        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "9e80c830-e940-4eca-9ff6-d5fdf55e9c45"
     },
     {
         "paid_price": null,
@@ -14708,33 +14593,6 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "BLUE",
-            "price": "435",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742059485795-cropped-1742059485779.png"
-            ],
-            "stocks": 3
-        },
-        "image": null,
-        "product_name": "sunday offer",
-        "created_at": "2025-03-16T04:43:39.076286",
-        "updated_at": "2025-03-16T04:43:39.076286",
-        "id": "1140074a-8c07-451f-b270-94f6f9b059e7",
-        "product_id": "eeb30872-7201-404b-9984-507d60884c4e",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "414ecaee-c84b-4351-b5e7-750ea9093968"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
             "color": "GREEN",
             "price": "435",
             "images": [
@@ -14992,33 +14850,6 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "GREEN",
-            "price": "799",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742039771760-cropped-1742039771748.png"
-            ],
-            "stocks": 1
-        },
-        "image": null,
-        "product_name": "soft Poonam with stone",
-        "created_at": "2025-03-19T17:24:50.811729",
-        "updated_at": "2025-03-19T17:24:50.811729",
-        "id": "5bb8ba32-a609-4203-b236-df691fa43bed",
-        "product_id": "b582a802-9be8-4491-920a-8d2613dc9b65",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "d687cbf0-886b-4064-b7e6-b16a3f78426b"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
             "color": "NAVY BLUE",
             "price": "799",
             "images": [
@@ -15059,48 +14890,21 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": null,
+        "offered_price": 999,
         "original_price": null,
-        "price": 899,
+        "price": 999,
         "quantity": 1,
-        "selling_price": 899,
-        "stocks": 18,
+        "selling_price": 1100,
+        "stocks": 19,
         "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741506786633-cropped-1741506786617.png",
-        "product_name": "neenga asai patta saree",
-        "created_at": "2025-03-16T13:33:52.105891",
-        "updated_at": "2025-03-16T13:33:52.105891",
-        "id": "814ac423-0bde-42b8-af82-b566f89e8c36",
-        "product_id": "41812b88-2356-43d2-b118-e46c327866ad",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T16:51:10.616831",
+        "updated_at": "2025-03-21T16:51:10.616831",
+        "id": "17ccd29c-3130-4703-85ae-04b3f1ff6ad5",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "99002ad1-9716-450d-98ae-cf1968112404"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "BLUE",
-            "price": "435",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742125132218-cropped-1742125132204.png"
-            ],
-            "stocks": "5"
-        },
-        "image": null,
-        "product_name": "Sunday offer 2",
-        "created_at": "2025-03-16T13:33:52.125239",
-        "updated_at": "2025-03-16T13:33:52.125239",
-        "id": "227b4f40-e525-4ee3-be37-f99e2b59eccb",
-        "product_id": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "99002ad1-9716-450d-98ae-cf1968112404"
+        "user_id": "4b1c4a60-5e3d-4779-b338-42a4e35a0005"
     },
     {
         "paid_price": null,
@@ -15304,60 +15108,6 @@
         },
         "image": null,
         "product_name": "offer for you",
-        "created_at": "2025-03-16T13:33:51.687417",
-        "updated_at": "2025-03-16T13:33:51.687417",
-        "id": "0f3860b4-f0e7-4475-9984-69af29f2c50e",
-        "product_id": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "99002ad1-9716-450d-98ae-cf1968112404"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "violet",
-            "price": "435",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742125171287-cropped-1742125171272.png"
-            ],
-            "stocks": 5
-        },
-        "image": null,
-        "product_name": "Sunday offer 2",
-        "created_at": "2025-03-16T13:33:51.690102",
-        "updated_at": "2025-03-16T13:33:51.690102",
-        "id": "ad8bb7d9-cbbb-4676-bfb4-74b8188dfd90",
-        "product_id": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "99002ad1-9716-450d-98ae-cf1968112404"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "BROWN",
-            "price": "399",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1741962995723-cropped-1741962995708.png"
-            ],
-            "stocks": 2
-        },
-        "image": null,
-        "product_name": "offer for you",
         "created_at": "2025-03-16T13:39:05.411917",
         "updated_at": "2025-03-16T13:39:05.411917",
         "id": "a71fe314-cdb9-4851-9db2-03db4ee9c54a",
@@ -15486,6 +15236,33 @@
         "offered_price": null,
         "original_price": null,
         "price": null,
+        "quantity": 2,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "lavender",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102386111-cropped-1742102386096.png"
+            ],
+            "stocks": 10
+        },
+        "image": null,
+        "product_name": "hip belt saree",
+        "created_at": "2025-03-21T16:59:29.633367",
+        "updated_at": "2025-03-21T16:59:29.633367",
+        "id": "eb1ed77f-b055-4a69-9546-fda1ec9c2438",
+        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "19a1409f-5df8-4140-9e0f-0e6877c937c1"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
         "quantity": 1,
         "selling_price": null,
         "stocks": null,
@@ -15505,33 +15282,6 @@
         "product_id": "eeb30872-7201-404b-9984-507d60884c4e",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "ffa40d82-e2a2-4b09-aebd-60383365f0ff"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "peche",
-            "price": "550",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742102412505-cropped-1742102412494.png"
-            ],
-            "stocks": "20"
-        },
-        "image": null,
-        "product_name": "hip belt saree",
-        "created_at": "2025-03-16T08:52:06.753829",
-        "updated_at": "2025-03-16T08:52:06.753829",
-        "id": "73bd847d-5670-4dbe-9bf8-066cfa8d828c",
-        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "85d61c23-d885-45d8-a405-bc93faa86c97"
     },
     {
         "paid_price": null,
@@ -16103,6 +15853,33 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "PINK",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
+            ],
+            "stocks": 13
+        },
+        "image": null,
+        "product_name": "hip belt saree",
+        "created_at": "2025-03-21T17:25:34.748121",
+        "updated_at": "2025-03-21T17:25:34.748121",
+        "id": "e74947cf-edef-45a9-aa6b-d1cef5c07c33",
+        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "289b4298-1807-400e-9b09-2f085a2793b5"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": 399,
         "original_price": null,
         "price": 399,
@@ -16387,33 +16164,6 @@
         "product_id": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "9b69ad5d-f957-40de-961c-0cd6e43fae0a"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "GREEN",
-            "price": "435",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742125217304-cropped-1742125217289.png"
-            ],
-            "stocks": 3
-        },
-        "image": null,
-        "product_name": "Sunday offer 2",
-        "created_at": "2025-03-17T10:05:15.958826",
-        "updated_at": "2025-03-17T10:05:15.958826",
-        "id": "29073cdb-e5e1-46ac-b721-deb3a1781b84",
-        "product_id": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "a22f6c54-c7c0-4b55-a7d1-5c308876fef2"
     },
     {
         "paid_price": null,
@@ -17032,6 +16782,26 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 21,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T02:38:56.036647",
+        "updated_at": "2025-03-21T02:38:56.036647",
+        "id": "7351f9cb-4127-46c1-aeb6-1557527bcf87",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "1b1853c7-182f-43d2-b741-10bbc1ff0fd4"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": 450,
         "original_price": null,
         "price": 450,
@@ -17291,6 +17061,26 @@
         "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "00c723eb-f14d-4ad3-a571-944ac6cb0143"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 499,
+        "quantity": 1,
+        "selling_price": 499,
+        "stocks": 10,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741508093289-cropped-1741508093284.png",
+        "product_name": "susila pink",
+        "created_at": "2025-03-21T18:56:35.306483",
+        "updated_at": "2025-03-21T18:56:35.306483",
+        "id": "bec0150c-7fc3-4cd2-8770-414e68408718",
+        "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "480c8b93-a70a-4594-b6a8-69e954350069"
     },
     {
         "paid_price": null,
@@ -18005,6 +17795,33 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
+            "color": "peche",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102412505-cropped-1742102412494.png"
+            ],
+            "stocks": 19
+        },
+        "image": null,
+        "product_name": "hip belt saree",
+        "created_at": "2025-03-21T19:03:42.67477",
+        "updated_at": "2025-03-21T19:03:42.67477",
+        "id": "54f1201e-9a98-4fc9-92d6-6f02016e6cd7",
+        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "9d5dbc28-2529-425a-b18c-6adea9766b03"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
             "color": "PINK",
             "price": "435",
             "images": [
@@ -18382,33 +18199,6 @@
         "product_id": "68383688-a4f6-4e16-a2f9-70b4cb33df65",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "f1812730-b615-4373-90be-5ab5a33533fd"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "PINK",
-            "price": "550",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
-            ],
-            "stocks": 19
-        },
-        "image": null,
-        "product_name": "hip belt saree",
-        "created_at": "2025-03-17T09:57:42.650207",
-        "updated_at": "2025-03-17T09:57:42.650207",
-        "id": "eccb5a9f-3e0b-43ee-9fe9-66b7b8659050",
-        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "008e1e8f-517c-4918-ae2f-49ba04e4a666"
     },
     {
         "paid_price": null,
@@ -19344,6 +19134,34 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "ASH",
+            "price": "699",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1741507855767-cropped-1741507855756.png"
+            ],
+            "stocks": 3,
+            "offered_price": "649"
+        },
+        "image": null,
+        "product_name": "net saree ",
+        "created_at": "2025-03-21T22:14:04.568563",
+        "updated_at": "2025-03-21T22:14:04.568563",
+        "id": "81deca24-c5ba-4670-b020-92b5e5a4a4a2",
+        "product_id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "01d38fd9-b156-453f-9fba-cf8ff7a4cbf2"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": 130,
         "original_price": null,
         "price": 130,
@@ -19768,6 +19586,66 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 21,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T03:34:30.767423",
+        "updated_at": "2025-03-21T03:34:30.767423",
+        "id": "264079cf-13ed-4cbc-babe-2fed80768ed9",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "9775cd0d-db02-4718-9f65-7bfe1b3f3a3e"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 20,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T05:25:57.224686",
+        "updated_at": "2025-03-21T05:25:57.224686",
+        "id": "488d17e6-d4f9-459c-9697-9b8a2e790079",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "b75aa0bf-df21-4eb1-a0fd-740ee20a8a70"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 349,
+        "original_price": null,
+        "price": 349,
+        "quantity": 1,
+        "selling_price": 399,
+        "stocks": 25,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741509476836-cropped-1741509476834.png",
+        "product_name": "puspa 2 saree",
+        "created_at": "2025-03-21T06:22:45.27266",
+        "updated_at": "2025-03-21T06:22:45.27266",
+        "id": "b0766b56-fc71-40d0-8e53-a65ed670cf9f",
+        "product_id": "f76a8b7e-db8b-45fd-929f-46cbb5c70c87",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "04ed0c9e-57c3-4ccf-9a06-e0a537a557fe"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": 899,
@@ -19803,33 +19681,6 @@
         "product_id": "eec69b21-ed2f-4bdc-bb63-147b81075f44",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "1e022f11-b5b1-4a3e-9653-448c5437d485"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "RED",
-            "price": "435",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742125057825-cropped-1742125057810.png"
-            ],
-            "stocks": 2
-        },
-        "image": null,
-        "product_name": "Sunday offer 2",
-        "created_at": "2025-03-16T18:06:43.664157",
-        "updated_at": "2025-03-16T18:06:43.664157",
-        "id": "b028e7ff-932f-4e41-9261-978e72ce42c4",
-        "product_id": "2851234a-c1f8-4d0c-9d1f-2d3f30110bee",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "7977995c-5b77-4fe5-91c3-669cad9e314c"
     },
     {
         "paid_price": null,
@@ -19965,6 +19816,26 @@
         "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "c6ef4a74-cc75-4e6c-96d6-9673eea1e52f"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 349,
+        "original_price": null,
+        "price": 349,
+        "quantity": 1,
+        "selling_price": 399,
+        "stocks": 8,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741508337091-cropped-1741508337076.png",
+        "product_name": "online",
+        "created_at": "2025-03-21T22:35:10.255527",
+        "updated_at": "2025-03-21T22:35:10.255527",
+        "id": "65d676b5-7a3d-4b04-a115-7559f40ce52c",
+        "product_id": "9f652880-f410-4460-ad80-bfffc0bf6e49",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "5c0ae571-aadd-4ec2-8b02-78a05ae7f513"
     },
     {
         "paid_price": null,
@@ -20545,6 +20416,26 @@
         "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "1593267e-7129-42b7-8a6e-b7a6107a8d6e"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 19,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T23:24:07.949856",
+        "updated_at": "2025-03-21T23:24:07.949856",
+        "id": "92200d46-6f37-4ee0-865d-dbf26f179e13",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "f0a6e537-efba-40b3-b83a-439c8c579a0e"
     },
     {
         "paid_price": null,
@@ -21262,6 +21153,33 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "PINK",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
+            ],
+            "stocks": 18
+        },
+        "image": null,
+        "product_name": "hip belt saree",
+        "created_at": "2025-03-18T06:37:27.178363",
+        "updated_at": "2025-03-21T10:27:53.374538",
+        "id": "234019a3-0aef-4726-a86e-945063e1fb4a",
+        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7d380eac-6c6d-4695-815f-d79f5b76f222"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": 349,
         "original_price": null,
         "price": 349,
@@ -21399,26 +21317,6 @@
         "product_id": "4d9c6a6d-ef18-4dc8-a87e-0a3f777a164e",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "5a071a52-cc00-485d-9156-208dcb86e43c"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": 349,
-        "original_price": null,
-        "price": 349,
-        "quantity": 1,
-        "selling_price": 550,
-        "stocks": 9,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741508011654-cropped-1741508011649.png",
-        "product_name": "offer for my followers",
-        "created_at": "2025-03-18T19:04:00.801382",
-        "updated_at": "2025-03-18T19:04:00.801382",
-        "id": "1eb44f5a-4f07-42a2-a9c0-6845f6bf8a64",
-        "product_id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "d687cbf0-886b-4064-b7e6-b16a3f78426b"
     },
     {
         "paid_price": null,
@@ -21637,33 +21535,6 @@
         "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "0735619a-2a4d-4291-8ce1-8ca5d9eb326b"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "PINK",
-            "price": "550",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
-            ],
-            "stocks": 18
-        },
-        "image": null,
-        "product_name": "hip belt saree",
-        "created_at": "2025-03-18T06:37:27.178363",
-        "updated_at": "2025-03-19T09:21:08.094252",
-        "id": "234019a3-0aef-4726-a86e-945063e1fb4a",
-        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "7d380eac-6c6d-4695-815f-d79f5b76f222"
     },
     {
         "paid_price": null,
@@ -22584,22 +22455,21 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "Red",
-            "price": "499",
+            "color": "Green",
+            "price": "549",
             "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485330/front2_jfivrl.png"
             ],
-            "stocks": 24,
-            "offered_price": "455"
+            "stocks": 24
         },
         "image": null,
-        "product_name": "popcorn saree",
-        "created_at": "2025-03-18T17:24:08.261166",
-        "updated_at": "2025-03-18T17:24:08.261166",
-        "id": "d54b6fbb-dfd7-4bcb-8a49-d386e021a0a4",
-        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
+        "product_name": "THAS101",
+        "created_at": "2025-03-22T00:35:57.071781",
+        "updated_at": "2025-03-22T00:35:57.071781",
+        "id": "a1294f41-b50b-469b-ab7a-7596904d95fc",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "a0e7220a-bbf8-4d0d-ad5d-23e64aef5e90"
+        "user_id": "aff85211-9dba-40c5-9edf-b3e11b2eb566"
     },
     {
         "paid_price": null,
@@ -22702,26 +22572,6 @@
         "product_id": "4d9c6a6d-ef18-4dc8-a87e-0a3f777a164e",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "4215d265-6814-4498-8cc7-0b6542a132c2"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": 130,
-        "original_price": null,
-        "price": 260,
-        "quantity": 2,
-        "selling_price": 300,
-        "stocks": 23,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
-        "product_name": "4 shall 130 random colours",
-        "created_at": "2025-03-18T00:42:53.398841",
-        "updated_at": "2025-03-18T18:06:34.798586",
-        "id": "fec94b85-2e21-41df-907c-3d0e06ba59d5",
-        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "8cc40c2b-e711-4f92-87e5-645abd0fdb5b"
     },
     {
         "paid_price": null,
@@ -23017,6 +22867,26 @@
         "product_id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "bd2d0c11-b02c-4086-a40c-784fc7258147"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 130,
+        "original_price": null,
+        "price": 520,
+        "quantity": 4,
+        "selling_price": 300,
+        "stocks": 23,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
+        "product_name": "4 shall 130 random colours",
+        "created_at": "2025-03-18T00:42:53.398841",
+        "updated_at": "2025-03-22T00:40:30.359003",
+        "id": "fec94b85-2e21-41df-907c-3d0e06ba59d5",
+        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "8cc40c2b-e711-4f92-87e5-645abd0fdb5b"
     },
     {
         "paid_price": null,
@@ -23535,87 +23405,6 @@
         "product_id": "4bb53640-8549-421d-812f-f57f81436c9c",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "b0d80e3d-7156-4491-a8fd-55e25ab64147"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "GREEN",
-            "price": "799",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742039771760-cropped-1742039771748.png"
-            ],
-            "stocks": 2
-        },
-        "image": null,
-        "product_name": "soft Poonam with stone",
-        "created_at": "2025-03-19T07:57:57.125496",
-        "updated_at": "2025-03-19T07:57:57.125496",
-        "id": "1b65521b-5f31-4814-8caf-9f138389d5a8",
-        "product_id": "b582a802-9be8-4491-920a-8d2613dc9b65",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "731c3b88-f879-4c4d-a8c7-bbbe5177e943"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "peche",
-            "price": "699",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742205851438-cropped-1742205851423.png"
-            ],
-            "stocks": 9
-        },
-        "image": null,
-        "product_name": "party wear saree",
-        "created_at": "2025-03-19T07:57:57.353305",
-        "updated_at": "2025-03-19T07:57:57.353305",
-        "id": "681b182b-2d59-47c8-a4ee-e8a1ee43e8fe",
-        "product_id": "4d9c6a6d-ef18-4dc8-a87e-0a3f777a164e",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "731c3b88-f879-4c4d-a8c7-bbbe5177e943"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "YELLOW",
-            "price": "399",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1741963163674-cropped-1741963163658.png"
-            ],
-            "stocks": "5"
-        },
-        "image": null,
-        "product_name": "offer for you",
-        "created_at": "2025-03-19T07:57:57.377224",
-        "updated_at": "2025-03-19T07:57:57.377224",
-        "id": "2ba79658-7dfb-46d3-8bba-44937e3b4eaf",
-        "product_id": "1fa71f4a-8915-4e5b-a6a3-288c1be8e1d6",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "731c3b88-f879-4c4d-a8c7-bbbe5177e943"
     },
     {
         "paid_price": null,
@@ -24395,26 +24184,6 @@
         "price": 999,
         "quantity": 1,
         "selling_price": 1100,
-        "stocks": 36,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1742394780561-cropped-1742394780557.png",
-        "product_name": "Jyothika mam saree",
-        "created_at": "2025-03-19T17:59:50.504124",
-        "updated_at": "2025-03-19T17:59:50.504124",
-        "id": "58bf57a0-b28e-47af-8957-a3d497e792c7",
-        "product_id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "4e68acca-64f7-4c8e-be35-2bf27dc5d075"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": 999,
-        "original_price": null,
-        "price": 999,
-        "quantity": 1,
-        "selling_price": 1100,
         "stocks": 23,
         "attributes": null,
         "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
@@ -25075,6 +24844,26 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": 130,
+        "original_price": null,
+        "price": 130,
+        "quantity": 1,
+        "selling_price": 300,
+        "stocks": 13,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
+        "product_name": "4 shall 130 random colours",
+        "created_at": "2025-03-18T05:22:12.559108",
+        "updated_at": "2025-03-21T03:38:14.669428",
+        "id": "7198cdba-4acc-4d26-bafb-52589fad742d",
+        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "e5658cc6-9221-4f5a-a6d0-5bab0ef192e0"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": 899,
@@ -25178,26 +24967,6 @@
         "product_id": "e1c0ffb7-5740-4647-88b6-afd79a72f000",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "d7edefa0-fd0d-456c-a33e-03b92d81615e"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": 130,
-        "original_price": null,
-        "price": 130,
-        "quantity": 1,
-        "selling_price": 300,
-        "stocks": 13,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
-        "product_name": "4 shall 130 random colours",
-        "created_at": "2025-03-18T05:22:12.559108",
-        "updated_at": "2025-03-18T05:22:12.559108",
-        "id": "7198cdba-4acc-4d26-bafb-52589fad742d",
-        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "e5658cc6-9221-4f5a-a6d0-5bab0ef192e0"
     },
     {
         "paid_price": null,
@@ -25494,33 +25263,6 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "ORANGE",
-            "price": "499",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742142171848-cropped-1742142171835.png"
-            ],
-            "stocks": 7
-        },
-        "image": null,
-        "product_name": "sunday mit nit sale",
-        "created_at": "2025-03-18T06:05:08.711047",
-        "updated_at": "2025-03-18T06:05:08.711047",
-        "id": "41291719-5bd6-4edc-a44e-f853e20eaad6",
-        "product_id": "fda88f3e-aac2-4d66-bc51-de3ffa45ecec",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "85d61c23-d885-45d8-a405-bc93faa86c97"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
         "offered_price": 130,
         "original_price": null,
         "price": 130,
@@ -25789,7 +25531,7 @@
         "image": null,
         "product_name": "hip belt saree",
         "created_at": "2025-03-18T06:37:53.913774",
-        "updated_at": "2025-03-19T09:21:10.014947",
+        "updated_at": "2025-03-21T10:27:54.334754",
         "id": "2ae8566c-2eff-4877-854c-0fbe9e41d49d",
         "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -27951,26 +27693,6 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": 130,
-        "original_price": null,
-        "price": 130,
-        "quantity": 1,
-        "selling_price": 300,
-        "stocks": 6,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
-        "product_name": "4 shall 130 random colours",
-        "created_at": "2025-03-20T08:56:25.384442",
-        "updated_at": "2025-03-20T08:56:25.384442",
-        "id": "f59e4b6d-eae5-4f84-aad4-4ca89549f6a7",
-        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "77e135db-62f6-44b5-ab31-0764c012cd7c"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": null,
@@ -28249,89 +27971,6 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "Brown",
-            "price": "599",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742386050991-cropped-1742386050976.png"
-            ],
-            "stocks": 4
-        },
-        "image": null,
-        "product_name": "roja saree",
-        "created_at": "2025-03-20T23:52:36.885879",
-        "updated_at": "2025-03-20T23:52:36.885879",
-        "id": "dfc8ea97-3844-4846-b29f-6aea70fdce5d",
-        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "5dbf8fbf-a1ae-4a68-af02-63e70ff1fbd9"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "PEACOCK GREEN",
-            "price": "2500",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742206853393-cropped-1742206853377.png"
-            ],
-            "stocks": 2,
-            "offered_price": "999"
-        },
-        "image": null,
-        "product_name": "full emberdary work saree",
-        "created_at": "2025-03-21T00:06:58.74052",
-        "updated_at": "2025-03-21T00:06:58.74052",
-        "id": "46854cf8-d993-4c02-8258-a9a0bf00bfdf",
-        "product_id": "406f2261-a1ab-44cd-a2ff-f41ffb958a09",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "5dbf8fbf-a1ae-4a68-af02-63e70ff1fbd9"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Blue",
-            "price": "499",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742305040993-cropped-1742305040978.png"
-            ],
-            "stocks": 11,
-            "offered_price": "455"
-        },
-        "image": null,
-        "product_name": "popcorn saree",
-        "created_at": "2025-03-19T10:43:35.796485",
-        "updated_at": "2025-03-19T10:43:35.796485",
-        "id": "79665a9c-c73a-474c-b018-bbfc5f08683b",
-        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "0498f56b-654b-45e7-b37a-412621c7c4d9"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
             "color": "Yellow",
             "price": "499",
             "images": [
@@ -28402,34 +28041,6 @@
         "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "eb66396b-3f85-4f05-a421-86b05cfd73b8"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Red",
-            "price": "499",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
-            ],
-            "stocks": 20,
-            "offered_price": "455"
-        },
-        "image": null,
-        "product_name": "popcorn saree",
-        "created_at": "2025-03-19T10:44:14.554169",
-        "updated_at": "2025-03-19T10:44:14.554169",
-        "id": "2cb267c2-79d5-480e-8192-d3b36ddcd293",
-        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "0498f56b-654b-45e7-b37a-412621c7c4d9"
     },
     {
         "paid_price": null,
@@ -29170,53 +28781,6 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "Black",
-            "price": "599",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742385943915-cropped-1742385943904.png"
-            ],
-            "stocks": "15"
-        },
-        "image": null,
-        "product_name": "roja saree",
-        "created_at": "2025-03-19T12:17:22.580528",
-        "updated_at": "2025-03-19T12:17:22.580528",
-        "id": "07b0d8ec-3410-4a5a-81ab-e33d53956f37",
-        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "251d698d-3e76-46dd-bffc-bc7df4f8e6d2"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": 349,
-        "original_price": null,
-        "price": 349,
-        "quantity": 1,
-        "selling_price": 499,
-        "stocks": 6,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741780553236-cropped-1741780553224.png",
-        "product_name": "cotton green",
-        "created_at": "2025-03-19T12:20:55.946399",
-        "updated_at": "2025-03-19T12:20:55.946399",
-        "id": "14d4ac86-4331-4e8c-9b77-714cb316e072",
-        "product_id": "d77b222d-150e-473a-8442-f28ba7f340ea",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "90f4e96d-32b6-4650-b282-720f6c053b7c"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
             "color": "Brown",
             "price": "1200",
             "images": [
@@ -29521,26 +29085,6 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": 130,
-        "original_price": null,
-        "price": 130,
-        "quantity": 1,
-        "selling_price": 300,
-        "stocks": 19,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
-        "product_name": "4 shall 130 random colours",
-        "created_at": "2025-03-19T13:05:21.273874",
-        "updated_at": "2025-03-19T13:05:21.273874",
-        "id": "a80bbca4-3a0e-4663-ba75-ea7085620c68",
-        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "fe89fb34-9f91-4c6c-8958-6d5304425e49"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": null,
@@ -29647,34 +29191,6 @@
         "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "46b671de-d708-436f-a1d5-9b2fdb427f65"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Red",
-            "price": "499",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
-            ],
-            "stocks": 20,
-            "offered_price": "455"
-        },
-        "image": null,
-        "product_name": "popcorn saree",
-        "created_at": "2025-03-19T13:39:44.604306",
-        "updated_at": "2025-03-19T13:39:44.604306",
-        "id": "4ad12be7-fed8-46e0-9e81-76517645b046",
-        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "903a7b0c-822c-4323-91b3-c162364a537f"
     },
     {
         "paid_price": null,
@@ -29843,34 +29359,6 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "Blue",
-            "price": "499",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742305040993-cropped-1742305040978.png"
-            ],
-            "stocks": 10,
-            "offered_price": "455"
-        },
-        "image": null,
-        "product_name": "popcorn saree",
-        "created_at": "2025-03-19T14:00:36.524832",
-        "updated_at": "2025-03-19T14:00:36.524832",
-        "id": "70973da0-8949-44fb-b4d5-2bdab1ff3c85",
-        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "4e68acca-64f7-4c8e-be35-2bf27dc5d075"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
             "color": "BLUE",
             "price": "699",
             "images": [
@@ -29887,61 +29375,6 @@
         "product_id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "72d13cf8-f733-4c13-b6fe-4e111f086f3b"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "violet",
-            "price": "799",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742378124165-cropped-1742378124152.png"
-            ],
-            "stocks": "10",
-            "offered_price": "720"
-        },
-        "image": null,
-        "product_name": "RAMZAN COLLECTIONS",
-        "created_at": "2025-03-19T14:04:09.983868",
-        "updated_at": "2025-03-19T14:04:09.983868",
-        "id": "56c6f5fb-5bc8-40ca-abaa-59a30933b390",
-        "product_id": "e0e68474-ee0a-4d31-a9f0-e83415d0e029",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "4e68acca-64f7-4c8e-be35-2bf27dc5d075"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Black",
-            "price": "599",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742385943915-cropped-1742385943904.png"
-            ],
-            "stocks": 12
-        },
-        "image": null,
-        "product_name": "roja saree",
-        "created_at": "2025-03-19T14:08:31.633814",
-        "updated_at": "2025-03-19T14:08:31.633814",
-        "id": "2e675bd9-a14e-4856-a05b-3ebb067e0bda",
-        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "4e68acca-64f7-4c8e-be35-2bf27dc5d075"
     },
     {
         "paid_price": null,
@@ -30306,26 +29739,6 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": 999,
-        "original_price": null,
-        "price": 999,
-        "quantity": 1,
-        "selling_price": 1100,
-        "stocks": 22,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
-        "product_name": "Ambani pattu",
-        "created_at": "2025-03-20T01:33:48.887258",
-        "updated_at": "2025-03-20T01:33:48.887258",
-        "id": "ec05e7ad-2e04-473d-ab54-4de39e803c38",
-        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "a63a9c37-253d-47ba-991b-48a4fd453124"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": null,
@@ -30517,26 +29930,6 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
-        "offered_price": 1,
-        "original_price": null,
-        "price": 1,
-        "quantity": 1,
-        "selling_price": 299,
-        "stocks": 98,
-        "attributes": null,
-        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740037516372-cropped-1740037516368.png",
-        "product_name": "1 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd  saree limited  stock",
-        "created_at": "2025-03-20T14:01:59.244861",
-        "updated_at": "2025-03-20T14:01:59.244861",
-        "id": "cfaa21f8-d9a8-4819-ad6f-a6900566d958",
-        "product_id": "2e93b501-7d3e-45a9-b218-c5a6a15c0515",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": 499,
@@ -30552,34 +29945,6 @@
         "product_id": "0b1ce496-c0c2-4c5c-92bc-cdb0472cb720",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "fb0aaa1e-68bc-4db7-8d73-0505f8003ce4"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Red",
-            "price": "499",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
-            ],
-            "stocks": 14,
-            "offered_price": "455"
-        },
-        "image": null,
-        "product_name": "popcorn saree",
-        "created_at": "2025-03-20T16:42:24.37324",
-        "updated_at": "2025-03-20T16:42:24.37324",
-        "id": "159ad597-4a90-450f-a551-93c91b15ca4f",
-        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "34b14cce-7645-4f47-bbba-0a295510cfaf"
     },
     {
         "paid_price": null,
@@ -30855,62 +30220,6 @@
         "product_id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "c735d067-3892-48c7-abdf-db280591dd82"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 2,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "sky blue",
-            "price": "799",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742378021232-cropped-1742378021217.png"
-            ],
-            "stocks": "10",
-            "offered_price": "720"
-        },
-        "image": null,
-        "product_name": "RAMZAN COLLECTIONS",
-        "created_at": "2025-03-20T23:53:37.598065",
-        "updated_at": "2025-03-20T23:53:48.194905",
-        "id": "01d1ca58-9db9-4043-adf6-617df21de3a1",
-        "product_id": "e0e68474-ee0a-4d31-a9f0-e83415d0e029",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "5dbf8fbf-a1ae-4a68-af02-63e70ff1fbd9"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Blue",
-            "price": "499",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742305040993-cropped-1742305040978.png"
-            ],
-            "stocks": 8,
-            "offered_price": "455"
-        },
-        "image": null,
-        "product_name": "popcorn saree",
-        "created_at": "2025-03-20T23:54:50.509579",
-        "updated_at": "2025-03-20T23:54:50.509579",
-        "id": "14368c21-dadb-4c03-b17f-55c293d643fd",
-        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "5dbf8fbf-a1ae-4a68-af02-63e70ff1fbd9"
     },
     {
         "paid_price": null,
@@ -31211,34 +30520,6 @@
         "product_id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "ae961898-5e31-4ac5-aaf6-2a49b8542e97"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
-        "price": null,
-        "quantity": 1,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": {
-            "color": "Brown",
-            "price": "1200",
-            "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742382144446-cropped-1742382144435.png"
-            ],
-            "stocks": 6,
-            "offered_price": "999"
-        },
-        "image": null,
-        "product_name": "semma collection",
-        "created_at": "2025-03-20T09:12:22.456321",
-        "updated_at": "2025-03-20T09:12:22.456321",
-        "id": "669fe7c6-01c0-44c5-ae60-42988f5bba85",
-        "product_id": "a9d5feaa-09c8-4df3-8ccd-a4335a7faead",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "9ed0bcc7-ea2c-4085-866f-43d48427b100"
     },
     {
         "paid_price": null,
@@ -32176,6 +31457,114 @@
         "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "18ca38d3-1926-477b-aac8-e0b8806ca136"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Green",
+            "price": "599",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742385974244-cropped-1742385974229.png"
+            ],
+            "stocks": 9
+        },
+        "image": null,
+        "product_name": "roja saree",
+        "created_at": "2025-03-21T02:00:21.095993",
+        "updated_at": "2025-03-21T02:00:21.095993",
+        "id": "a1a0d6d1-7b7e-41bb-81aa-bab22284b045",
+        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "71975fc2-f732-4b36-884d-75fd7f771a0c"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Yellow",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398534008-cropped-1742398533986.png"
+            ],
+            "stocks": 11
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T02:43:43.009981",
+        "updated_at": "2025-03-21T02:43:43.009981",
+        "id": "0c103148-d60c-44c0-a440-60dc0bf89bbe",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "6946cb20-2aee-4f45-9881-813b66e7a8b3"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "PINK",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
+            ],
+            "stocks": 14
+        },
+        "image": null,
+        "product_name": "hip belt saree",
+        "created_at": "2025-03-21T02:47:26.411341",
+        "updated_at": "2025-03-21T02:47:26.411341",
+        "id": "097323f5-bbf2-438a-b5d8-3d4cb842d272",
+        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "77d3a671-71d6-4304-87eb-857a8a193ca9"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 2,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Yellow",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398534008-cropped-1742398533986.png"
+            ],
+            "stocks": 11
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T03:10:47.795087",
+        "updated_at": "2025-03-21T03:10:53.658186",
+        "id": "9b3e0b51-f656-4c66-a949-262d6ee96957",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "1fb6204d-b807-4890-9021-f4b1454026d1"
     },
     {
         "paid_price": null,
@@ -33189,26 +32578,6 @@
         "coupon_price": null,
         "offered_price": null,
         "original_price": null,
-        "price": 899,
-        "quantity": 1,
-        "selling_price": 899,
-        "stocks": 14,
-        "attributes": null,
-        "image": "https://d246wdlhxeb44j.cloudfront.net/1741507244287-cropped-1741507244277.png",
-        "product_name": "neenga asai patta saree",
-        "created_at": "2025-03-20T16:57:04.766278",
-        "updated_at": "2025-03-20T16:57:04.766278",
-        "id": "3ed4774b-f844-4d78-b2d4-57ec379b5776",
-        "product_id": "84a4e3b7-1417-496f-b939-b8f0197a28b3",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "924ec753-e8f0-47fe-8b0f-f0a7f3c68d41"
-    },
-    {
-        "paid_price": null,
-        "saved_price": null,
-        "coupon_price": null,
-        "offered_price": null,
-        "original_price": null,
         "price": null,
         "quantity": 1,
         "selling_price": null,
@@ -33369,6 +32738,26 @@
         "paid_price": null,
         "saved_price": null,
         "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 35,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742394780561-cropped-1742394780557.png",
+        "product_name": "Jyothika mam saree",
+        "created_at": "2025-03-21T01:19:58.9522",
+        "updated_at": "2025-03-21T01:19:58.9522",
+        "id": "2714d202-50ee-48ba-a2ad-7ced32d70559",
+        "product_id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "4836986c-9a9a-4520-a6df-6946d7b179d7"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
         "offered_price": null,
         "original_price": null,
         "price": null,
@@ -33376,22 +32765,123 @@
         "selling_price": null,
         "stocks": null,
         "attributes": {
-            "color": "Blue",
-            "price": "1200",
+            "color": "BLUE",
+            "price": "699",
             "images": [
-                "https://d246wdlhxeb44j.cloudfront.net/1742382199246-cropped-1742382199230.png"
+                "https://d246wdlhxeb44j.cloudfront.net/1741507551493-cropped-1741507551482.png"
             ],
-            "stocks": 5,
-            "offered_price": "999"
+            "stocks": 1,
+            "offered_price": "649"
         },
         "image": null,
-        "product_name": "semma collection",
-        "created_at": "2025-03-20T23:55:58.885483",
-        "updated_at": "2025-03-20T23:55:58.885483",
-        "id": "9dbde92a-bc4b-4877-8f18-eb1111ca102f",
-        "product_id": "a9d5feaa-09c8-4df3-8ccd-a4335a7faead",
+        "product_name": "net saree ",
+        "created_at": "2025-03-21T01:54:41.657686",
+        "updated_at": "2025-03-21T01:54:41.657686",
+        "id": "c497199b-6e2e-40a2-9663-3df1f66ade30",
+        "product_id": "9560da71-08c3-454d-acfe-56ddc6260a5a",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "5dbf8fbf-a1ae-4a68-af02-63e70ff1fbd9"
+        "user_id": "8b8e46b8-9766-4ae2-a9ea-b6eabbf119ee"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Yellow",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485361/front4_aivb0n.png"
+            ],
+            "stocks": "25"
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T02:34:41.743401",
+        "updated_at": "2025-03-21T02:34:41.743401",
+        "id": "37fb9e20-7c14-4469-b119-68062763730c",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "25ba30d7-e641-44a6-a1a1-84a468657d69"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Orange",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398599145-cropped-1742398599123.png"
+            ],
+            "stocks": 6
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T06:16:50.377832",
+        "updated_at": "2025-03-21T06:16:50.377832",
+        "id": "ace44ed3-bf6f-491f-9522-c3845ae994b9",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "f5027941-c925-4790-9051-5747b42911c9"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Orange",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398599145-cropped-1742398599123.png"
+            ],
+            "stocks": 6
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T06:19:57.519054",
+        "updated_at": "2025-03-21T06:19:57.519054",
+        "id": "10852ba5-bbc9-4114-a433-da37a125421d",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "fb811893-ced4-4bd8-ada4-90aaa821d7b9"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 35,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742394780561-cropped-1742394780557.png",
+        "product_name": "Jyothika mam saree",
+        "created_at": "2025-03-21T06:25:45.49648",
+        "updated_at": "2025-03-21T06:25:45.49648",
+        "id": "bdca17b7-37ad-4225-b6f0-7d27503981d7",
+        "product_id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7ce95a7d-5533-40ce-bbab-5a13304c5381"
     },
     {
         "paid_price": null,
@@ -33413,11 +32903,843 @@
         },
         "image": null,
         "product_name": "THAS101",
-        "created_at": "2025-03-21T00:51:28.141637",
-        "updated_at": "2025-03-21T00:51:28.141637",
-        "id": "e8fb192e-b0b5-46dd-9531-f5b36a149c79",
+        "created_at": "2025-03-21T04:11:12.214571",
+        "updated_at": "2025-03-21T04:12:56.084986",
+        "id": "047a2905-7563-4bb7-a0d1-c92d5bb13974",
         "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "user_id": "445dc32b-e436-48e8-b655-af62fd9ad0d5"
+        "user_id": "45e737e5-32db-4b95-b1fb-5f82641392f1"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Yellow",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398534008-cropped-1742398533986.png"
+            ],
+            "stocks": 11
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T04:15:09.73744",
+        "updated_at": "2025-03-21T04:15:09.73744",
+        "id": "efc7658d-dafd-45a6-a4fe-2f816fb6847b",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "92285f6a-da4c-41c9-afef-8adc56ebee9b"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Ash",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485318/front1_nkbd6m.png"
+            ],
+            "stocks": "25"
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T04:15:50.898851",
+        "updated_at": "2025-03-21T04:15:50.898851",
+        "id": "e418e835-0515-4abd-885b-6602e5d2819a",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "45e737e5-32db-4b95-b1fb-5f82641392f1"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 21,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T04:49:58.918204",
+        "updated_at": "2025-03-21T04:49:58.918204",
+        "id": "7ce4ad91-3b8e-4de3-9e2e-7a2b58965a94",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "e92f1b72-c909-428b-970a-9352fb957abe"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 899,
+        "quantity": 1,
+        "selling_price": 899,
+        "stocks": 14,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741509822319-cropped-1741509822309.png",
+        "product_name": "neenga asai patta saree",
+        "created_at": "2025-03-21T05:08:42.399144",
+        "updated_at": "2025-03-21T05:08:42.399144",
+        "id": "f07bbd97-d60e-4465-bf71-a8067812820c",
+        "product_id": "c94e7595-21dd-494f-a824-4b5d48b42ccf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "75550dc4-219f-4ba6-96aa-bc6b30cb2a74"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Green",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485330/front2_jfivrl.png"
+            ],
+            "stocks": "25"
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T05:11:23.050571",
+        "updated_at": "2025-03-21T05:11:23.050571",
+        "id": "61e0f648-5840-4061-b0bb-b30ee687a436",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "a9564982-56ce-434d-a318-1c6065f6abbf"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "lavender",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102386111-cropped-1742102386096.png"
+            ],
+            "stocks": 11
+        },
+        "image": null,
+        "product_name": "hip belt saree",
+        "created_at": "2025-03-21T05:22:24.235146",
+        "updated_at": "2025-03-21T05:22:24.235146",
+        "id": "5f434899-f11f-4aeb-bc5d-ee83daf66d83",
+        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "9e80c830-e940-4eca-9ff6-d5fdf55e9c45"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Ash",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485318/front1_nkbd6m.png"
+            ],
+            "stocks": 24
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T05:39:26.583673",
+        "updated_at": "2025-03-21T05:39:26.583673",
+        "id": "78e10424-396d-4c42-be8e-f9cd8d0773d8",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "e80ea867-ce39-430e-9ab5-04e325d009ec"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Ash",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485318/front1_nkbd6m.png"
+            ],
+            "stocks": 24
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T06:31:54.943983",
+        "updated_at": "2025-03-21T06:31:54.943983",
+        "id": "540adee2-1fad-4d5b-839c-c1653d25bb7c",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "dab14777-d3a5-4971-86e5-fed8980634bf"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 899,
+        "quantity": 1,
+        "selling_price": 899,
+        "stocks": 14,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741507118798-cropped-1741507118788.png",
+        "product_name": "neenga asai patta saree",
+        "created_at": "2025-03-21T06:38:30.579877",
+        "updated_at": "2025-03-21T06:38:30.579877",
+        "id": "eee52464-1153-41f0-b3db-a5cceba35ff6",
+        "product_id": "552b6e6f-6bf2-4751-85b7-f38c8bb57857",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "03321642-b550-4bbe-8a11-4e5904cbf9bd"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Orange",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398599145-cropped-1742398599123.png"
+            ],
+            "stocks": 6
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T06:44:10.271204",
+        "updated_at": "2025-03-21T06:44:10.271204",
+        "id": "6cf532df-a998-4119-b4b2-927daedb59e4",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "763f7fcc-1f2d-4869-8a06-069f422ca7dd"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 1,
+        "original_price": null,
+        "price": 1,
+        "quantity": 1,
+        "selling_price": 299,
+        "stocks": 94,
+        "attributes": null,
+        "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740037516372-cropped-1740037516368.png",
+        "product_name": "1 \u0bb0\u0bc2\u0baa\u0bbe\u0baf\u0bcd  saree limited  stock",
+        "created_at": "2025-03-21T06:51:38.201085",
+        "updated_at": "2025-03-21T06:51:48.083984",
+        "id": "71087701-1092-4c0a-8e27-f3933e0f6a14",
+        "product_id": "2e93b501-7d3e-45a9-b218-c5a6a15c0515",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Brown",
+            "price": "599",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742386050991-cropped-1742386050976.png"
+            ],
+            "stocks": 3
+        },
+        "image": null,
+        "product_name": "roja saree",
+        "created_at": "2025-03-21T07:12:30.771225",
+        "updated_at": "2025-03-21T07:12:30.771225",
+        "id": "b989c640-302d-4444-abc3-d587317ebb25",
+        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "5a13c0ed-bbae-4d1e-8965-ae37cba5c3b0"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Blue",
+            "price": "499",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742305040993-cropped-1742305040978.png"
+            ],
+            "stocks": 8,
+            "offered_price": "455"
+        },
+        "image": null,
+        "product_name": "popcorn saree",
+        "created_at": "2025-03-21T07:18:53.241621",
+        "updated_at": "2025-03-21T07:18:53.241621",
+        "id": "bfa84d53-820b-481b-9d35-8ea2716db892",
+        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "f6a7f24b-bb1a-4588-9672-fd258306b7c4"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 899,
+        "quantity": 1,
+        "selling_price": 899,
+        "stocks": 9,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741507118798-cropped-1741507118788.png",
+        "product_name": "neenga asai patta saree",
+        "created_at": "2025-03-21T07:20:21.710997",
+        "updated_at": "2025-03-21T07:20:21.710997",
+        "id": "5fb25379-b8ba-431f-b620-292860c51429",
+        "product_id": "552b6e6f-6bf2-4751-85b7-f38c8bb57857",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "8b08d615-0044-4a02-822c-181361af0eb5"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Orange",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398599145-cropped-1742398599123.png"
+            ],
+            "stocks": 6
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T07:23:33.903223",
+        "updated_at": "2025-03-21T07:23:33.903223",
+        "id": "27449b27-ee51-45bc-b14b-e8fec1bbcb5f",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "8b08d615-0044-4a02-822c-181361af0eb5"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 19,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T07:47:36.526792",
+        "updated_at": "2025-03-21T07:47:36.526792",
+        "id": "61655840-2e18-4dbd-8386-d639baaba16b",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "4f579645-a363-4f90-8992-d9c509510541"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Red",
+            "price": "499",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
+            ],
+            "stocks": 13,
+            "offered_price": "455"
+        },
+        "image": null,
+        "product_name": "popcorn saree",
+        "created_at": "2025-03-21T08:06:14.789135",
+        "updated_at": "2025-03-21T08:06:14.789135",
+        "id": "31c4b6f7-5b28-4a2c-86b0-60421d5e6fb3",
+        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "34b14cce-7645-4f47-bbba-0a295510cfaf"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Green",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485330/front2_jfivrl.png"
+            ],
+            "stocks": "25"
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T08:22:16.068914",
+        "updated_at": "2025-03-21T08:22:16.068914",
+        "id": "0417e786-a03c-419e-b096-d721dbb825ea",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "85d61c23-d885-45d8-a405-bc93faa86c97"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Ash",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485318/front1_nkbd6m.png"
+            ],
+            "stocks": 24
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T08:23:19.805408",
+        "updated_at": "2025-03-21T08:23:19.805408",
+        "id": "93d30213-3a98-4068-90d4-2963bf70f3a1",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "39f47462-f3ce-4111-8e33-784736504ebc"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Green",
+            "price": "599",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742385974244-cropped-1742385974229.png"
+            ],
+            "stocks": 8
+        },
+        "image": null,
+        "product_name": "roja saree",
+        "created_at": "2025-03-21T08:25:26.790728",
+        "updated_at": "2025-03-21T08:25:26.790728",
+        "id": "01fb34de-dc90-4794-9e78-3a30e6da1e3d",
+        "product_id": "c5bbf19c-919b-483e-99c6-4d3848276dbf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "64f3f211-0fbd-43b1-acff-8cd6f1ae7a70"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 899,
+        "quantity": 1,
+        "selling_price": 899,
+        "stocks": 13,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741509822319-cropped-1741509822309.png",
+        "product_name": "neenga asai patta saree",
+        "created_at": "2025-03-21T08:54:34.725389",
+        "updated_at": "2025-03-21T08:54:34.725389",
+        "id": "013db743-7dc1-43e6-b9b9-5a53f552bfb6",
+        "product_id": "c94e7595-21dd-494f-a824-4b5d48b42ccf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "21e15c66-e57f-4be9-8647-99299743c19f"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Ash",
+            "price": "420",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742398627914-cropped-1742398627891.png"
+            ],
+            "stocks": 19
+        },
+        "image": null,
+        "product_name": "420 offer saree",
+        "created_at": "2025-03-21T08:59:41.786903",
+        "updated_at": "2025-03-21T08:59:41.786903",
+        "id": "d4bb9e7f-1472-404e-ab43-9269feaec473",
+        "product_id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "fed7c4bf-8070-4bc4-b625-179c208ce80d"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Red",
+            "price": "499",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
+            ],
+            "stocks": 13,
+            "offered_price": "455"
+        },
+        "image": null,
+        "product_name": "popcorn saree",
+        "created_at": "2025-03-21T09:01:11.42317",
+        "updated_at": "2025-03-21T09:01:11.42317",
+        "id": "e3818391-4ad9-4460-a01f-c1bfa8334967",
+        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "fed7c4bf-8070-4bc4-b625-179c208ce80d"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 899,
+        "quantity": 1,
+        "selling_price": 899,
+        "stocks": 13,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741509822319-cropped-1741509822309.png",
+        "product_name": "neenga asai patta saree",
+        "created_at": "2025-03-21T09:44:37.291202",
+        "updated_at": "2025-03-21T09:44:37.291202",
+        "id": "fed5ae17-53d9-4ea2-bc60-e5ed3f5924d9",
+        "product_id": "c94e7595-21dd-494f-a824-4b5d48b42ccf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "5ddb3f21-6136-48d2-ad0c-d0634a1a5bc3"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Ash",
+            "price": "549",
+            "images": [
+                "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485318/front1_nkbd6m.png"
+            ],
+            "stocks": 24
+        },
+        "image": null,
+        "product_name": "THAS101",
+        "created_at": "2025-03-21T10:14:40.947325",
+        "updated_at": "2025-03-21T10:14:40.947325",
+        "id": "37a687f0-0002-4940-b8fd-48319cc541c5",
+        "product_id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "f8e52535-8d07-4104-a5b6-9455584f1706"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Red",
+            "price": "499",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
+            ],
+            "stocks": 13,
+            "offered_price": "455"
+        },
+        "image": null,
+        "product_name": "popcorn saree",
+        "created_at": "2025-03-21T11:03:25.682265",
+        "updated_at": "2025-03-21T11:03:25.682265",
+        "id": "06573bdf-2dee-485d-89e5-1cc668b7dc1f",
+        "product_id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "88c94afc-87ca-4803-9e48-106fe9b762ca"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 19,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742395430435-cropped-1742395430384.png",
+        "product_name": "Ambani pattu",
+        "created_at": "2025-03-21T11:09:43.393263",
+        "updated_at": "2025-03-21T11:09:43.393263",
+        "id": "e3270338-382d-4481-8027-2f5f848b99a0",
+        "product_id": "fe06a8df-530b-4df2-b1db-25b2cd2c9189",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "654bd974-6915-419d-aa42-cd8ddf8b66a1"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 999,
+        "original_price": null,
+        "price": 999,
+        "quantity": 1,
+        "selling_price": 1100,
+        "stocks": 35,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742394780561-cropped-1742394780557.png",
+        "product_name": "Jyothika mam saree",
+        "created_at": "2025-03-21T11:30:50.243519",
+        "updated_at": "2025-03-21T11:30:50.243519",
+        "id": "17ad4121-0b0d-44fa-884f-464b4e774e0a",
+        "product_id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "4e24d82f-378a-4bb6-8e74-f37e5b1ea2a9"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 899,
+        "quantity": 1,
+        "selling_price": 899,
+        "stocks": 12,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741507026779-cropped-1741507026769.png",
+        "product_name": "neenga asai patta saree",
+        "created_at": "2025-03-21T11:32:50.334484",
+        "updated_at": "2025-03-21T11:32:50.334484",
+        "id": "7850c740-7afc-4fac-b7a9-cd5d0a2cedcb",
+        "product_id": "a27ed749-a651-4d5e-882b-112fba249be6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "fd71392e-9a20-4540-aa14-7f26b59da33a"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "PINK",
+            "price": "550",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742102343674-cropped-1742102343661.png"
+            ],
+            "stocks": 13
+        },
+        "image": null,
+        "product_name": "hip belt saree",
+        "created_at": "2025-03-21T11:34:31.574685",
+        "updated_at": "2025-03-21T11:34:31.574685",
+        "id": "e055b6b9-f84a-4b79-8556-806c5dc87480",
+        "product_id": "b1ded68b-427d-4aaa-bddc-15797516eae2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "294488f4-6e24-4ee9-8822-fd0dacdb4805"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "Blue",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742377735186-cropped-1742377735172.png"
+            ],
+            "stocks": 9,
+            "offered_price": "720"
+        },
+        "image": null,
+        "product_name": "RAMZAN COLLECTIONS",
+        "created_at": "2025-03-21T11:45:49.644222",
+        "updated_at": "2025-03-21T11:45:49.644222",
+        "id": "a07eea67-300f-4666-970e-a52b3fdde88d",
+        "product_id": "e0e68474-ee0a-4d31-a9f0-e83415d0e029",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "a5acd102-cb29-4514-a1e2-7b4e8caa375b"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": null,
+        "quantity": 1,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": {
+            "color": "BROWN",
+            "price": "799",
+            "images": [
+                "https://d246wdlhxeb44j.cloudfront.net/1742039894446-cropped-1742039894435.png"
+            ],
+            "stocks": "5"
+        },
+        "image": null,
+        "product_name": "soft Poonam with stone",
+        "created_at": "2025-03-21T11:53:58.471429",
+        "updated_at": "2025-03-21T11:53:58.471429",
+        "id": "f139c0ed-2746-40d2-9061-c2892eef9ef2",
+        "product_id": "b582a802-9be8-4491-920a-8d2613dc9b65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "9ed0bcc7-ea2c-4085-866f-43d48427b100"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": 130,
+        "original_price": null,
+        "price": 130,
+        "quantity": 1,
+        "selling_price": 300,
+        "stocks": 2,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png",
+        "product_name": "4 shall 130 random colours",
+        "created_at": "2025-03-21T12:12:24.862766",
+        "updated_at": "2025-03-21T12:12:24.862766",
+        "id": "363aa65c-2c0b-4704-8c2b-a12591fa34db",
+        "product_id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "1c1e8cb1-22ed-4827-aed8-6b150e61317f"
+    },
+    {
+        "paid_price": null,
+        "saved_price": null,
+        "coupon_price": null,
+        "offered_price": null,
+        "original_price": null,
+        "price": 899,
+        "quantity": 1,
+        "selling_price": 899,
+        "stocks": 14,
+        "attributes": null,
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1741507244287-cropped-1741507244277.png",
+        "product_name": "neenga asai patta saree",
+        "created_at": "2025-03-21T12:15:18.900046",
+        "updated_at": "2025-03-21T12:15:18.900046",
+        "id": "6b39133e-f0cc-4bfe-bb06-83279ccb69eb",
+        "product_id": "84a4e3b7-1417-496f-b939-b8f0197a28b3",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "99002ad1-9716-450d-98ae-cf1968112404"
     }
 ]
