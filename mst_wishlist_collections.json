@@ -3544,5 +3544,158 @@
         "isdeleted": false,
         "created_at": "2025-03-21T19:00:54.444892",
         "updated_at": "2025-03-21T19:00:54.444892"
+    },
+    {
+        "id": "b4883f2d-183e-4c85-91af-05bb2be82971",
+        "user_id": "f86b0e53-722f-4081-8bab-ae88199de565",
+        "name": "New Collection ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T05:02:06.202095",
+        "updated_at": "2025-03-22T05:02:06.202095"
+    },
+    {
+        "id": "6893cb20-d850-474d-ac1b-b74e8f255731",
+        "user_id": "0dfeda56-1298-4c3a-ae08-fb9b4a08e231",
+        "name": "Santhi ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T06:40:28.698694",
+        "updated_at": "2025-03-22T06:40:28.698694"
+    },
+    {
+        "id": "1fc4443e-50ef-443b-b955-450074828281",
+        "user_id": "5b7ccd75-ae67-4a90-ab74-1ac8a70118f3",
+        "name": "Rs.799 collections",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T07:49:13.144703",
+        "updated_at": "2025-03-22T07:49:13.144703"
+    },
+    {
+        "id": "776ab0c2-c26e-405f-acd6-91f76ba13001",
+        "user_id": "679d207d-0010-4bdb-9813-ada8806ecc7b",
+        "name": "Good colour ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T08:08:54.492232",
+        "updated_at": "2025-03-22T08:08:54.492232"
+    },
+    {
+        "id": "f985efd3-6c7f-4017-8821-f3eef83f5bae",
+        "user_id": "679d207d-0010-4bdb-9813-ada8806ecc7b",
+        "name": "Good colour ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T08:09:31.011815",
+        "updated_at": "2025-03-22T08:09:31.011815"
+    },
+    {
+        "id": "bd5e7ca0-e90b-49d5-84a3-46c1012bf934",
+        "user_id": "c5792279-80dd-41f6-85ca-f023c328c375",
+        "name": "Kumari",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T13:28:02.886598",
+        "updated_at": "2025-03-22T13:28:02.886598"
+    },
+    {
+        "id": "c193357c-b5aa-4c68-8f7d-5ea26517778b",
+        "user_id": "50d15008-4114-49de-aa2c-671332f7e1f8",
+        "name": "Saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T13:48:33.107678",
+        "updated_at": "2025-03-22T13:48:33.107678"
+    },
+    {
+        "id": "cb7d17f0-724d-452a-826b-00f66a3e83bf",
+        "user_id": "4ded8245-54ba-4499-8547-d67ae99bf26b",
+        "name": "Mubeena begam",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T15:23:19.9259",
+        "updated_at": "2025-03-22T15:23:19.9259"
+    },
+    {
+        "id": "5e7dd446-5304-4e55-b2a5-d1cf48302fb7",
+        "user_id": "4ded8245-54ba-4499-8547-d67ae99bf26b",
+        "name": "Mubeena begam",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T15:25:54.552058",
+        "updated_at": "2025-03-22T15:25:54.552058"
+    },
+    {
+        "id": "02d17694-ff55-4164-8252-6a7a7a44d2d0",
+        "user_id": "77c0de05-b07a-4aa6-8e32-ece4d444dc06",
+        "name": "Kowsalya",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T15:29:02.900408",
+        "updated_at": "2025-03-22T15:29:02.900408"
+    },
+    {
+        "id": "da1d2136-1fc9-4f50-b2b2-fc1838de44ed",
+        "user_id": "77c0de05-b07a-4aa6-8e32-ece4d444dc06",
+        "name": "Kowsalya",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T15:29:03.869162",
+        "updated_at": "2025-03-22T15:29:03.869162"
+    },
+    {
+        "id": "4b4f1377-e244-492f-8397-760b3835e8f5",
+        "user_id": "6b58f801-f0e4-4b5a-b541-f61bc75d9eb2",
+        "name": "Stone work saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T16:53:08.887937",
+        "updated_at": "2025-03-22T16:53:08.887937"
+    },
+    {
+        "id": "5eb2b9a3-0cd2-46bf-ab6d-d5bb16be1ed3",
+        "user_id": "6b58f801-f0e4-4b5a-b541-f61bc75d9eb2",
+        "name": "Stone work saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T16:53:09.247651",
+        "updated_at": "2025-03-22T16:53:09.247651"
+    },
+    {
+        "id": "5756bd7d-a2f7-46f7-976f-e7277fd7a23f",
+        "user_id": "4a807f84-fd49-4099-8230-6bece225a0c2",
+        "name": "420",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T16:58:35.414672",
+        "updated_at": "2025-03-22T16:58:35.414672"
+    },
+    {
+        "id": "772fee9a-38a4-4ec5-8642-7bff59b44e3a",
+        "user_id": "6b8c72bc-99d7-479a-a195-40477987f0ff",
+        "name": "Poonam",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T16:58:45.217709",
+        "updated_at": "2025-03-22T16:58:45.217709"
+    },
+    {
+        "id": "dc45dc47-c79a-4936-a7a5-d5b1ee23439d",
+        "user_id": "4a807f84-fd49-4099-8230-6bece225a0c2",
+        "name": "Red",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T16:59:37.751129",
+        "updated_at": "2025-03-22T16:59:37.751129"
+    },
+    {
+        "id": "9e0af337-2ec3-4e5c-a54b-58466e3c1d79",
+        "user_id": "4a807f84-fd49-4099-8230-6bece225a0c2",
+        "name": "Red",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-22T16:59:38.785485",
+        "updated_at": "2025-03-22T16:59:38.785485"
     }
 ]
