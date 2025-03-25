@@ -44224,5 +44224,23 @@
         "id": "f995e536-72bb-4ffb-8d48-fffda04cdc45",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "19a1409f-5df8-4140-9e0f-0e6877c937c1"
+    },
+    {
+        "is_default": null,
+        "isdeleted": false,
+        "address": "Kalany, sikkaththampur",
+        "city": "Thuraiur",
+        "email": null,
+        "landmark": "Thuraiur ",
+        "mobile": null,
+        "name": "Suba",
+        "pincode": "621010",
+        "save_address_as": "1184,North Street, ",
+        "state": null,
+        "created_at": "2025-03-25T09:26:57.726484",
+        "updated_at": "2025-03-25T09:27:56.527156",
+        "id": "afedb761-ba41-492e-a329-42c27ea7cea5",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "e21f132a-074c-4e3a-ad1a-d891ffb92754"
     }
 ]
