@@ -10503,5 +10503,16 @@
         "id": "5498831c-d5c0-48f3-a2b2-982448b94fb7",
         "shop_id": null,
         "user_id": "266927cd-f79a-4641-a3e8-1f0d516e7519"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Saree delivery agala mam innum",
+        "created_at": "2025-03-25T09:00:03.179812",
+        "id": "d855da8d-dcdb-4ec8-aee4-00eda7d04c7f",
+        "shop_id": null,
+        "user_id": "d346f391-d3e2-417f-b1ab-96aa95e253c4"
     }
 ]

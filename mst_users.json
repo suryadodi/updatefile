@@ -96434,22 +96434,6 @@
     {
         "isdeleted": false,
         "date_of_birth": null,
-        "email": "sang9445210824@gmail.com",
-        "gender": null,
-        "image": null,
-        "mobile": "9445210824",
-        "name": "Sangavi",
-        "password": null,
-        "user_type": "users",
-        "created_at": "2025-03-21T16:59:27.907708",
-        "updated_at": "2025-03-21T16:59:27.907708",
-        "address_id": null,
-        "id": "19a1409f-5df8-4140-9e0f-0e6877c937c1",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
-    },
-    {
-        "isdeleted": false,
-        "date_of_birth": null,
         "email": "shob6381743183@gmail.com",
         "gender": null,
         "image": null,
@@ -101789,6 +101773,38 @@
         "updated_at": "2025-03-25T08:25:14.161868",
         "address_id": null,
         "id": "31c764ae-5839-4c17-bc7c-585329104372",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "kam7339356245@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "7339356245",
+        "name": "Kamu",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-25T08:56:46.346609",
+        "updated_at": "2025-03-25T08:56:46.346609",
+        "address_id": null,
+        "id": "4c2c0420-301f-4bed-815b-073a878c8799",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": "",
+        "email": "sang9445210824@gmail.com",
+        "gender": "Female",
+        "image": null,
+        "mobile": "9445210824",
+        "name": "Sangavi",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-21T16:59:27.907708",
+        "updated_at": "2025-03-25T08:59:00.5018",
+        "address_id": null,
+        "id": "19a1409f-5df8-4140-9e0f-0e6877c937c1",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
