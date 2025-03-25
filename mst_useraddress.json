@@ -44242,5 +44242,23 @@
         "id": "afedb761-ba41-492e-a329-42c27ea7cea5",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "e21f132a-074c-4e3a-ad1a-d891ffb92754"
+    },
+    {
+        "is_default": null,
+        "isdeleted": false,
+        "address": "Vanniyar street vadakku kolakudi kattumannarkoil ",
+        "city": "Cuddalore ",
+        "email": null,
+        "landmark": "Alauddin nagar",
+        "mobile": null,
+        "name": "Abdul Rahman ",
+        "pincode": "608301",
+        "save_address_as": "Home",
+        "state": null,
+        "created_at": "2025-03-25T09:35:23.707135",
+        "updated_at": "2025-03-25T09:35:23.707135",
+        "id": "9d15729e-b331-408b-a27b-910d7b98fbb4",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "dfe0989e-27f4-4cf3-9119-541c863cd223"
     }
 ]
