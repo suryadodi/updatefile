@@ -474,6 +474,57 @@
     },
     {
         "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "Green",
+                "price": "499",
+                "images": [
+                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742813808/download_oj4te6.png"
+                ],
+                "stocks": 22,
+                "offered_price": "399"
+            },
+            {
+                "color": "Brown",
+                "price": "499",
+                "images": [
+                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742814525/download_i0akji.png"
+                ],
+                "stocks": 17,
+                "offered_price": "399"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>WORK BLOUSE COMBO</li><li>1000 PUTTA</li><li>BLOUSE POINT 90 POINT</li></ul>",
+        "image": null,
+        "name": "1000",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-23T13:04:54.999338",
+        "updated_at": "2025-03-25T07:09:14.065342",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "f276e563-294a-46fa-a8ef-19e40b4d3232"
+    },
+    {
+        "featured_products": null,
         "isdeleted": true,
         "is_offer": null,
         "show_stock": true,
@@ -709,57 +760,6 @@
         "id": "34bfc77c-86e6-48af-9b54-20476621adbd",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "ab0965b3-1db4-49f2-85f0-bbd5121dd1ef"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": false,
-        "status": null,
-        "top_selling": true,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": null,
-        "price": null,
-        "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": [
-            {
-                "color": "Green",
-                "price": "499",
-                "images": [
-                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742813808/download_oj4te6.png"
-                ],
-                "stocks": 22,
-                "offered_price": "399"
-            },
-            {
-                "color": "Brown",
-                "price": "499",
-                "images": [
-                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742814525/download_i0akji.png"
-                ],
-                "stocks": 18,
-                "offered_price": "399"
-            }
-        ],
-        "images": null,
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>WORK BLOUSE COMBO</li><li>1000 PUTTA</li><li>BLOUSE POINT 90 POINT</li></ul>",
-        "image": null,
-        "name": "1000",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-23T13:04:54.999338",
-        "updated_at": "2025-03-24T15:02:40.551959",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "f276e563-294a-46fa-a8ef-19e40b4d3232"
     },
     {
         "featured_products": null,

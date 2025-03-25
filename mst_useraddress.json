@@ -21384,9 +21384,9 @@
         "user": "e5c78537-b0f0-4bcb-9c6f-808054f397e8"
     },
     {
-        "is_default": true,
+        "is_default": false,
         "isdeleted": false,
-        "address": "12/17 pallivasal Street,vadache road Near AAA Ortho care Opposite",
+        "address": "12/17 pallivasal Street,vadache road, Near AAA Ortho care Opposite",
         "city": "Pattukkottai",
         "email": null,
         "landmark": "Pattukkottai, Thanjavur Dt, Tamil Nadu",
@@ -21396,7 +21396,7 @@
         "save_address_as": "Home",
         "state": "Tamil Nadu",
         "created_at": "2025-03-15T07:13:10.302692",
-        "updated_at": "2025-03-15T07:14:11.737221",
+        "updated_at": "2025-03-25T07:17:05.49436",
         "id": "dbe7376a-17c0-4dd3-abb5-13e45ec42eae",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "c9854388-fb84-413b-b1db-eb9c5b0cf2aa"
