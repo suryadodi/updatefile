@@ -2394,15 +2394,6 @@
         "updated_at": "2025-03-17T17:26:57.658448"
     },
     {
-        "id": "eae6f3e6-dc7d-4400-8303-832fea6b981c",
-        "user_id": "0ce73c26-bb74-4da1-920c-5fe6f435cb76",
-        "name": "1000 putta saree",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-17T17:27:04.391134",
-        "updated_at": "2025-03-17T17:27:04.391134"
-    },
-    {
         "id": "81ccddd4-21de-4fb3-88d9-8594120a3031",
         "user_id": "732347cc-b7e6-48a7-8916-b6f75cd600ff",
         "name": "Shall",
@@ -3222,15 +3213,6 @@
         "updated_at": "2025-03-20T08:07:56.896532"
     },
     {
-        "id": "6cde7940-c443-4029-b803-4d866bf0354d",
-        "user_id": "e80ea867-ce39-430e-9ab5-04e325d009ec",
-        "name": "Basha M",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-20T09:32:11.72769",
-        "updated_at": "2025-03-20T09:32:11.72769"
-    },
-    {
         "id": "9fa7ae17-eda1-48bd-8a3f-733140481374",
         "user_id": "56871247-f597-4970-83e5-106ca2e845bf",
         "name": "Then",
@@ -4030,5 +4012,158 @@
         "isdeleted": false,
         "created_at": "2025-03-23T15:02:55.052229",
         "updated_at": "2025-03-23T15:02:55.052229"
+    },
+    {
+        "id": "892182f8-340b-422c-8b93-d9a7e00037f9",
+        "user_id": "4f207371-6a85-4e95-a6b4-3f7efec45503",
+        "name": "Fav",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T02:32:31.784186",
+        "updated_at": "2025-03-24T02:32:31.784186"
+    },
+    {
+        "id": "b7d87dce-8603-4fe5-adce-f53b5cb3609a",
+        "user_id": "e9ad3aba-90cf-4ed7-be77-5072320a738d",
+        "name": "Pauline chinnapparaj",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T02:50:43.298408",
+        "updated_at": "2025-03-24T02:50:43.298408"
+    },
+    {
+        "id": "e1827924-7b74-431c-8434-33165bde3512",
+        "user_id": "e9ad3aba-90cf-4ed7-be77-5072320a738d",
+        "name": "Pauline chinnapparaj",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T02:50:47.223103",
+        "updated_at": "2025-03-24T02:50:47.223103"
+    },
+    {
+        "id": "9f4076e3-202b-4978-a152-c40a914306e8",
+        "user_id": "e9ad3aba-90cf-4ed7-be77-5072320a738d",
+        "name": "Saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T02:52:16.723333",
+        "updated_at": "2025-03-24T02:52:16.723333"
+    },
+    {
+        "id": "3d9d4ba1-38e7-4442-8af2-a68963a36b88",
+        "user_id": "4efdd5a5-6d1f-4c6a-95b5-b103b559b347",
+        "name": "Amali",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T03:35:19.258056",
+        "updated_at": "2025-03-24T03:35:19.258056"
+    },
+    {
+        "id": "49fef9ac-1535-4fcb-9d35-015adb41df1d",
+        "user_id": "2976e26e-9490-4b3f-80d9-0b2ba61e3510",
+        "name": "Susila pink",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T07:55:56.169642",
+        "updated_at": "2025-03-24T07:55:56.169642"
+    },
+    {
+        "id": "c0a72478-45a7-4cdf-bdb5-8dfc42a29f59",
+        "user_id": "2976e26e-9490-4b3f-80d9-0b2ba61e3510",
+        "name": "Panam",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T07:56:16.333688",
+        "updated_at": "2025-03-24T07:56:16.333688"
+    },
+    {
+        "id": "8bb44daf-6098-4b72-8278-4bc3c93525d5",
+        "user_id": "5c0d04f0-6ee5-4f2a-be54-47e7eac8c8c0",
+        "name": "Neenga",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T12:15:30.447364",
+        "updated_at": "2025-03-24T12:15:30.447364"
+    },
+    {
+        "id": "3050446c-1ac5-4ae1-b1e2-13d06499d6cd",
+        "user_id": "03fb9ff3-c2af-4265-8819-b2cfa746fb1d",
+        "name": "Sarees",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T13:45:26.049558",
+        "updated_at": "2025-03-24T13:45:26.049558"
+    },
+    {
+        "id": "ae599e7a-fcaf-4de3-9996-316c03171ca6",
+        "user_id": "60a3066e-e043-4326-bf48-ff48f18dc6a1",
+        "name": "Saree ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T14:23:38.474982",
+        "updated_at": "2025-03-24T14:23:38.474982"
+    },
+    {
+        "id": "bc52d8c4-5ef6-41fa-ab04-4496045520db",
+        "user_id": "60a3066e-e043-4326-bf48-ff48f18dc6a1",
+        "name": "Saree ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T14:23:42.674747",
+        "updated_at": "2025-03-24T14:23:42.674747"
+    },
+    {
+        "id": "b63eb4b0-df29-49db-8013-daf9089c2b95",
+        "user_id": "7beef595-4d83-400f-911d-322f6f049a96",
+        "name": "Priya",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T15:07:25.256399",
+        "updated_at": "2025-03-24T15:07:25.256399"
+    },
+    {
+        "id": "4413c94c-841d-452e-a38e-7fd6cd037abd",
+        "user_id": "0ce73c26-bb74-4da1-920c-5fe6f435cb76",
+        "name": "Stone work saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T16:26:20.409018",
+        "updated_at": "2025-03-24T16:26:20.409018"
+    },
+    {
+        "id": "edf86e07-1240-4479-8e2e-ef0a6dd11a1a",
+        "user_id": "0ce73c26-bb74-4da1-920c-5fe6f435cb76",
+        "name": "Stone work saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T16:26:22.380402",
+        "updated_at": "2025-03-24T16:26:22.380402"
+    },
+    {
+        "id": "cf7334e4-9114-4d2f-8f5d-4904219ea4ce",
+        "user_id": "0ce73c26-bb74-4da1-920c-5fe6f435cb76",
+        "name": "Stone work saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T16:26:33.084261",
+        "updated_at": "2025-03-24T16:26:33.084261"
+    },
+    {
+        "id": "0f699b0f-5ebc-4d32-9eb9-fc3296be863d",
+        "user_id": "4efdd5a5-6d1f-4c6a-95b5-b103b559b347",
+        "name": "Amali",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T17:08:31.428007",
+        "updated_at": "2025-03-24T17:08:31.428007"
+    },
+    {
+        "id": "57de9ea3-7610-43c4-82af-a89e9f5b99bf",
+        "user_id": "7e81d4f7-01f3-4635-8bf1-fb77baa52376",
+        "name": "Abi",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-24T17:58:50.398737",
+        "updated_at": "2025-03-24T17:58:50.398737"
     }
 ]
