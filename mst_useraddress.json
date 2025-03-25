@@ -44116,5 +44116,23 @@
         "id": "b8665eff-eb4b-4291-9713-3d1cc6f2921b",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "d659eac8-f2b7-4458-972b-ffd6f8ff46ac"
+    },
+    {
+        "is_default": null,
+        "isdeleted": false,
+        "address": "13th main first cross",
+        "city": "kp agrahara, magadi road, bangaore",
+        "email": null,
+        "landmark": "near mani store",
+        "mobile": null,
+        "name": "sumathi",
+        "pincode": "560023",
+        "save_address_as": "home",
+        "state": null,
+        "created_at": "2025-03-25T06:53:17.259609",
+        "updated_at": "2025-03-25T06:53:17.259609",
+        "id": "5d2263eb-bdc0-4eb1-9586-7fd408291e9d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "09c553b8-0ee5-496e-9813-88aa0eb27956"
     }
 ]
