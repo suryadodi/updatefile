@@ -10415,5 +10415,16 @@
         "id": "e4ce1951-e6ea-4701-b135-31e5bf8b2ad9",
         "shop_id": null,
         "user_id": "1b908992-047b-4652-8a03-9541d79fb458"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Indha material a nanga recieve Pannala. Pls check",
+        "created_at": "2025-03-25T04:37:24.816523",
+        "id": "c791232b-17fa-4fe1-b0c8-68a87e1133e0",
+        "shop_id": null,
+        "user_id": "a4540446-333f-49f2-9548-6a0bb0003452"
     }
 ]
