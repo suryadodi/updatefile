@@ -44098,5 +44098,23 @@
         "id": "3fb23eea-22c6-4e4d-8418-3a009c747476",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "66e83ec7-d908-47b7-8424-349ecfe33f8a"
+    },
+    {
+        "is_default": null,
+        "isdeleted": false,
+        "address": "Tirupur chinnadipalayam Road Little Flower nagar 3rd Street ",
+        "city": "Tirupur ",
+        "email": null,
+        "landmark": "Aandipalayam",
+        "mobile": null,
+        "name": "Sulochana ",
+        "pincode": "641687",
+        "save_address_as": "Little Flower Nagar 3rd Street ",
+        "state": null,
+        "created_at": "2025-03-25T06:22:36.237757",
+        "updated_at": "2025-03-25T06:22:36.237757",
+        "id": "b8665eff-eb4b-4291-9713-3d1cc6f2921b",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "d659eac8-f2b7-4458-972b-ffd6f8ff46ac"
     }
 ]
