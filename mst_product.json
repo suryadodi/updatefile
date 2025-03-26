@@ -476,52 +476,35 @@
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
-        "show_stock": false,
+        "show_stock": true,
         "status": null,
-        "top_selling": true,
+        "top_selling": null,
         "trending_products": true,
         "discount": null,
         "duration": null,
         "expiry": null,
-        "offered_price": null,
-        "price": null,
+        "offered_price": 349,
+        "price": 260,
         "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": [
-            {
-                "color": "Green",
-                "price": "499",
-                "images": [
-                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742813808/download_oj4te6.png"
-                ],
-                "stocks": 22,
-                "offered_price": "399"
-            },
-            {
-                "color": "Brown",
-                "price": "499",
-                "images": [
-                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742814525/download_i0akji.png"
-                ],
-                "stocks": 17,
-                "offered_price": "399"
-            }
+        "selling_price": 499,
+        "stocks": 2,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741780553236-cropped-1741780553224.png"
         ],
-        "images": null,
         "alpha_numeric": null,
         "bar_code": null,
-        "description": "<ul><li>WORK BLOUSE COMBO</li><li>1000 PUTTA</li><li>BLOUSE POINT 90 POINT</li></ul>",
+        "description": "<ul><li>summer special</li><li>offer price</li><li>cotton</li></ul>",
         "image": null,
-        "name": "1000",
+        "name": "cotton green",
         "product_code": null,
         "videos": null,
-        "created_at": "2025-03-23T13:04:54.999338",
-        "updated_at": "2025-03-25T07:09:14.065342",
+        "created_at": "2025-03-12T11:56:07.357189",
+        "updated_at": "2025-03-25T11:27:39.738582",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
+        "id": "d77b222d-150e-473a-8442-f28ba7f340ea",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "f276e563-294a-46fa-a8ef-19e40b4d3232"
+        "sub_category": "ab0965b3-1db4-49f2-85f0-bbd5121dd1ef"
     },
     {
         "featured_products": null,
@@ -663,35 +646,52 @@
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
-        "show_stock": true,
+        "show_stock": false,
         "status": null,
-        "top_selling": null,
+        "top_selling": true,
         "trending_products": true,
         "discount": null,
         "duration": null,
         "expiry": null,
-        "offered_price": 349,
-        "price": 260,
+        "offered_price": null,
+        "price": null,
         "quantity": null,
-        "selling_price": 499,
-        "stocks": 2,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1741780553236-cropped-1741780553224.png"
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "Green",
+                "price": "499",
+                "images": [
+                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742813808/download_oj4te6.png"
+                ],
+                "stocks": 22,
+                "offered_price": "399"
+            },
+            {
+                "color": "Brown",
+                "price": "499",
+                "images": [
+                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742814525/download_i0akji.png"
+                ],
+                "stocks": 15,
+                "offered_price": "399"
+            }
         ],
+        "images": null,
         "alpha_numeric": null,
         "bar_code": null,
-        "description": "<ul><li>summer special</li><li>offer price</li><li>cotton</li></ul>",
+        "description": "<ul><li>WORK BLOUSE COMBO</li><li>1000 PUTTA</li><li>BLOUSE POINT 90 POINT</li></ul>",
         "image": null,
-        "name": "cotton green",
+        "name": "1000",
         "product_code": null,
         "videos": null,
-        "created_at": "2025-03-12T11:56:07.357189",
-        "updated_at": "2025-03-23T02:07:38.993787",
+        "created_at": "2025-03-23T13:04:54.999338",
+        "updated_at": "2025-03-26T01:12:59.639899",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "d77b222d-150e-473a-8442-f28ba7f340ea",
+        "id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "ab0965b3-1db4-49f2-85f0-bbd5121dd1ef"
+        "sub_category": "f276e563-294a-46fa-a8ef-19e40b4d3232"
     },
     {
         "featured_products": null,
@@ -2705,40 +2705,6 @@
     },
     {
         "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": true,
-        "status": null,
-        "top_selling": true,
-        "trending_products": null,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": null,
-        "price": 650,
-        "quantity": null,
-        "selling_price": 899,
-        "stocks": 10,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1741507244287-cropped-1741507244277.png"
-        ],
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>dual colour</li><li>work blouse combo</li><li>blouse point 90</li></ul>",
-        "image": null,
-        "name": "neenga asai patta saree",
-        "product_code": null,
-        "videos": null,
-        "created_at": null,
-        "updated_at": "2025-03-23T04:21:37.690007",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "84a4e3b7-1417-496f-b939-b8f0197a28b3",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
-    },
-    {
-        "featured_products": null,
         "isdeleted": true,
         "is_offer": null,
         "show_stock": true,
@@ -2910,6 +2876,40 @@
         "id": "53becafe-3f53-4966-8e3b-21b4d32e67e4",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "9f9861a8-60b6-4543-a7fc-c04a2b79dea0"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": true,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": 650,
+        "quantity": null,
+        "selling_price": 899,
+        "stocks": 9,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1741507244287-cropped-1741507244277.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>dual colour</li><li>work blouse combo</li><li>blouse point 90</li></ul>",
+        "image": null,
+        "name": "neenga asai patta saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": null,
+        "updated_at": "2025-03-25T18:26:56.095402",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "84a4e3b7-1417-496f-b939-b8f0197a28b3",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
     },
     {
         "featured_products": null,
@@ -3205,7 +3205,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742304967085-cropped-1742304967069.png"
                 ],
-                "stocks": 12,
+                "stocks": 11,
                 "offered_price": "455"
             },
             {
@@ -3254,7 +3254,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-18T13:40:04.872178",
-        "updated_at": "2025-03-23T12:26:04.786063",
+        "updated_at": "2025-03-25T12:24:00.084924",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "5e334deb-0d02-4d5c-8e19-352a7aade8ed",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -4250,7 +4250,7 @@
                 "images": [
                     "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742708077/blue1_zpwuif.png"
                 ],
-                "stocks": 28,
+                "stocks": 26,
                 "offered_price": "449"
             },
             {
@@ -4272,7 +4272,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-22T14:41:28.873045",
-        "updated_at": "2025-03-23T14:07:20.246361",
+        "updated_at": "2025-03-25T13:58:29.312439",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "09c442e6-3d5a-4de0-8961-3e033584e01c",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -4432,7 +4432,7 @@
                 "images": [
                     "https://d246wdlhxeb44j.cloudfront.net/1742398599145-cropped-1742398599123.png"
                 ],
-                "stocks": 4
+                "stocks": 3
             },
             {
                 "color": "Ash",
@@ -4452,7 +4452,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-19T15:37:16.532168",
-        "updated_at": "2025-03-24T12:58:59.020325",
+        "updated_at": "2025-03-25T11:48:21.846381",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "bb33bad2-fd02-42b3-8f22-fce25edef4e9",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -4851,71 +4851,6 @@
         "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     },
     {
-        "featured_products": true,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": false,
-        "status": null,
-        "top_selling": true,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": null,
-        "price": null,
-        "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": [
-            {
-                "color": "Ash",
-                "price": "549",
-                "images": [
-                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485318/front1_nkbd6m.png"
-                ],
-                "stocks": 21
-            },
-            {
-                "color": "Brown",
-                "price": "549",
-                "images": [
-                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485339/front3_hznizi.png"
-                ],
-                "stocks": 24
-            },
-            {
-                "color": "Green",
-                "price": "549",
-                "images": [
-                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485330/front2_jfivrl.png"
-                ],
-                "stocks": 24
-            },
-            {
-                "color": "Yellow",
-                "price": "549",
-                "images": [
-                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485361/front4_aivb0n.png"
-                ],
-                "stocks": 24
-            }
-        ],
-        "images": null,
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>FANCY SAREE</li><li>RUNNING BLOUSE</li><li>STONE WORK</li></ul>",
-        "image": null,
-        "name": "THAS101",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-20T13:16:40.384152",
-        "updated_at": "2025-03-22T23:56:13.822933",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
-    },
-    {
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
@@ -5001,6 +4936,71 @@
         "id": "b09664f1-cb8f-4bd2-9f03-30fb466375aa",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": true,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
+                "color": "Ash",
+                "price": "549",
+                "images": [
+                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485318/front1_nkbd6m.png"
+                ],
+                "stocks": 20
+            },
+            {
+                "color": "Brown",
+                "price": "549",
+                "images": [
+                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485339/front3_hznizi.png"
+                ],
+                "stocks": 24
+            },
+            {
+                "color": "Green",
+                "price": "549",
+                "images": [
+                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485330/front2_jfivrl.png"
+                ],
+                "stocks": 24
+            },
+            {
+                "color": "Yellow",
+                "price": "549",
+                "images": [
+                    "https://res.cloudinary.com/dt9p4jpn3/image/upload/v1742485361/front4_aivb0n.png"
+                ],
+                "stocks": 24
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>FANCY SAREE</li><li>RUNNING BLOUSE</li><li>STONE WORK</li></ul>",
+        "image": null,
+        "name": "THAS101",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-20T13:16:40.384152",
+        "updated_at": "2025-03-25T10:43:27.742903",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     },
     {
         "featured_products": null,
