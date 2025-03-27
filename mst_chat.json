@@ -10580,5 +10580,181 @@
         "id": "64eafea1-a2e7-40af-baad-cc61fc6b0441",
         "shop_id": null,
         "user_id": "6b3e78a1-3ef2-439c-8a91-497887019389"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Reply panurengala ena",
+        "created_at": "2025-03-26T04:08:42.791601",
+        "id": "a0320416-433e-4192-92e5-d1f13f99a2ef",
+        "shop_id": null,
+        "user_id": "8a02baec-8db4-4688-bcb7-4c772cd0a671"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Sorry I didn't got the delivery ",
+        "created_at": "2025-03-26T05:52:05.938684",
+        "id": "bb383f69-eb79-489d-a14b-74618b946080",
+        "shop_id": null,
+        "user_id": "19a1409f-5df8-4140-9e0f-0e6877c937c1"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Sorry I didn't got the product by my mistake I will send the product was delivered ",
+        "created_at": "2025-03-26T05:55:12.925599",
+        "id": "cc22deea-7ef2-4005-8178-f3f7a8d7583c",
+        "shop_id": null,
+        "user_id": "19a1409f-5df8-4140-9e0f-0e6877c937c1"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-26T07:36:07.159026",
+        "id": "309f8ac0-26c3-4e11-ae7e-45371cfb73f4",
+        "shop_id": null,
+        "user_id": "82513afc-6ecf-4b8d-ac94-95182eb38423"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello",
+        "created_at": "2025-03-26T08:53:52.335215",
+        "id": "d11a7f53-03fe-4aec-80c6-0ae2223903f4",
+        "shop_id": null,
+        "user_id": "09f7f1b3-978f-45aa-b331-3c08b7ae1745"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi miss",
+        "created_at": "2025-03-26T11:21:18.032272",
+        "id": "6d3969dd-4347-445d-90c5-711f7fd774e9",
+        "shop_id": null,
+        "user_id": "54c4f6e3-ca17-492e-9fe0-093e6b2c3e79"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello ",
+        "created_at": "2025-03-26T11:21:34.338221",
+        "id": "9818b502-3289-40a8-bf78-fc64af76ac5f",
+        "shop_id": null,
+        "user_id": "54c4f6e3-ca17-492e-9fe0-093e6b2c3e79"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-26T11:54:41.855499",
+        "id": "18ede37d-d6d9-44a6-863b-87ae28c21717",
+        "shop_id": null,
+        "user_id": "3bb0c9b1-d657-47ff-b350-7e17c1f4c7d7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "3b65c6e0 ",
+        "created_at": "2025-03-26T17:10:23.627817",
+        "id": "acd9f582-ac82-44e9-b601-e1376390346f",
+        "shop_id": null,
+        "user_id": "a9833e5e-d180-4fc0-a1ec-2613aad2ce0f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Order ID",
+        "created_at": "2025-03-26T17:10:29.832508",
+        "id": "d7f99dff-7235-4256-9adb-ed3b3f8bc26c",
+        "shop_id": null,
+        "user_id": "a9833e5e-d180-4fc0-a1ec-2613aad2ce0f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "3b65c6e0",
+        "created_at": "2025-03-26T17:10:52.781277",
+        "id": "e1cebe93-6587-43b2-81ab-d7316a7f30af",
+        "shop_id": null,
+        "user_id": "a9833e5e-d180-4fc0-a1ec-2613aad2ce0f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I ordered shall 3b65c6e0",
+        "created_at": "2025-03-26T17:11:09.830297",
+        "id": "241ef612-5c6f-4c4f-81d3-59d7b5b0f0ac",
+        "shop_id": null,
+        "user_id": "a9833e5e-d180-4fc0-a1ec-2613aad2ce0f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Not received ",
+        "created_at": "2025-03-26T17:11:15.270611",
+        "id": "6df7aa59-b168-4cdd-9c5a-3f4d86705c3a",
+        "shop_id": null,
+        "user_id": "a9833e5e-d180-4fc0-a1ec-2613aad2ce0f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Got the order thanks",
+        "created_at": "2025-03-26T19:06:38.493847",
+        "id": "f76c72d6-c567-401d-9c22-f42f3320ac3e",
+        "shop_id": null,
+        "user_id": "266927cd-f79a-4641-a3e8-1f0d516e7519"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi sis",
+        "created_at": "2025-03-26T23:58:43.172305",
+        "id": "57fafed1-d91a-46c4-9bf2-7b5c5e4eb7c0",
+        "shop_id": null,
+        "user_id": "2eeb71ef-bb44-4273-ab58-6bfc9040c10c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Product receive agala sis...na theiriyama delivered ku yes ku kuduthutan",
+        "created_at": "2025-03-26T23:59:40.579648",
+        "id": "f47ad0f1-687d-4f43-b2cb-8f868c7c4c6e",
+        "shop_id": null,
+        "user_id": "2eeb71ef-bb44-4273-ab58-6bfc9040c10c"
     }
 ]
