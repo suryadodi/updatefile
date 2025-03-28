@@ -45628,5 +45628,23 @@
         "id": "cd0dc569-7520-478c-ac4c-0e40f8ed3c7f",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "b41edfc2-0e17-4c30-b739-7fabd49a0527"
+    },
+    {
+        "is_default": true,
+        "isdeleted": false,
+        "address": "Paduvakarai Bethelpuram (Po)",
+        "city": "Neyyoor ",
+        "email": null,
+        "landmark": "Library ",
+        "mobile": null,
+        "name": "Jose ",
+        "pincode": "629803",
+        "save_address_as": "Home",
+        "state": "Tamil Nadu",
+        "created_at": "2025-03-28T15:07:47.71552",
+        "updated_at": "2025-03-28T15:07:47.71552",
+        "id": "35fb59f0-6bb4-4e4e-9925-a1c4abacc3c7",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "db39abee-5f69-409d-b6da-4b451f1d7696"
     }
 ]
