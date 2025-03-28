@@ -104750,5 +104750,21 @@
         "address_id": null,
         "id": "04bf2008-3874-46a0-a64c-ca47d9988a5f",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "jasmine9597776136@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "9597776136",
+        "name": "jasmine",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-28T12:04:26.473532",
+        "updated_at": "2025-03-28T12:04:31.237836",
+        "address_id": null,
+        "id": "d9503370-0753-436e-9de8-8cd40a739a3d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
