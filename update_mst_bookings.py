@@ -38,6 +38,7 @@ query GetMstBookings {
 		customer
 		id
 		shop_id
+        payment_id
   }
 }
     
