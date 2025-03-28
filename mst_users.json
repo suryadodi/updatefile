@@ -104830,5 +104830,21 @@
         "address_id": null,
         "id": "4d3af14e-cc98-47ba-beec-54c7468fb24f",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "kanniyappank7402191590@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "7402191590",
+        "name": "Kanniyappan K ",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-28T15:25:08.440058",
+        "updated_at": "2025-03-28T15:25:13.490947",
+        "address_id": null,
+        "id": "6bd6b24b-3045-4c8c-ba42-fc00e2351d36",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
