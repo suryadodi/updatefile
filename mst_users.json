@@ -104862,5 +104862,21 @@
         "address_id": null,
         "id": "eb1f3166-55ae-4a42-8ee7-a31b0a3fc21a",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "rath7708247901@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "7708247901",
+        "name": "Raththa",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-28T16:19:32.08314",
+        "updated_at": "2025-03-28T16:19:32.08314",
+        "address_id": null,
+        "id": "35ee1203-4257-454f-9bc4-1164d688ffc7",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
