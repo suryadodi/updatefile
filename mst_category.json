@@ -83,10 +83,20 @@
         "id": "b215ea8b-99de-4e75-8427-28785107bb23",
         "category": "zxczxcxxc",
         "image": "https://d246wdlhxeb44j.cloudfront.net/category/1743186710996-1743186710993.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-28T18:39:34.57629",
+        "created_at": "2025-03-28T18:32:08.697624"
+    },
+    {
+        "id": "f4342dcb-e2ce-4a55-a57b-6563dbe51606",
+        "category": "asdaszxczxc",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/category/1743187183821-1743187183820.webp",
         "isdeleted": false,
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "description": null,
-        "updated_at": "2025-03-28T18:32:08.697624",
-        "created_at": "2025-03-28T18:32:08.697624"
+        "updated_at": "2025-03-28T18:39:55.716028",
+        "created_at": "2025-03-28T18:39:55.716028"
     }
 ]
