@@ -10943,5 +10943,71 @@
         "id": "2cca1992-deb3-4cda-bdf7-f836e27e3d71",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "c6a0840e-b855-42a6-a4cc-a18d4f2894b4"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello idiots saree order pottu 16 dqys aagittu inum anuppavilla, yennapannurenga, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0ba9\u0bcd \u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0bc1\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd ",
+        "created_at": "2025-03-28T14:03:39.673145",
+        "id": "54a4957d-88be-4421-9c35-84e9529006a3",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Answer pannunga",
+        "created_at": "2025-03-28T14:04:01.986573",
+        "id": "c882f94c-c66b-4e9a-8b52-ee548476dc53",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello idiots saree order pottu 16 dqys aagittu inum anuppavilla, yennapannurenga, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0ba9\u0bcd \u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0bc1\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd ",
+        "created_at": "2025-03-28T14:04:17.53387",
+        "id": "18629b31-2d05-49fc-8cd8-c1cf51cbfb93",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello idiots saree order pottu 16 dqys aagittu inum anuppavilla, yennapannurenga, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0ba9\u0bcd \u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0bc1\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd ",
+        "created_at": "2025-03-28T14:04:29.841951",
+        "id": "14600b29-2c8c-4cb4-a198-455a7de680b6",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello idiots saree order pottu 16 dqys aagittu inum anuppavilla, yennapannurenga, \u0b85\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bb5\u0ba9\u0bcd \u0baa\u0ba3\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8f\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0bc1\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bbf\u0bb1\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bcd ",
+        "created_at": "2025-03-28T14:04:35.315572",
+        "id": "743a4461-5509-4163-aaf2-fe1ee1a690e6",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Where is my saree",
+        "created_at": "2025-03-28T14:04:53.983844",
+        "id": "e8ed749d-52bb-4ac4-8ab9-bf64055d4fd0",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
     }
 ]
