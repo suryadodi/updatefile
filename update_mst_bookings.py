@@ -39,6 +39,7 @@ query GetMstBookings {
 		id
 		shop_id
         payment_id
+        payment_verify
   }
 }
     
