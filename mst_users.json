@@ -104798,5 +104798,21 @@
         "address_id": null,
         "id": "cb77f68d-2e2f-462b-aabe-d1ff16e3628d",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "e.mu9344448243@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "9344448243",
+        "name": "E.MUNEESWARI ",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-28T13:38:46.371954",
+        "updated_at": "2025-03-28T13:38:46.371954",
+        "address_id": null,
+        "id": "aefe2163-1155-44b1-b807-519bb6fb4544",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
