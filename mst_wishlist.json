@@ -3481,5 +3481,14 @@
         "product_id": "552b6e6f-6bf2-4751-85b7-f38c8bb57857",
         "shop_id": null,
         "wishlist_collection_id": "781f447a-34bd-4b31-b308-0812e90174ea"
+    },
+    {
+        "isdeleted": false,
+        "created_at": "2025-03-28T17:30:56.763509",
+        "updated_at": "2025-03-28T17:30:56.763509",
+        "id": "abad0302-3013-4786-abf1-6ea4b7f80f96",
+        "product_id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
+        "shop_id": null,
+        "wishlist_collection_id": "648b3f72-577f-4d74-b100-3b59b7d331c0"
     }
 ]
