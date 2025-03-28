@@ -104734,5 +104734,21 @@
         "address_id": null,
         "id": "b41edfc2-0e17-4c30-b739-7fabd49a0527",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "yoga7598861569@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "7598861569",
+        "name": "Yoga",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-28T11:46:43.001338",
+        "updated_at": "2025-03-28T11:46:43.001338",
+        "address_id": null,
+        "id": "04bf2008-3874-46a0-a64c-ca47d9988a5f",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
