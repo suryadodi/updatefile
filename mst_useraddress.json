@@ -45574,5 +45574,41 @@
         "id": "babb52d8-ed4a-4db3-9fc9-34c63816692a",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "0b6a596c-5c3c-410c-ab04-3dc9944cdf14"
+    },
+    {
+        "is_default": null,
+        "isdeleted": false,
+        "address": "Puthumanai street",
+        "city": "Ravanasamudram",
+        "email": null,
+        "landmark": "Near ameer john hospital ",
+        "mobile": null,
+        "name": "Afrin",
+        "pincode": "627424",
+        "save_address_as": "Soraj manzil",
+        "state": null,
+        "created_at": "2025-03-28T11:40:47.412275",
+        "updated_at": "2025-03-28T11:40:47.412275",
+        "id": "940fde4f-8ece-49cc-a5b0-f1112a3747ad",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "e972811f-3919-4237-9c51-aa4f8de748f7"
+    },
+    {
+        "is_default": null,
+        "isdeleted": false,
+        "address": "Puthumanai street ",
+        "city": "Ravanasamudram ",
+        "email": null,
+        "landmark": "Near ameer john hospital ",
+        "mobile": null,
+        "name": "Afrin",
+        "pincode": "627424",
+        "save_address_as": "Siraj manzil",
+        "state": null,
+        "created_at": "2025-03-28T11:43:14.430291",
+        "updated_at": "2025-03-28T11:43:14.430291",
+        "id": "765af26e-d690-4aae-944c-9b26d6ed07a3",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "e972811f-3919-4237-9c51-aa4f8de748f7"
     }
 ]
