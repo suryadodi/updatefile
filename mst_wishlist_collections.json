@@ -1440,15 +1440,6 @@
         "updated_at": "2025-03-14T09:22:29.26137"
     },
     {
-        "id": "eab32083-5793-414a-b3e4-fdcc08e0609f",
-        "user_id": "d4bffe69-092f-4daf-ad29-49f708472d46",
-        "name": "new",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-14T10:09:15.542147",
-        "updated_at": "2025-03-14T10:09:15.542147"
-    },
-    {
         "id": "578c16fc-9fbd-4e35-97e1-0f12d3191b8a",
         "user_id": "bb9965b0-8330-4d58-89de-03b92b96ffe2",
         "name": "Benasir S",
@@ -3429,15 +3420,6 @@
         "updated_at": "2025-03-21T11:11:02.882417"
     },
     {
-        "id": "6986ca5d-31c8-4df3-8f07-f5908ad5aa5f",
-        "user_id": "4a89078f-310f-4dea-85ef-1140c003f957",
-        "name": "M mohamedBuhari",
-        "shop_id": null,
-        "isdeleted": false,
-        "created_at": "2025-03-21T12:32:29.398931",
-        "updated_at": "2025-03-21T12:32:29.398931"
-    },
-    {
         "id": "94a94b6e-1a63-44a2-8aad-540b60d6ce95",
         "user_id": "2a65e81b-733a-43f2-b9da-618aa92b7fd9",
         "name": "flower valley",
@@ -4327,5 +4309,59 @@
         "isdeleted": false,
         "created_at": "2025-03-26T10:17:58.107887",
         "updated_at": "2025-03-26T10:17:58.107887"
+    },
+    {
+        "id": "b00b6756-4e4e-47e4-9476-7ebe8f273e84",
+        "user_id": "f4aa067b-191f-4ddc-82d9-cca15edea649",
+        "name": "Mariya Wincy",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-27T10:01:07.026003",
+        "updated_at": "2025-03-27T10:01:07.026003"
+    },
+    {
+        "id": "bd628377-fcb4-4ef7-b1a9-a7f220f17120",
+        "user_id": "4fe3a5fb-16d8-408c-87ca-956d5b0d63bd",
+        "name": "Durga",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-27T10:07:40.540503",
+        "updated_at": "2025-03-27T10:07:40.540503"
+    },
+    {
+        "id": "c08d8686-dddc-4f51-8b2d-5d6f7649f71f",
+        "user_id": "4fe3a5fb-16d8-408c-87ca-956d5b0d63bd",
+        "name": "Durga",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-27T10:07:41.574602",
+        "updated_at": "2025-03-27T10:07:41.574602"
+    },
+    {
+        "id": "6a712300-8df6-4fbc-9f22-210f90774448",
+        "user_id": "9f064b1e-91b0-4032-a5cb-8df29e279c11",
+        "name": "Vayira uusi sarees ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-27T15:44:19.637949",
+        "updated_at": "2025-03-27T15:44:19.637949"
+    },
+    {
+        "id": "f50ba5b7-1e22-4def-94e7-3b6381796144",
+        "user_id": "9f064b1e-91b0-4032-a5cb-8df29e279c11",
+        "name": "Vayira uusi sarees ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-27T15:44:28.377651",
+        "updated_at": "2025-03-27T15:44:28.377651"
+    },
+    {
+        "id": "318e4d11-d395-45cd-be35-de0fcff6660f",
+        "user_id": "9f064b1e-91b0-4032-a5cb-8df29e279c11",
+        "name": "Vayira uusi sarees ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-03-27T15:45:15.383607",
+        "updated_at": "2025-03-27T15:45:15.383607"
     }
 ]

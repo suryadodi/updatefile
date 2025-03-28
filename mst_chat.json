@@ -10756,5 +10756,137 @@
         "id": "f47ad0f1-687d-4f43-b2cb-8f868c7c4c6e",
         "shop_id": null,
         "user_id": "2eeb71ef-bb44-4273-ab58-6bfc9040c10c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Mam  when was my order delivered please reply me ",
+        "created_at": "2025-03-27T02:29:10.387944",
+        "id": "2b35f276-8965-4845-9493-18e2142ae958",
+        "shop_id": null,
+        "user_id": "f7a8d012-43a0-4447-974d-5f43be4e8292"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Mam when was my order delivered ",
+        "created_at": "2025-03-27T02:29:54.817094",
+        "id": "75300366-ce40-41c7-a201-80879f4cbcbc",
+        "shop_id": null,
+        "user_id": "f7a8d012-43a0-4447-974d-5f43be4e8292"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Where is my saree",
+        "created_at": "2025-03-27T05:09:59.857504",
+        "id": "e16eff08-93e7-4bc0-9ee3-f4e1e93896c5",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I ordered it on 15th march",
+        "created_at": "2025-03-27T05:10:17.610685",
+        "id": "bf206d37-6635-42cd-b18e-74f0a053fa8a",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello",
+        "created_at": "2025-03-27T05:10:26.860928",
+        "id": "effefb30-2179-4045-95ed-fef66634fa7a",
+        "shop_id": null,
+        "user_id": "56f38ef8-06d2-4216-931b-fab2597bfaa6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Order panni 9days aguthu innum varala correct Naa reply illa what's app laa send my amount ",
+        "created_at": "2025-03-27T06:23:46.729728",
+        "id": "3ce4b83a-ca55-42c2-b7a9-2fe90bd8df7d",
+        "shop_id": null,
+        "user_id": "1b908992-047b-4652-8a03-9541d79fb458"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hello ",
+        "created_at": "2025-03-27T10:42:30.986011",
+        "id": "ab79191d-aa1d-450b-9f1e-cfda1d67a1ab",
+        "shop_id": null,
+        "user_id": "2d901b8a-cb76-4ee7-a9bb-36ae8885f38e"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "\u0b8e\u0baa\u0bcd\u0baa \u0bb5\u0bb0\u0bc1\u0bae\u0bcd",
+        "created_at": "2025-03-27T11:30:28.979911",
+        "id": "a7d9a07d-7b16-4173-8fe1-c27050e72ce8",
+        "shop_id": null,
+        "user_id": "4a89078f-310f-4dea-85ef-1140c003f957"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi",
+        "created_at": "2025-03-27T12:03:23.977642",
+        "id": "bae438f9-9051-4b27-aa51-147e8a882254",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "b2e9d083-b22a-4318-b4ce-d9ff9b13a953"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Yepo than varum Saree 20 March order panathu 27 aguthu ennum varala ",
+        "created_at": "2025-03-27T12:05:14.584048",
+        "id": "8b4fe4fb-fe50-409d-8ceb-ffe550513634",
+        "shop_id": null,
+        "user_id": "1824ce4b-e8e1-4ed8-8c2c-0889c09a7481"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "No delivered ",
+        "created_at": "2025-03-27T12:17:44.118487",
+        "id": "dc9c48e4-d66f-4ced-8a42-e2af424b9d29",
+        "shop_id": null,
+        "user_id": "1824ce4b-e8e1-4ed8-8c2c-0889c09a7481"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-27T15:28:49.383984",
+        "id": "f7cd576e-13b5-4ab1-b959-a0d1168b1846",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "26e71f3e-6b93-4b7a-83d6-551397708500"
     }
 ]
