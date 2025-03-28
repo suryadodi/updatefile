@@ -104894,5 +104894,21 @@
         "address_id": null,
         "id": "0a2170c5-b6d6-4752-bd6d-23a6274a69eb",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "jeev6383321950@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "6383321950",
+        "name": "Jeevasri 6383321950",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-28T17:28:02.201493",
+        "updated_at": "2025-03-28T17:28:02.201493",
+        "address_id": null,
+        "id": "d5025836-3f67-4e28-992a-4277d8e3af42",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
