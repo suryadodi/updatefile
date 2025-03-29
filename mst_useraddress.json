@@ -45682,5 +45682,23 @@
         "id": "fb1750df-85f2-49f7-a4f0-4d0e12840105",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "0a2170c5-b6d6-4752-bd6d-23a6274a69eb"
+    },
+    {
+        "is_default": null,
+        "isdeleted": false,
+        "address": "6/21,east street",
+        "city": "Rajagiri",
+        "email": null,
+        "landmark": "Imayam school",
+        "mobile": null,
+        "name": "Astho fareena",
+        "pincode": "614207",
+        "save_address_as": "Home",
+        "state": null,
+        "created_at": "2025-03-29T01:13:24.194903",
+        "updated_at": "2025-03-29T01:13:24.194903",
+        "id": "b0081973-a7c2-4c3d-9221-de9d4f8791cf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "012d50ef-3c47-46c8-8a58-e990f3a60ead"
     }
 ]
