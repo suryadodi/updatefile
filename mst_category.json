@@ -93,10 +93,10 @@
         "id": "f4342dcb-e2ce-4a55-a57b-6563dbe51606",
         "category": "asdaszxczxc",
         "image": "https://d246wdlhxeb44j.cloudfront.net/category/1743187183821-1743187183820.webp",
-        "isdeleted": false,
+        "isdeleted": true,
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "description": null,
-        "updated_at": "2025-03-28T18:39:55.716028",
+        "updated_at": "2025-03-29T05:24:06.180138",
         "created_at": "2025-03-28T18:39:55.716028"
     }
 ]
