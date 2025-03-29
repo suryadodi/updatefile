@@ -1,5 +1,25 @@
 [
     {
+        "id": "a25b70e6-e1e7-465d-bb13-375b8a9cedcf",
+        "category": "tyutyutyu",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743229410907.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-29T06:23:39.444495",
+        "created_at": "2025-03-29T06:23:32.358901"
+    },
+    {
+        "id": "c555f797-3364-40bb-a703-9412b4fbc4ca",
+        "category": "natha",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743229422192.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-29T06:23:56.841339",
+        "created_at": "2025-03-29T06:23:43.591699"
+    },
+    {
         "id": "f688dad7-7021-4076-a0fd-90653630dfec",
         "category": "SAREES",
         "image": "https://karthikacollections2174.s3.ap-south-1.amazonaws.com/1740037228401-cropped-1740037228386.png",
@@ -98,5 +118,15 @@
         "description": null,
         "updated_at": "2025-03-29T05:24:06.180138",
         "created_at": "2025-03-28T18:39:55.716028"
+    },
+    {
+        "id": "65f901d6-d07f-41ea-8784-9a110a60e3cb",
+        "category": "asdasd",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743229398636.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-29T06:23:32.997921",
+        "created_at": "2025-03-29T06:23:21.261996"
     }
 ]
