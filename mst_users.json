@@ -104990,5 +104990,21 @@
         "address_id": null,
         "id": "af0c0217-13a3-4fdb-8f28-f6bcbbb5134e",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "sabi9043818623@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "9043818623",
+        "name": "Sabitha Marimuthu",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-03-29T06:45:47.976827",
+        "updated_at": "2025-03-29T06:45:47.976827",
+        "address_id": null,
+        "id": "7f06fbd9-3172-4821-9129-1867b8d2efe4",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
