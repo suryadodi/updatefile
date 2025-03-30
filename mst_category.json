@@ -60,6 +60,16 @@
         "created_at": "2025-02-18T16:17:37.723091"
     },
     {
+        "id": "0cdee1cf-4b38-4678-8914-6bd0c3763a49",
+        "category": "hi",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743231615028.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-29T07:00:29.557524",
+        "created_at": "2025-03-29T07:00:22.57367"
+    },
+    {
         "id": "7360cf00-5aeb-472f-8a9f-991e0bf48c31",
         "category": "saree kar",
         "image": "https://d246wdlhxeb44j.cloudfront.net/1741448781169-cropped-1741448781165.png",
@@ -78,6 +88,26 @@
         "description": null,
         "updated_at": "2025-03-08T16:11:37.781743",
         "created_at": "2025-03-08T16:11:23.331932"
+    },
+    {
+        "id": "ace1e502-133d-45b5-b33c-fab9fa95cd0f",
+        "category": "asdasds",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743231746060.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-29T07:03:44.59518",
+        "created_at": "2025-03-29T07:02:28.152362"
+    },
+    {
+        "id": "ffca2a8a-249e-4f58-8d63-4735bcba249e",
+        "category": "test",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743231919143.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-29T07:06:23.126407",
+        "created_at": "2025-03-29T07:05:22.787993"
     },
     {
         "id": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
