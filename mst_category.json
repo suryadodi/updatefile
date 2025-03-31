@@ -188,5 +188,45 @@
         "description": null,
         "updated_at": "2025-03-29T06:23:32.997921",
         "created_at": "2025-03-29T06:23:21.261996"
+    },
+    {
+        "id": "3501e4d3-c196-471c-a872-43a872b3347f",
+        "category": "asdd",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743354152011.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-30T17:02:38.812388",
+        "created_at": "2025-03-30T17:02:35.092562"
+    },
+    {
+        "id": "64cba1ee-1ade-403c-904a-f1e2593173e0",
+        "category": "asdasd",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743354586861.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-30T17:12:25.227653",
+        "created_at": "2025-03-30T17:09:50.424208"
+    },
+    {
+        "id": "128a2e30-aaf1-4c78-be20-82262b39fbfb",
+        "category": "asdasd",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743361416235.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-30T19:10:12.811839",
+        "created_at": "2025-03-30T19:06:13.742412"
+    },
+    {
+        "id": "8f929834-7e18-4520-97d1-18047033bdfb",
+        "category": "asdd",
+        "image": "https://d246wdlhxeb44j.cloudfront.net/1743361764520.webp",
+        "isdeleted": true,
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "description": null,
+        "updated_at": "2025-03-30T19:10:16.471665",
+        "created_at": "2025-03-30T19:10:09.773206"
     }
 ]

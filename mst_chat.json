@@ -11130,5 +11130,27 @@
         "id": "527d9a2f-92eb-4a11-8dcd-24305a4ed1b8",
         "shop_id": null,
         "user_id": "1824ce4b-e8e1-4ed8-8c2c-0889c09a7481"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi sis",
+        "created_at": "2025-03-30T08:02:24.053089",
+        "id": "708b6bb6-489d-49fa-94e6-8cd1b39a19b1",
+        "shop_id": null,
+        "user_id": "3cc707f3-aeb0-46f8-8946-ac68113fa204"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Popcorn saree ",
+        "created_at": "2025-03-30T17:14:41.943731",
+        "id": "fe4e9b78-4630-41df-aa21-00d9c3f68175",
+        "shop_id": null,
+        "user_id": "309e98b8-3039-41c0-8e15-10d0a0260714"
     }
 ]

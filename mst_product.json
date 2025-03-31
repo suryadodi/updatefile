@@ -800,6 +800,57 @@
         "stocks": null,
         "attributes": [
             {
+                "color": "Green",
+                "price": "499",
+                "images": [
+                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742813808/download_oj4te6.png"
+                ],
+                "stocks": 19,
+                "offered_price": "399"
+            },
+            {
+                "color": "Brown",
+                "price": "499",
+                "images": [
+                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742814525/download_i0akji.png"
+                ],
+                "stocks": 9,
+                "offered_price": "399"
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>WORK BLOUSE COMBO</li><li>1000 PUTTA</li><li>BLOUSE POINT 90 POINT</li></ul>",
+        "image": null,
+        "name": "1000",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-23T13:04:54.999338",
+        "updated_at": "2025-03-30T14:34:21.631393",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "f276e563-294a-46fa-a8ef-19e40b4d3232"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
                 "color": "Red",
                 "price": "799",
                 "images": [
@@ -889,58 +940,7 @@
     },
     {
         "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": false,
-        "status": null,
-        "top_selling": true,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": null,
-        "price": null,
-        "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": [
-            {
-                "color": "Green",
-                "price": "499",
-                "images": [
-                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742813808/download_oj4te6.png"
-                ],
-                "stocks": 19,
-                "offered_price": "399"
-            },
-            {
-                "color": "Brown",
-                "price": "499",
-                "images": [
-                    "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742814525/download_i0akji.png"
-                ],
-                "stocks": 10,
-                "offered_price": "399"
-            }
-        ],
-        "images": null,
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>WORK BLOUSE COMBO</li><li>1000 PUTTA</li><li>BLOUSE POINT 90 POINT</li></ul>",
-        "image": null,
-        "name": "1000",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-23T13:04:54.999338",
-        "updated_at": "2025-03-28T07:56:22.341104",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "f276e563-294a-46fa-a8ef-19e40b4d3232"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
+        "isdeleted": true,
         "is_offer": null,
         "show_stock": false,
         "status": null,
@@ -1001,7 +1001,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-19T11:06:44.673858",
-        "updated_at": "2025-03-23T00:35:53.267149",
+        "updated_at": "2025-03-30T14:27:59.701228",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "a9d5feaa-09c8-4df3-8ccd-a4335a7faead",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -1326,41 +1326,6 @@
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
-        "show_stock": true,
-        "status": null,
-        "top_selling": null,
-        "trending_products": null,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": 999,
-        "price": 780,
-        "quantity": null,
-        "selling_price": 1100,
-        "stocks": 34,
-        "attributes": null,
-        "images": [
-            "https://d246wdlhxeb44j.cloudfront.net/1742394780561-cropped-1742394780557.png",
-            "https://d246wdlhxeb44j.cloudfront.net/1742394793356-cropped-1742394793351.png"
-        ],
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<p>Jyothika mam saree</p>",
-        "image": null,
-        "name": "Jyothika mam saree",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-19T14:33:19.823405",
-        "updated_at": "2025-03-22T00:36:09.615837",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
         "show_stock": false,
         "status": null,
         "top_selling": true,
@@ -1393,33 +1358,6 @@
                 "offered_price": "999"
             },
             {
-                "color": "rama green",
-                "price": "2500",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742206748344-cropped-1742206748328.png"
-                ],
-                "stocks": 2,
-                "offered_price": "999"
-            },
-            {
-                "color": "dark green",
-                "price": "2500",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742206810328-cropped-1742206810311.png"
-                ],
-                "stocks": "3",
-                "offered_price": "999"
-            },
-            {
-                "color": "PEACOCK GREEN",
-                "price": "2500",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742206853393-cropped-1742206853377.png"
-                ],
-                "stocks": 0,
-                "offered_price": "999"
-            },
-            {
                 "color": "BLUE",
                 "price": "2500",
                 "images": [
@@ -1438,11 +1376,46 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-17T10:22:44.275621",
-        "updated_at": "2025-03-22T10:10:43.737184",
+        "updated_at": "2025-03-30T14:29:09.941496",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "406f2261-a1ab-44cd-a2ff-f41ffb958a09",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "5be3bab2-73ff-43a9-af87-e398a563c974"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": true,
+        "status": null,
+        "top_selling": null,
+        "trending_products": null,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": 999,
+        "price": 780,
+        "quantity": null,
+        "selling_price": 1100,
+        "stocks": 34,
+        "attributes": null,
+        "images": [
+            "https://d246wdlhxeb44j.cloudfront.net/1742394780561-cropped-1742394780557.png",
+            "https://d246wdlhxeb44j.cloudfront.net/1742394793356-cropped-1742394793351.png"
+        ],
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<p>Jyothika mam saree</p>",
+        "image": null,
+        "name": "Jyothika mam saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-19T14:33:19.823405",
+        "updated_at": "2025-03-22T00:36:09.615837",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "58ea6ff4-1f63-43e3-a715-845602bfc578",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "af8e85d8-3909-45fe-81a2-d3fb95260093"
     },
     {
         "featured_products": null,
@@ -1954,6 +1927,87 @@
         "stocks": null,
         "attributes": [
             {
+                "color": "YELLOW",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205639198-cropped-1742205639183.png"
+                ],
+                "stocks": 9
+            },
+            {
+                "color": "PINK",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205673176-cropped-1742205673161.png"
+                ],
+                "stocks": 9
+            },
+            {
+                "color": "lavender",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205710844-cropped-1742205710828.png"
+                ],
+                "stocks": 6
+            },
+            {
+                "color": "sky blue",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205750611-cropped-1742205750596.png"
+                ],
+                "stocks": 9
+            },
+            {
+                "color": "rama green",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205806910-cropped-1742205806896.png"
+                ],
+                "stocks": 8
+            },
+            {
+                "color": "peche",
+                "price": "699",
+                "images": [
+                    "https://d246wdlhxeb44j.cloudfront.net/1742205851438-cropped-1742205851423.png"
+                ],
+                "stocks": 8
+            }
+        ],
+        "images": null,
+        "alpha_numeric": null,
+        "bar_code": null,
+        "description": "<ul><li>party wear</li><li>stone work</li><li>running blouse</li><li>Fazal</li></ul>",
+        "image": null,
+        "name": "party wear saree",
+        "product_code": null,
+        "videos": null,
+        "created_at": "2025-03-17T10:04:30.528367",
+        "updated_at": "2025-03-30T03:16:07.228068",
+        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
+        "id": "4d9c6a6d-ef18-4dc8-a87e-0a3f777a164e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
+    },
+    {
+        "featured_products": null,
+        "isdeleted": false,
+        "is_offer": null,
+        "show_stock": false,
+        "status": null,
+        "top_selling": true,
+        "trending_products": true,
+        "discount": null,
+        "duration": null,
+        "expiry": null,
+        "offered_price": null,
+        "price": null,
+        "quantity": null,
+        "selling_price": null,
+        "stocks": null,
+        "attributes": [
+            {
                 "color": "BLUE",
                 "price": "2500",
                 "images": [
@@ -2085,87 +2139,6 @@
         "updated_at": "2025-03-25T10:43:27.742903",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "29f4bb88-e1b1-4a9f-8fa6-0d45dec0baa9",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
-        "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
-    },
-    {
-        "featured_products": null,
-        "isdeleted": false,
-        "is_offer": null,
-        "show_stock": false,
-        "status": null,
-        "top_selling": true,
-        "trending_products": true,
-        "discount": null,
-        "duration": null,
-        "expiry": null,
-        "offered_price": null,
-        "price": null,
-        "quantity": null,
-        "selling_price": null,
-        "stocks": null,
-        "attributes": [
-            {
-                "color": "YELLOW",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205639198-cropped-1742205639183.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "PINK",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205673176-cropped-1742205673161.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "lavender",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205710844-cropped-1742205710828.png"
-                ],
-                "stocks": 6
-            },
-            {
-                "color": "sky blue",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205750611-cropped-1742205750596.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "rama green",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205806910-cropped-1742205806896.png"
-                ],
-                "stocks": 9
-            },
-            {
-                "color": "peche",
-                "price": "699",
-                "images": [
-                    "https://d246wdlhxeb44j.cloudfront.net/1742205851438-cropped-1742205851423.png"
-                ],
-                "stocks": 8
-            }
-        ],
-        "images": null,
-        "alpha_numeric": null,
-        "bar_code": null,
-        "description": "<ul><li>party wear</li><li>stone work</li><li>running blouse</li><li>Fazal</li></ul>",
-        "image": null,
-        "name": "party wear saree",
-        "product_code": null,
-        "videos": null,
-        "created_at": "2025-03-17T10:04:30.528367",
-        "updated_at": "2025-03-21T07:22:06.167747",
-        "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
-        "id": "4d9c6a6d-ef18-4dc8-a87e-0a3f777a164e",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "sub_category": "2821a0ca-47f6-49d1-85fc-949e072cfbce"
     }
