@@ -11152,5 +11152,49 @@
         "id": "fe4e9b78-4630-41df-aa21-00d9c3f68175",
         "shop_id": null,
         "user_id": "309e98b8-3039-41c0-8e15-10d0a0260714"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "How is the saree",
+        "created_at": "2025-03-31T05:18:40.543664",
+        "id": "1c6935f7-68e6-4dd4-83db-f6df351c54cd",
+        "shop_id": null,
+        "user_id": "8100c2fb-e5bf-43c7-83ef-36536b1c5f45"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi",
+        "created_at": "2025-03-31T10:32:13.754498",
+        "id": "fd0ee976-9fad-4c69-94ed-01348f3e7ad4",
+        "shop_id": null,
+        "user_id": "99fe7a7f-31f0-4558-ad40-c26fa46e718d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Akka",
+        "created_at": "2025-03-31T10:32:18.761511",
+        "id": "75b6ddc5-90d6-4c29-864f-bd42e0943ddf",
+        "shop_id": null,
+        "user_id": "99fe7a7f-31f0-4558-ad40-c26fa46e718d"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Saree order panniyachu.but order conform message varavellai.please reply",
+        "created_at": "2025-03-31T13:01:38.6756",
+        "id": "c1b56c4a-7cda-4c8d-a41b-abed16b1a24e",
+        "shop_id": null,
+        "user_id": "11db494d-1664-47d7-9911-15f963b808fb"
     }
 ]
