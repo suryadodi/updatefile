@@ -11196,5 +11196,60 @@
         "id": "c1b56c4a-7cda-4c8d-a41b-abed16b1a24e",
         "shop_id": null,
         "user_id": "11db494d-1664-47d7-9911-15f963b808fb"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "\u0baa\u0bbe\u0baa\u0bcd\u0b95\u0bbe\u0bb0\u0bcd\u0ba9\u0bcd \u0b9a\u0bc7\u0bb2\u0bc8",
+        "created_at": "2025-04-01T09:19:43.822284",
+        "id": "0ae473c0-2e06-43b3-8701-15ed969f759c",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "5f558174-90dc-4a47-a6c2-442ac9a8892e"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Sales ah",
+        "created_at": "2025-04-01T10:26:57.75928",
+        "id": "587da6d8-47ea-44ce-9602-15b36af8bde3",
+        "shop_id": null,
+        "user_id": "df6016ab-0a1d-4ea4-93aa-bf6c8001cf93"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Not available ah",
+        "created_at": "2025-04-01T10:27:27.300116",
+        "id": "66a926e7-ae5e-4d8b-b280-9de576e31f80",
+        "shop_id": null,
+        "user_id": "df6016ab-0a1d-4ea4-93aa-bf6c8001cf93"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "kubera silk saree yeppadi pathu order pandrathu",
+        "created_at": "2025-04-01T16:52:24.717322",
+        "id": "eb480374-2759-4b7f-80bd-e8bed07300ca",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "b88b0b01-7135-48be-9350-53c41e552f41"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "I want 1000 putta saree more colours. Would please restock.. maron colour and other colour ",
+        "created_at": "2025-04-01T17:50:13.764269",
+        "id": "033a6fff-fb51-4936-9483-ec94c611441b",
+        "shop_id": null,
+        "user_id": "cc9c6f90-a4eb-40ab-ba4b-5d76d49ec005"
     }
 ]

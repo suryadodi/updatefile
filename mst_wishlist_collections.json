@@ -4633,5 +4633,104 @@
         "isdeleted": false,
         "created_at": "2025-03-31T18:14:48.62948",
         "updated_at": "2025-03-31T18:14:48.62948"
+    },
+    {
+        "id": "a2bfc307-d36f-4c7b-a7c8-2daae2059531",
+        "user_id": "75dc9203-5ed1-4b18-86a7-fb6aab150550",
+        "name": "Love",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T01:43:11.611976",
+        "updated_at": "2025-04-01T01:43:11.611976"
+    },
+    {
+        "id": "df377d9c-34d0-4631-8280-1da484f4cba4",
+        "user_id": "cdb02e1b-9a8d-4a24-a041-fb5bdc99d645",
+        "name": "Fancy saree",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T02:15:08.703588",
+        "updated_at": "2025-04-01T02:15:08.703588"
+    },
+    {
+        "id": "ae3f2eec-02d0-405e-95a0-b2c1381bf75e",
+        "user_id": "1b01204d-f398-4947-9a6e-ebda4127ee55",
+        "name": "Shakcy",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T02:30:48.179519",
+        "updated_at": "2025-04-01T02:30:48.179519"
+    },
+    {
+        "id": "3c1dcc4d-9d0a-4266-ad01-43ab3fe81ec6",
+        "user_id": "1b01204d-f398-4947-9a6e-ebda4127ee55",
+        "name": "Shakcy ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T02:31:01.728028",
+        "updated_at": "2025-04-01T02:31:01.728028"
+    },
+    {
+        "id": "adf0a427-b732-4e82-ae5b-350c9e135725",
+        "user_id": "3c598060-7929-4cb7-83b1-c1865636db20",
+        "name": "Dessy thana",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T11:04:42.814746",
+        "updated_at": "2025-04-01T11:04:42.814746"
+    },
+    {
+        "id": "c246c521-6fd0-4456-9a88-0ac571c277f0",
+        "user_id": "042c2c00-b113-4046-aa9f-ed868fa0366a",
+        "name": "Devi",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T11:37:41.111375",
+        "updated_at": "2025-04-01T11:37:41.111375"
+    },
+    {
+        "id": "e177c8b4-bf00-4604-9064-783e4370922c",
+        "user_id": "042c2c00-b113-4046-aa9f-ed868fa0366a",
+        "name": "Devi Lakshmi",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T11:38:40.654578",
+        "updated_at": "2025-04-01T11:38:40.654578"
+    },
+    {
+        "id": "fa05f281-30dd-48c6-9f25-55c4c070017a",
+        "user_id": "f207ad95-bea5-42d3-ae81-c20c3fae211d",
+        "name": "Arthi",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T12:24:02.649176",
+        "updated_at": "2025-04-01T12:24:02.649176"
+    },
+    {
+        "id": "fe4874ba-6cac-42ba-b942-bd536071fc92",
+        "user_id": "f49c9711-23ad-42e4-ab2e-eb585d5c4d10",
+        "name": "New collection ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T13:56:39.841379",
+        "updated_at": "2025-04-01T13:56:39.841379"
+    },
+    {
+        "id": "7a8ca747-fcea-417c-ae9b-d48ca3a1dfe7",
+        "user_id": "ff57ee5a-f72c-4b6a-a2f1-8ca2f55da872",
+        "name": "Gs",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T15:08:47.143375",
+        "updated_at": "2025-04-01T15:08:47.143375"
+    },
+    {
+        "id": "b0a7678a-cfe0-4ff2-8d6e-9346ea7cd810",
+        "user_id": "7d776a20-9a97-46ee-87c9-1db861b48cc7",
+        "name": "anuraadha",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-01T20:33:59.518087",
+        "updated_at": "2025-04-01T20:33:59.518087"
     }
 ]
