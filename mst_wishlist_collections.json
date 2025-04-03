@@ -4732,5 +4732,50 @@
         "isdeleted": false,
         "created_at": "2025-04-01T20:33:59.518087",
         "updated_at": "2025-04-01T20:33:59.518087"
+    },
+    {
+        "id": "8135d883-67df-4a2b-b1a4-45f5e919a2f7",
+        "user_id": "cc924422-7297-4d5a-b007-16215c0271a1",
+        "name": "Kowsi Madhu",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-02T02:45:26.725453",
+        "updated_at": "2025-04-02T02:45:26.725453"
+    },
+    {
+        "id": "0769da2c-3950-4b0d-a452-f61713486fc3",
+        "user_id": "72caae7c-906f-49fb-a03e-54a2d1435a45",
+        "name": "Charu V",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-02T04:26:16.105784",
+        "updated_at": "2025-04-02T04:26:16.105784"
+    },
+    {
+        "id": "7567e208-97e8-4559-82ba-650052cf7476",
+        "user_id": "2279ad8b-b99e-4857-8682-f341b5f304d0",
+        "name": "net",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-02T16:49:54.127128",
+        "updated_at": "2025-04-02T16:49:54.127128"
+    },
+    {
+        "id": "7c0d7057-f5fa-483f-a67d-c11875bd019a",
+        "user_id": "f2acd667-08eb-4f02-84eb-bdbb6c8b993a",
+        "name": "softsilk",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-02T16:58:09.771867",
+        "updated_at": "2025-04-02T16:58:09.771867"
+    },
+    {
+        "id": "fabfa451-3a00-4462-8f88-5e77adc9d4f1",
+        "user_id": "f2acd667-08eb-4f02-84eb-bdbb6c8b993a",
+        "name": "newcollection",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-04-03T00:39:33.518609",
+        "updated_at": "2025-04-03T00:39:33.518609"
     }
 ]
