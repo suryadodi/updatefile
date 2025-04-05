@@ -11273,5 +11273,60 @@
         "id": "7923b154-2ab0-46c4-ba8f-ed9fdd332d06",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "e9eec6fc-6da1-4d05-99de-838d045b73de"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi",
+        "created_at": "2025-04-04T01:29:21.576955",
+        "id": "79642ddc-8c23-4b9c-8dfa-e8a271efabfd",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "91def89a-4f5f-46f3-b94c-b2d0c61b6d3c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "offer saree ethula vara matuthu sis",
+        "created_at": "2025-04-04T01:29:32.542532",
+        "id": "f2ab1653-f587-45c0-b5f5-67380ba68846",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "91def89a-4f5f-46f3-b94c-b2d0c61b6d3c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "website",
+        "created_at": "2025-04-04T10:24:16.836073",
+        "id": "10507ce4-af43-4a09-9ef2-fda41bca8460",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7a1c0156-0689-48bc-b503-55aad5419da0"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Stock",
+        "created_at": "2025-04-04T17:40:39.143856",
+        "id": "ee0fe9b8-6f12-4736-a934-a56fc3167c06",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7d776a20-9a97-46ee-87c9-1db861b48cc7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "saree",
+        "created_at": "2025-04-04T17:40:55.564961",
+        "id": "62797292-60dc-45a4-ba25-a383e31dac74",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7d776a20-9a97-46ee-87c9-1db861b48cc7"
     }
 ]
