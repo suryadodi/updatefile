@@ -11328,5 +11328,16 @@
         "id": "62797292-60dc-45a4-ba25-a383e31dac74",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "7d776a20-9a97-46ee-87c9-1db861b48cc7"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "mam enoda order delivery date eppam",
+        "created_at": "2025-04-07T04:23:54.806112",
+        "id": "547286db-d40f-4a44-976f-1215c59dd140",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "55e09474-54bf-49d4-bd9c-8864aed659e2"
     }
 ]

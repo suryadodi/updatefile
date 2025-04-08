@@ -108862,5 +108862,21 @@
         "address_id": null,
         "id": "0e2fb4ee-23b4-4c1f-80a3-1680cef18391",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "rajasri7871538509@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "7871538509",
+        "name": "raja sri",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-04-07T11:53:11.505707",
+        "updated_at": "2025-04-07T11:53:14.464947",
+        "address_id": null,
+        "id": "2a14435c-0081-4935-9cb8-d3d8a1fc6d02",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
