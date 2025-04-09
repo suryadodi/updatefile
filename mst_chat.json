@@ -11339,5 +11339,27 @@
         "id": "547286db-d40f-4a44-976f-1215c59dd140",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "55e09474-54bf-49d4-bd9c-8864aed659e2"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "saree collection ithula ILA",
+        "created_at": "2025-04-08T07:49:17.815622",
+        "id": "13d8b5dc-4101-46db-904a-1d512349df84",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7509036e-8638-488c-9587-7037b3d0b75a"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "KAMMIYA THA IRUKU",
+        "created_at": "2025-04-08T07:49:28.156189",
+        "id": "97d61cde-b058-4a87-b234-e8d6a64c92b5",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "7509036e-8638-488c-9587-7037b3d0b75a"
     }
 ]

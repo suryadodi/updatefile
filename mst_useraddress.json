@@ -47194,5 +47194,41 @@
         "id": "dff4e2e4-eb92-40b2-a15a-6e74e4ed3aa3",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "d82a3d4f-72c4-44b2-9401-d595b199f162"
+    },
+    {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "123 street",
+        "city": "tvl",
+        "email": null,
+        "landmark": "near",
+        "mobile": null,
+        "name": "test",
+        "pincode": "628005",
+        "save_address_as": null,
+        "state": null,
+        "created_at": "2025-04-08T07:15:42.749027",
+        "updated_at": "2025-04-08T07:16:10.206334",
+        "id": "5f4d2957-692c-4fa1-aa3a-3becfa7f4bb5",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "88ee4d78-8212-41b8-979a-77fcbb2e8285"
+    },
+    {
+        "is_default": true,
+        "isdeleted": false,
+        "address": "124 street",
+        "city": "tvl",
+        "email": null,
+        "landmark": "nearr",
+        "mobile": null,
+        "name": "test 2",
+        "pincode": "628008",
+        "save_address_as": null,
+        "state": null,
+        "created_at": "2025-04-08T07:16:10.509522",
+        "updated_at": "2025-04-08T10:00:24.366002",
+        "id": "9f9fbb54-6a51-4817-88f6-0aef8bbf1b13",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "88ee4d78-8212-41b8-979a-77fcbb2e8285"
     }
 ]
