@@ -11361,5 +11361,38 @@
         "id": "97d61cde-b058-4a87-b234-e8d6a64c92b5",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "7509036e-8638-488c-9587-7037b3d0b75a"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hii",
+        "created_at": "2025-04-10T17:17:46.788904",
+        "id": "93b6770b-1b0e-45f0-9349-14ec48eb5f91",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "82ffa7b1-f4e1-4042-b920-3eea7e9eac9a"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "today 430 rupees sarees available mam",
+        "created_at": "2025-04-10T17:19:47.035115",
+        "id": "45bd3a6c-f9eb-4c2a-8352-8135987fa30a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "82ffa7b1-f4e1-4042-b920-3eea7e9eac9a"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Poonam saree",
+        "created_at": "2025-04-10T17:54:42.153332",
+        "id": "9d852d9a-588e-4213-aaf4-d7dfd6c5e550",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "68bfcc1a-21c8-4cc5-8870-8f21e5c92ba3"
     }
 ]
