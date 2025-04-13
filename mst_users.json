@@ -109134,5 +109134,21 @@
         "address_id": null,
         "id": "c8ee8912-3b6c-4ba6-970d-a4f732c12428",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "gowthami9344699605@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "9344699605",
+        "name": "gowthami",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-04-12T08:41:41.736555",
+        "updated_at": "2025-04-12T08:41:45.695334",
+        "address_id": null,
+        "id": "c93234dd-f89e-4619-9296-e6eeda628a65",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
