@@ -11405,5 +11405,38 @@
         "id": "c518944a-24db-4630-aebc-2e00a48bdda3",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "55e09474-54bf-49d4-bd9c-8864aed659e2"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi",
+        "created_at": "2025-04-13T16:23:36.524116",
+        "id": "6ca3ecfc-0c2d-463e-a2e2-2b739b379132",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "54e5673b-1eaf-4ce3-b78c-72ed1d9990d6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "sarees",
+        "created_at": "2025-04-13T16:24:09.578231",
+        "id": "f302a6ee-2de3-4ad9-bdbe-ad7a1e7863b1",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "54e5673b-1eaf-4ce3-b78c-72ed1d9990d6"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "New collection podonga sister",
+        "created_at": "2025-04-13T16:25:41.815831",
+        "id": "db83b910-9039-40f7-9506-f7b78dfa5fff",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "54e5673b-1eaf-4ce3-b78c-72ed1d9990d6"
     }
 ]
