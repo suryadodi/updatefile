@@ -1414,7 +1414,7 @@
         "price": 80,
         "quantity": null,
         "selling_price": 300,
-        "stocks": 6,
+        "stocks": 5,
         "attributes": null,
         "images": [
             "https://d246wdlhxeb44j.cloudfront.net/1742223611263-cropped-1742223611250.png"
@@ -1427,7 +1427,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-17T15:02:14.084323",
-        "updated_at": "2025-04-01T19:04:14.226685",
+        "updated_at": "2025-04-15T12:42:42.23771",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "6d075d7e-3091-40cd-803f-55a176b49ebe",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
