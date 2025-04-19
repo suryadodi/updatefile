@@ -47214,6 +47214,24 @@
         "user": "5b3ae1a1-1037-4a98-8036-c878ff73dcfd"
     },
     {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "Dr. Jeyasekharan Hospital . kp Road , Nagercoil, Kanniyakumari",
+        "city": "tamil Nadu",
+        "email": null,
+        "landmark": "Near Vikek Lab",
+        "mobile": null,
+        "name": "vinsy sheeba",
+        "pincode": "629001",
+        "save_address_as": "Office",
+        "state": "Tamil Nadu",
+        "created_at": "2025-04-18T15:13:55.764265",
+        "updated_at": "2025-04-18T15:13:55.764265",
+        "id": "1d1c2962-0342-4766-ab9f-f0d3e2eab6bf",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "22c0f4d2-3301-4c93-a332-f7c688efd53b"
+    },
+    {
         "is_default": true,
         "isdeleted": false,
         "address": "124 street",
@@ -47248,5 +47266,23 @@
         "id": "5f4d2957-692c-4fa1-aa3a-3becfa7f4bb5",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "88ee4d78-8212-41b8-979a-77fcbb2e8285"
+    },
+    {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "Dr. Jeyasekharan Hospital . kp Road , Nagercoil, Kanniyakumari",
+        "city": "tamil Nadu",
+        "email": null,
+        "landmark": "Near Vikek Lab",
+        "mobile": null,
+        "name": "vinsy sheeba",
+        "pincode": "629001",
+        "save_address_as": "Office",
+        "state": "Tamil Nadu",
+        "created_at": "2025-04-18T15:13:56.589595",
+        "updated_at": "2025-04-18T15:13:56.589595",
+        "id": "128cc89e-4409-4831-aada-b323ebf3372d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "22c0f4d2-3301-4c93-a332-f7c688efd53b"
     }
 ]
