@@ -11460,5 +11460,16 @@
         "id": "304a10c1-ba23-4a10-aeac-36399f8c5c77",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "22c0f4d2-3301-4c93-a332-f7c688efd53b"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi",
+        "created_at": "2025-04-22T09:18:44.819057",
+        "id": "35161c5a-5847-4320-a897-4b9be76158ee",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "54e5673b-1eaf-4ce3-b78c-72ed1d9990d6"
     }
 ]
