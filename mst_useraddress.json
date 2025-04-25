@@ -47320,5 +47320,41 @@
         "id": "d112c140-db5d-4365-8889-ea60412f6d1c",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "38341bbc-6d52-4e8c-b2e4-8ba6989075d6"
+    },
+    {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "Puliyur Kandikai Kuttai Street ",
+        "city": "Thiruvallur",
+        "email": null,
+        "landmark": "Sai Baba Temple ",
+        "mobile": null,
+        "name": "baskar",
+        "pincode": "602024",
+        "save_address_as": "Home",
+        "state": "Tamilnadu",
+        "created_at": "2025-04-24T11:52:13.826326",
+        "updated_at": "2025-04-24T11:52:13.826326",
+        "id": "48a6be98-3e96-4ad6-b5fc-c1bba2724481",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "94bc03b5-e00f-4503-8a21-630b488a33a6"
+    },
+    {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "Puliyur Kandikai Kuttai Street ",
+        "city": "Thiruvallur",
+        "email": null,
+        "landmark": "Sai Baba Temple ",
+        "mobile": null,
+        "name": "baskar",
+        "pincode": "602024",
+        "save_address_as": "Home",
+        "state": "Tamilnadu",
+        "created_at": "2025-04-24T11:52:14.495179",
+        "updated_at": "2025-04-24T11:52:14.495179",
+        "id": "21da5abe-e38a-470f-b886-c70fbbb21884",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "94bc03b5-e00f-4503-8a21-630b488a33a6"
     }
 ]

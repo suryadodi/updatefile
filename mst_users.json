@@ -109822,5 +109822,37 @@
         "address_id": null,
         "id": "3acb46f8-c63a-4ddb-a4a0-406343d0367b",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": null,
+        "email": "brindharamesh7538821395@gmail.com",
+        "gender": null,
+        "image": null,
+        "mobile": "7538821395",
+        "name": "Brindha Ramesh",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-04-24T09:25:56.989955",
+        "updated_at": "2025-04-24T09:26:00.764887",
+        "address_id": null,
+        "id": "13f56e22-ef9e-42de-aef3-6bad1a4177ef",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": "1998-10-23",
+        "email": "baskar9585796269@gmail.com",
+        "gender": "Male",
+        "image": null,
+        "mobile": "9585796269",
+        "name": "baskar ",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-04-24T11:30:35.078998",
+        "updated_at": "2025-04-24T11:51:07.346768",
+        "address_id": null,
+        "id": "94bc03b5-e00f-4503-8a21-630b488a33a6",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
