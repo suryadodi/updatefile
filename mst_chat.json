@@ -11482,5 +11482,38 @@
         "id": "af640f31-8ec4-4536-8e36-f545be760c4a",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "e705bd58-75de-40a5-9b1a-771ab29fac7f"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "my order was",
+        "created_at": "2025-04-25T09:13:43.540061",
+        "id": "cf908609-44d8-46fe-b04d-c5bd17a14c04",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "19a1409f-5df8-4140-9e0f-0e6877c937c1"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "pending",
+        "created_at": "2025-04-25T09:13:49.083707",
+        "id": "099f9289-b298-4e7d-a012-bffba686840d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "19a1409f-5df8-4140-9e0f-0e6877c937c1"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "last one week",
+        "created_at": "2025-04-25T09:13:58.62377",
+        "id": "086133e6-ee6e-4844-b8d4-8b411bc33048",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "19a1409f-5df8-4140-9e0f-0e6877c937c1"
     }
 ]
