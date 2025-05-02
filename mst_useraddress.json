@@ -47356,5 +47356,41 @@
         "id": "21da5abe-e38a-470f-b886-c70fbbb21884",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "94bc03b5-e00f-4503-8a21-630b488a33a6"
+    },
+    {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "Vannamparaipatty,Sivagangai Road,Kottanathampatty(Po)",
+        "city": "Madurai",
+        "email": null,
+        "landmark": "Melur",
+        "mobile": null,
+        "name": "premalatha",
+        "pincode": "625109",
+        "save_address_as": "Home",
+        "state": "Tamilnadu",
+        "created_at": "2025-05-01T07:25:46.404062",
+        "updated_at": "2025-05-01T07:25:46.404062",
+        "id": "036ceddf-8ed2-4be3-b370-0ddf0c56cb06",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "270efd21-3021-4719-9544-ee6954f4aae3"
+    },
+    {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "Vannamparaipatty,Sivagangai Road,Kottanathampatty(Po)",
+        "city": "Madurai",
+        "email": null,
+        "landmark": "Melur",
+        "mobile": null,
+        "name": "premalatha",
+        "pincode": "625109",
+        "save_address_as": "Home",
+        "state": "Tamilnadu",
+        "created_at": "2025-05-01T07:25:47.007617",
+        "updated_at": "2025-05-01T07:25:47.007617",
+        "id": "bb9d2e0b-3494-45c2-b153-e7a9daf9d572",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "270efd21-3021-4719-9544-ee6954f4aae3"
     }
 ]
