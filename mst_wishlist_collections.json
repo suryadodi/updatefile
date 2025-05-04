@@ -4894,5 +4894,23 @@
         "isdeleted": false,
         "created_at": "2025-04-27T09:38:35.278847",
         "updated_at": "2025-04-27T09:38:35.278847"
+    },
+    {
+        "id": "e011d453-a368-421b-8a08-e69cc45c2aea",
+        "user_id": "85545fed-8227-4587-b848-163407cd088e",
+        "name": "jyothika maam",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-05-03T04:09:00.296237",
+        "updated_at": "2025-05-03T04:09:00.296237"
+    },
+    {
+        "id": "9459d6a2-60d4-4de1-874a-e64f5d6fd2ab",
+        "user_id": "9c817321-b842-4b3c-bbfb-e4d41a71e673",
+        "name": "my Saree collections ",
+        "shop_id": null,
+        "isdeleted": false,
+        "created_at": "2025-05-03T18:49:28.396974",
+        "updated_at": "2025-05-03T18:49:28.396974"
     }
 ]

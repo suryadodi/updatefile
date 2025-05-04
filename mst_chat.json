@@ -11592,5 +11592,27 @@
         "id": "bc6ce4c3-30a6-4571-8c03-f80facfa22b2",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "9a42adf7-b512-482c-8ba5-38b56a7cf34c"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "new collection saree",
+        "created_at": "2025-05-03T07:11:37.862402",
+        "id": "921eb91d-ce75-4c70-bacd-b47fc23f1e8a",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "85545fed-8227-4587-b848-163407cd088e"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "plz photo send",
+        "created_at": "2025-05-03T07:11:48.505916",
+        "id": "7b1e2b1f-a1c2-467b-9968-9a705f4cb30d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "85545fed-8227-4587-b848-163407cd088e"
     }
 ]
