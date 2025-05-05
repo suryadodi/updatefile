@@ -47410,5 +47410,23 @@
         "id": "b4a65a23-76b6-4545-b350-b29b061142a2",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "6ee024e1-030b-44c7-844d-d443d2076b78"
+    },
+    {
+        "is_default": true,
+        "isdeleted": false,
+        "address": "Mugilan 4/30A Ambethgar St Pasumathur",
+        "city": "Vellor",
+        "email": null,
+        "landmark": "Pasumathur",
+        "mobile": null,
+        "name": "saraswathi ",
+        "pincode": "635803",
+        "save_address_as": "Home",
+        "state": "Tamil Nadu",
+        "created_at": "2025-05-04T08:55:43.76183",
+        "updated_at": "2025-05-04T08:55:43.76183",
+        "id": "f268f1ec-9f14-47ca-8dc5-a918ae464835",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "61e3cf65-93b0-4705-ba4d-a48879fdebf7"
     }
 ]

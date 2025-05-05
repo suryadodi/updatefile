@@ -712,7 +712,7 @@
         "price": 260,
         "quantity": null,
         "selling_price": 550,
-        "stocks": 2,
+        "stocks": 1,
         "attributes": null,
         "images": [
             "https://d246wdlhxeb44j.cloudfront.net/1741508011654-cropped-1741508011649.png"
@@ -725,7 +725,7 @@
         "product_code": null,
         "videos": null,
         "created_at": null,
-        "updated_at": "2025-03-28T07:34:48.193766",
+        "updated_at": "2025-05-04T06:56:48.596474",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "d440b8d4-5b63-46b5-a928-f3caea8799e7",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
@@ -942,7 +942,7 @@
         "featured_products": null,
         "isdeleted": false,
         "is_offer": null,
-        "show_stock": false,
+        "show_stock": true,
         "status": null,
         "top_selling": true,
         "trending_products": true,
@@ -970,7 +970,7 @@
                 "images": [
                     "https://res.cloudinary.com/da9v7rkiv/image/upload/v1742814525/download_i0akji.png"
                 ],
-                "stocks": 7,
+                "stocks": "6",
                 "offered_price": "399"
             }
         ],
@@ -983,7 +983,7 @@
         "product_code": null,
         "videos": null,
         "created_at": "2025-03-23T13:04:54.999338",
-        "updated_at": "2025-04-02T02:24:48.321127",
+        "updated_at": "2025-05-04T08:57:23.889703",
         "category": "8b6adf7c-f5fe-4473-b927-c90253d5f4cc",
         "id": "7e4d4b91-482e-4cd1-9856-fc5b1c16b2e8",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
