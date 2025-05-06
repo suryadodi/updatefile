@@ -47428,5 +47428,41 @@
         "id": "f268f1ec-9f14-47ca-8dc5-a918ae464835",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "61e3cf65-93b0-4705-ba4d-a48879fdebf7"
+    },
+    {
+        "is_default": true,
+        "isdeleted": false,
+        "address": "No. 255,New Tsunami Nagar",
+        "city": "cuddalore District",
+        "email": null,
+        "landmark": "Maingi Mahal, Anykaran thottam",
+        "mobile": null,
+        "name": "Dhanalakshmi ",
+        "pincode": "607003",
+        "save_address_as": "Home",
+        "state": "thamilnadu",
+        "created_at": "2025-05-05T04:00:24.213823",
+        "updated_at": "2025-05-05T04:00:24.213823",
+        "id": "182a0e28-4401-4144-83d2-19eb14a3ee4e",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "8dedeaf1-0352-4d2f-b513-90a48476c975"
+    },
+    {
+        "is_default": true,
+        "isdeleted": false,
+        "address": "KONDANKADU  PANCHANATHIKULAM WEST ",
+        "city": "Nagapattinam",
+        "email": null,
+        "landmark": "VICTORY SCHOOL ",
+        "mobile": null,
+        "name": "senthilkumar vimala",
+        "pincode": "614714",
+        "save_address_as": "Home",
+        "state": "Tamilnadu",
+        "created_at": "2025-05-05T12:56:29.360907",
+        "updated_at": "2025-05-05T12:56:29.360907",
+        "id": "aa53b12f-0df4-4074-9b74-d9aa09e1cf47",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "57be9c85-9d67-43a9-9776-f94527ff5f72"
     }
 ]

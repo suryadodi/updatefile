@@ -11625,5 +11625,27 @@
         "id": "26f89cc8-a628-4b74-8f01-be95cc1711d9",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "34070dd0-9e3c-4161-abe4-204efb82ba0b"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi sister",
+        "created_at": "2025-05-05T02:44:48.13825",
+        "id": "9b5aa9b7-7876-42a9-b2fa-b0f92255c8d1",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "8dedeaf1-0352-4d2f-b513-90a48476c975"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "Hi Mam",
+        "created_at": "2025-05-05T20:11:13.374978",
+        "id": "b26052af-97c3-453b-9f79-e34552719d89",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2ccd5ac4-accf-4a8a-bf65-042beb82f0fe"
     }
 ]
