@@ -47536,5 +47536,41 @@
         "id": "eabf684d-05fe-4b43-bbe7-d74fef571bae",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user": "79d23cdc-90b7-4f1c-ba01-214d442e78d2"
+    },
+    {
+        "is_default": true,
+        "isdeleted": false,
+        "address": "63 North Street Mealkangeyankuppam",
+        "city": "Panruti",
+        "email": null,
+        "landmark": "Angalamman Koil Street",
+        "mobile": null,
+        "name": "Dhanasundari",
+        "pincode": "607805",
+        "save_address_as": "Home",
+        "state": "Tamil Nadu",
+        "created_at": "2025-05-10T02:10:09.892846",
+        "updated_at": "2025-05-10T02:10:09.892846",
+        "id": "3d4ee607-cb39-4ff2-be22-e5dc070519d2",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "3892d22e-cba1-4831-91e3-ac3be8986eb4"
+    },
+    {
+        "is_default": false,
+        "isdeleted": false,
+        "address": "D Perumalpalayam",
+        "city": "Salem",
+        "email": null,
+        "landmark": "Baby School Opposite",
+        "mobile": null,
+        "name": "manju ",
+        "pincode": "636122",
+        "save_address_as": "Home",
+        "state": "Tamilnadu ",
+        "created_at": "2025-05-10T07:08:28.172571",
+        "updated_at": "2025-05-10T07:09:08.250879",
+        "id": "47c43d26-f4e3-48e2-8819-268d0414f1b0",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user": "f3ca855c-e4be-4045-a2c9-bea05cb0d498"
     }
 ]
