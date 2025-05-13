@@ -11691,5 +11691,49 @@
         "id": "679e915a-0f12-46ca-ba6d-8c591a685f78",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "3229e526-eb46-49b2-89cb-69b517ed7540"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "hi mam",
+        "created_at": "2025-05-12T06:19:35.396295",
+        "id": "b6ee1635-1bc6-401b-9e5b-e662dd75a47d",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2a795c73-9297-4980-8428-0aef9adc8423"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "new collection saree poduga mam",
+        "created_at": "2025-05-12T06:19:53.489698",
+        "id": "4c46147f-a5df-4696-b67c-07ceb5e1bc24",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2a795c73-9297-4980-8428-0aef9adc8423"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "patha saree designs than eruku ethula new collection",
+        "created_at": "2025-05-12T06:21:13.03437",
+        "id": "3ec11927-94d9-4a14-ae63-508cd6f3ecb0",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2a795c73-9297-4980-8428-0aef9adc8423"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "update panuga mam",
+        "created_at": "2025-05-12T06:21:33.615886",
+        "id": "1a4234d5-b2c2-4c36-9945-33c341a905cb",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "2a795c73-9297-4980-8428-0aef9adc8423"
     }
 ]
