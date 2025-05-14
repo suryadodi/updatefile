@@ -11735,5 +11735,16 @@
         "id": "1a4234d5-b2c2-4c36-9945-33c341a905cb",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
         "user_id": "2a795c73-9297-4980-8428-0aef9adc8423"
+    },
+    {
+        "is_admin": false,
+        "is_deleted": false,
+        "resolved": true,
+        "un_read": true,
+        "message": "new offers",
+        "created_at": "2025-05-13T15:10:13.652882",
+        "id": "5bbc3f0d-e909-46b1-a02c-e714ed006cc0",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a",
+        "user_id": "38341bbc-6d52-4e8c-b2e4-8ba6989075d6"
     }
 ]
