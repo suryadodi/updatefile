@@ -111986,22 +111986,6 @@
     {
         "isdeleted": false,
         "date_of_birth": null,
-        "email": "parvathi8189991336@gmail.com",
-        "gender": null,
-        "image": null,
-        "mobile": "8189991336",
-        "name": "parvathi",
-        "password": null,
-        "user_type": "users",
-        "created_at": "2025-05-10T16:05:54.309226",
-        "updated_at": "2025-05-10T16:05:58.919126",
-        "address_id": null,
-        "id": "872e6925-c3a8-4ac5-9317-2605281b33be",
-        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
-    },
-    {
-        "isdeleted": false,
-        "date_of_birth": null,
         "email": "murugan9786990088@gmail.com",
         "gender": null,
         "image": null,
@@ -112269,6 +112253,22 @@
         "updated_at": "2025-05-13T07:29:34.177707",
         "address_id": null,
         "id": "2ae2e816-314b-41eb-b6ab-1d0825742376",
+        "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
+    },
+    {
+        "isdeleted": false,
+        "date_of_birth": "1996-05-24",
+        "email": "parvathi8189991336@gmail.com",
+        "gender": "Female",
+        "image": null,
+        "mobile": "8189991336",
+        "name": "parvathi",
+        "password": null,
+        "user_type": "users",
+        "created_at": "2025-05-10T16:05:54.309226",
+        "updated_at": "2025-05-17T10:18:07.170408",
+        "address_id": null,
+        "id": "872e6925-c3a8-4ac5-9317-2605281b33be",
         "shop_id": "c0554ffb-8e3a-4ce4-bb3b-d345873e061a"
     }
 ]
